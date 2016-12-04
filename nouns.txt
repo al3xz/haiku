@@ -1,17 +1,17 @@
 chicken 2 fearful 2 stupid 2 delicious 3 feathered 3
-sparrow 2 tiny 2 graceful 2 feathered 3
-carrot 2 delicious 3 orange 3 vegetable 4
+sparrow 2 tiny 2 graceful 2 feathered 3 brown 1
+carrot 2 delicious 3 orange 3 vegetable 4 orange 1
 cat 1 cuddly 2 graceful 2 furred 1
-tree 1 tall 1 strong 1 armoured 3 pine 1
-armadillo 4 armoured 3 tiny 2 scaled 2
-snake 1 scaled 2 deceitful 3 venemous 3
-teddy-bear 3 cuddly 2 furred 1 soft 1
-mouse 1 fearful 2 graceful 2 furred 1 tiny 2
-building 2 tall 1 strong 1 massive 2
-elephant 3 massive 2 strong 1 fearful 2
+tree 1 tall 1 strong 1 armoured 3 pine 1 green 1
+armadillo 4 armoured 3 tiny 2 scaled 2 grey 1
+snake 1 scaled 2 deceitful 3 venemous 3 green 1
+teddy-bear 3 cuddly 2 furred 1 soft 1 brown 1
+mouse 1 fearful 2 graceful 2 furred 1 tiny 2 grey 1
+building 2 tall 1 strong 1 massive 2 grey 1
+elephant 3 massive 2 strong 1 fearful 2 grey 1
 sugar 2 sweet 1 tiny 1 white 1
 snow 1 white 1 cold 1 pure 1
 angel 2 pure 1 white 1 graceful 2 feathered 3 joyful 2
-christmas 2 joyful 2 white 1 pine 1
+christmas 2 joyful 2 white 1 pine 1 green 1 red 1
 king's-uncle-with-poison 6 joyful 2 venemous 3 gold 1
 money 2 gold 1 cold 1 shiny 2
