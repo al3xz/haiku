@@ -5,6 +5,8 @@ from HaikuAgent import HaikuAgent
 from MetaHaikuEnvironment import MetaHaikuEnvironment
 import os
 
+NUMBER_METAPHOR_AGENTS = 20
+NUMBER_HAIKU_AGENTS = 5
 
 def filter_nouns(nouns):
     at_least_two_adjs = []
@@ -41,6 +43,7 @@ if __name__ == "__main__":
         Word('this', 1),
         Word('there', 1),
         Word('of', 1),
+        Word('like', 1),
     ]
 
     with open(os.getcwd() + '/nouns_dorian.txt', 'r') as f:
@@ -56,7 +59,8 @@ if __name__ == "__main__":
 
     for i in range(0, 20):
         MetaphorAgent(env, nouns)
-    HaikuAgent(env, nouns, fillers)
+    for i in range(0, 5):
+        HaikuAgent(env, nouns, fillers)
 
     sim = Simulation(env, log_folder='logs', callback=env.vote)
     sim.async_steps(500)

@@ -19,7 +19,7 @@ class MetaphorAgent(CreativeAgent):
     async def act(self):
         if len(self.env.artifacts) > 0:
             # memorize the most recent artifact.  Agents will distinguish themselves once they start forgetting
-            for winner in self.env.artifacts[-self.env.num_metaphors_accepted_per_round:-0]:
+            for winner in self.env.artifacts[(-self.env.num_metaphors_accepted_per_round - 1):-1]:
                 self.memory.memorize(winner.obj)
 
         metaphor = self.invent()

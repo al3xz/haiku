@@ -87,14 +87,19 @@ class Metaphor:
 
 
 class Haiku:
-    def __init__(self, topic, line_1, line_2, line_3):
+    def __init__(self, topic, line_1, line_2, line_3, metaphors_used):
         self.topic = topic
         self.line_1 = line_1
         self.line_2 = line_2
         self.line_3 = line_3
+        self.guessed_by = 0
+        self.metaphors_used = metaphors_used
 
     def __str__(self):
         line_1_str = " ".join([word.word for word in self.line_1])
         line_2_str = " ".join([word.word for word in self.line_2])
         line_3_str = " ".join([word.word for word in self.line_3])
         return "\n".join([self.topic.word.upper() + ':\n', line_1_str, line_2_str, line_3_str])
+
+    def get_str_metadata(self):
+        return "\n".join(["Guessed by {}".format(self.guessed_by), "{} metaphors used".format(self.metaphors_used)])

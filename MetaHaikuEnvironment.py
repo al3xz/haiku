@@ -42,6 +42,11 @@ class MetaHaikuEnvironment(Environment):
             for vote in votes:
                 haiku_scores[vote[0]] += vote[1] / len(haiku_agents)
 
+        # Penalty for being easily guessable by everyone
+        for haiku, score in haiku_scores.items():
+            if haiku.obj.guessed_by > 0.9 * len(haiku_agents):
+                haiku_scores[haiku] /= 2
+
         if len(metaphor_candidates) >= self.num_metaphors_accepted_per_round:
             winning_metaphors = sorted(metaphor_scores, key=metaphor_scores.get, reverse=True)[0:self.num_metaphors_accepted_per_round]
             for metaphor in winning_metaphors:
@@ -52,5 +57,6 @@ class MetaHaikuEnvironment(Environment):
             winning_haiku = sorted(haiku_scores, key=haiku_scores.get, reverse=True)[0]
             self.haikus.append(winning_haiku)
             logger.info(str(winning_haiku.obj))
+            logger.info(winning_haiku.obj.get_str_metadata())
 
         self.clear_candidates()
