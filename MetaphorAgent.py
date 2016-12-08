@@ -10,16 +10,17 @@ class MetaphorAgent(CreativeAgent):
         self.nouns = nouns
         self.memory = MetaphorMemory(mem_cap)
 
-    SHARED_SCORE_EVAL_WEIGHT = 5
-    NOUN_SCORE_EVAL_WEIGHT = 2
-    ADJ_SCORE_EVAL_WEIGHT = 1
+    SHARED_SCORE_EVAL_WEIGHT = 1
+    NOUN_SCORE_EVAL_WEIGHT = 0
+    ADJ_SCORE_EVAL_WEIGHT = 0
 
     INVENT_TRIES = 10
 
     async def act(self):
         if len(self.env.artifacts) > 0:
             # memorize the most recent artifact.  Agents will distinguish themselves once they start forgetting
-            self.memory.memorize(self.env.artifacts[-1].obj)
+            for winner in self.env.artifacts[-self.env.num_metaphors_accepted_per_round:-0]:
+                self.memory.memorize(winner.obj)
 
         metaphor = self.invent()
         if metaphor is not None:

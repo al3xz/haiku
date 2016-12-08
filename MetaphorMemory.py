@@ -44,6 +44,14 @@ class MetaphorMemory:
     def forget(self, metaphor):
         self._metaphors[metaphor.noun_1][metaphor.noun_2].remove(metaphor)
         self._metaphors[metaphor.noun_2][metaphor.noun_1].remove(metaphor)
+        # if the list is empty remove the key
+        if not self._metaphors[metaphor.noun_1][metaphor.noun_2]:
+            del self._metaphors[metaphor.noun_1][metaphor.noun_2]
+            del self._metaphors[metaphor.noun_2][metaphor.noun_1]
+        if len(self._metaphors[metaphor.noun_1]) == 0:
+            del self._metaphors[metaphor.noun_1]
+        if len(self._metaphors[metaphor.noun_2]) == 0:
+            del self._metaphors[metaphor.noun_2]
         self._adjective_counts[metaphor.adjective] -= 1
 
     def memorize(self, metaphor):

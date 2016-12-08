@@ -15,10 +15,12 @@ class HaikuAgent(CreativeAgent):
             self.env.add_candidate(haiku)
 
     def generate(self):
-        topic = random.choice(self.nouns)
-        nouns, adjectives = self.get_applicable(topic)
-        if len(nouns) == 0:
+        existing_metaphors = self.env.artifacts
+        known_topics = set([art.obj.noun_1 for art in existing_metaphors] + [art.obj.noun_2 for art in existing_metaphors])
+        if len(known_topics) == 0:
             return None
+        topic = random.choice(list(known_topics))
+        nouns, adjectives = self.get_applicable(topic)
         line_1 = self.write_line(5, nouns, adjectives)
         line_2 = self.write_line(7, nouns, adjectives)
         line_3 = self.write_line(5, nouns, adjectives)

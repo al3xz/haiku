@@ -89,21 +89,24 @@ def process_sentences(sentences):
 
 if __name__ == "__main__":
 
-    file_name = 'nouns_experimental.txt'
+    file_name = 'nouns_dorian.txt'
 
     # Get all files
     alice = get_file()
     looking_glass = get_file('looking_glass.txt','http://www.gutenberg.org/files/12/12-0.txt')
     dickens = get_file('dickens.txt', "https://www.gutenberg.org/files/580/580-0.txt")
+    dorian = get_file('dorian_gray.txt', "http://www.gutenberg.org/cache/epub/174/pg174.txt")
 
     # Process all files
-    sentences = nltk.tokenize.sent_tokenize(alice)
+    sentences = nltk.tokenize.sent_tokenize(dorian)
     process_sentences(sentences)
-    sentences = nltk.tokenize.sent_tokenize(looking_glass)
-    process_sentences(sentences)
-    # TODO: may be Dickens is not for haikus
-    sentences = nltk.tokenize.sent_tokenize(dickens)
-    process_sentences(sentences)
+    # sentences = nltk.tokenize.sent_tokenize(alice)
+    # process_sentences(sentences)
+    # sentences = nltk.tokenize.sent_tokenize(looking_glass)
+    # process_sentences(sentences)
+    # # TODO: may be Dickens is not for haikus
+    # sentences = nltk.tokenize.sent_tokenize(dickens)
+    # process_sentences(sentences)
 
     # Write the file with nouns and adjectives out
     with open(file_name, 'w') as f:
@@ -111,7 +114,7 @@ if __name__ == "__main__":
             try:
                 line = noun + " " + str(nsyl(noun))
                 for adj in nouns[noun]:
-                    line += " "  + adj + " " + str(nsyl(adj))
+                    line += " " + adj + " " + str(nsyl(adj))
             except:
                 continue
             # print(line)

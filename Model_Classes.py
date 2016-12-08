@@ -43,6 +43,10 @@ class Noun(Word):
     def __str__(self):
         return str(self.word)
 
+    def full_string(self):
+        return "{}: {}".format(str(self.word), " ".join([str(adj) for adj in self.adjectives]))
+
+
     @staticmethod
     def parse(text):
         parts = text.split(' ')

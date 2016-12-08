@@ -6,6 +6,25 @@ from MetaHaikuEnvironment import MetaHaikuEnvironment
 import os
 
 
+def filter_nouns(nouns):
+    at_least_two_adjs = []
+    for noun in nouns:
+        if len(noun.adjectives) > 1:
+            at_least_two_adjs += [noun]
+
+    matched = []
+    for noun in at_least_two_adjs:
+        matched_this = False
+        for other_noun in at_least_two_adjs:
+            if matched_this:
+                break
+            for adj in other_noun.adjectives:
+                if adj in noun.adjectives:
+                    matched += [noun]
+                    matched_this = True
+                    break
+    return matched
+
 if __name__ == "__main__":
     fillers = [
         Word('is', 1),
@@ -15,17 +34,25 @@ if __name__ == "__main__":
         Word('how', 1),
         Word('grows', 1),
         Word('finds', 1),
-        Word('leaves', 1),
+        Word('flees', 1),
         Word('looms', 1),
         Word('rises', 1),
         Word('yo', 1),
+        Word('this', 1),
+        Word('there', 1),
+        Word('of', 1),
     ]
 
-    with open(os.getcwd() + '/nouns.txt', 'r') as f:
+    with open(os.getcwd() + '/nouns_dorian.txt', 'r') as f:
         lines = f.readlines()
     nouns = [Noun.parse(line) for line in lines]
 
+    nouns = filter_nouns(nouns)
+    for noun in nouns[0:200]:
+        print(noun.full_string())
+
     env = MetaHaikuEnvironment.create(('localhost', 5555))
+    env.num_metaphors_accepted_per_round = 5
 
     for i in range(0, 20):
         MetaphorAgent(env, nouns)
