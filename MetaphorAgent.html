@@ -1,0 +1,153 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>MetaphorAgent module &#8212; metahaiku 0.1 documentation</title>
+    
+    <link rel="stylesheet" href="_static/alabaster.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '0.1',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true,
+        SOURCELINK_SUFFIX: '.txt'
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+   
+  <link rel="stylesheet" href="_static/custom.css" type="text/css" />
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  </head>
+  <body role="document">
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <div class="section" id="module-MetaphorAgent">
+<span id="metaphoragent-module"></span><h1>MetaphorAgent module<a class="headerlink" href="#module-MetaphorAgent" title="Permalink to this headline">¶</a></h1>
+<dl class="class">
+<dt id="MetaphorAgent.MetaphorAgent">
+<em class="property">class </em><code class="descclassname">MetaphorAgent.</code><code class="descname">MetaphorAgent</code><span class="sig-paren">(</span><em>env</em>, <em>nouns</em>, <em>mem_cap=100</em><span class="sig-paren">)</span><a class="headerlink" href="#MetaphorAgent.MetaphorAgent" title="Permalink to this definition">¶</a></dt>
+<dd><p>Bases: <code class="xref py py-class docutils literal"><span class="pre">creamas.core.agent.CreativeAgent</span></code></p>
+<dl class="attribute">
+<dt id="MetaphorAgent.MetaphorAgent.ADJ_SCORE_EVAL_WEIGHT">
+<code class="descname">ADJ_SCORE_EVAL_WEIGHT</code><em class="property"> = 0</em><a class="headerlink" href="#MetaphorAgent.MetaphorAgent.ADJ_SCORE_EVAL_WEIGHT" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="attribute">
+<dt id="MetaphorAgent.MetaphorAgent.INVENT_TRIES">
+<code class="descname">INVENT_TRIES</code><em class="property"> = 10</em><a class="headerlink" href="#MetaphorAgent.MetaphorAgent.INVENT_TRIES" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="attribute">
+<dt id="MetaphorAgent.MetaphorAgent.NOUN_SCORE_EVAL_WEIGHT">
+<code class="descname">NOUN_SCORE_EVAL_WEIGHT</code><em class="property"> = 0</em><a class="headerlink" href="#MetaphorAgent.MetaphorAgent.NOUN_SCORE_EVAL_WEIGHT" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="attribute">
+<dt id="MetaphorAgent.MetaphorAgent.SHARED_SCORE_EVAL_WEIGHT">
+<code class="descname">SHARED_SCORE_EVAL_WEIGHT</code><em class="property"> = 1</em><a class="headerlink" href="#MetaphorAgent.MetaphorAgent.SHARED_SCORE_EVAL_WEIGHT" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt id="MetaphorAgent.MetaphorAgent.act">
+<code class="descname">act</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#MetaphorAgent.MetaphorAgent.act" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt id="MetaphorAgent.MetaphorAgent.count_noun_metaphors">
+<code class="descname">count_noun_metaphors</code><span class="sig-paren">(</span><em>noun</em>, <em>shared_noun</em><span class="sig-paren">)</span><a class="headerlink" href="#MetaphorAgent.MetaphorAgent.count_noun_metaphors" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt id="MetaphorAgent.MetaphorAgent.eval_metaphor">
+<code class="descname">eval_metaphor</code><span class="sig-paren">(</span><em>metaphor</em><span class="sig-paren">)</span><a class="headerlink" href="#MetaphorAgent.MetaphorAgent.eval_metaphor" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt id="MetaphorAgent.MetaphorAgent.evaluate">
+<code class="descname">evaluate</code><span class="sig-paren">(</span><em>artifact</em><span class="sig-paren">)</span><a class="headerlink" href="#MetaphorAgent.MetaphorAgent.evaluate" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt id="MetaphorAgent.MetaphorAgent.generate">
+<code class="descname">generate</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#MetaphorAgent.MetaphorAgent.generate" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt id="MetaphorAgent.MetaphorAgent.invent">
+<code class="descname">invent</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#MetaphorAgent.MetaphorAgent.invent" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+</dd></dl>
+
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper"><div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="index.html">Documentation overview</a><ul>
+  </ul></li>
+</ul>
+</div>
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="_sources/MetaphorAgent.rst.txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div>
+<div id="searchbox" style="display: none" role="search">
+  <h3>Quick search</h3>
+    <form class="search" action="search.html" method="get">
+      <div><input type="text" name="q" /></div>
+      <div><input type="submit" value="Go" /></div>
+      <input type="hidden" name="check_keywords" value="yes" />
+      <input type="hidden" name="area" value="default" />
+    </form>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &copy;2016, Devin Denis, Aleksandr Zavodovski, Sardana Ivanova.
+      
+      |
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 1.5</a>
+      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.9</a>
+      
+      |
+      <a href="_sources/MetaphorAgent.rst.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>
