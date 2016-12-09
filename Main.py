@@ -8,6 +8,7 @@ import os
 NUMBER_METAPHOR_AGENTS = 20
 NUMBER_HAIKU_AGENTS = 5
 
+
 def filter_nouns(nouns):
     at_least_two_adjs = []
     for noun in nouns:
