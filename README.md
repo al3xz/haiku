@@ -75,6 +75,7 @@ that indicates the haiku might be too obvious.  To represent this, a penalty is 
 more of the HaikuAgents guessed the haiku on their first try.
 
 ## Implementation <a name="implement"></a>
+The code documentation can be located on [https://al3xz.github.io/haiku/](https://al3xz.github.io/haiku/)
 
 ### Metaphor Agent <a name="metaphoragent"></a>
 
