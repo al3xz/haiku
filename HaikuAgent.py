@@ -44,9 +44,10 @@ class HaikuAgent(CreativeAgent):
     def generate(self):
         """
         The HaikuAgent generates a new haiku, drawing on the metaphors in its memory.  This includes three steps.
-        - pick a topic noun from a random metaphor in memory
-        - compile a list of nouns and adjectives linked to the topic by searching the metaphor memory
-        - generate three lines of text with the appropriate syllable counts by picking from the filler words, nouns, and adjectives
+
+        * pick a topic noun from a random metaphor in memory
+        * compile a list of nouns and adjectives linked to the topic by searching the metaphor memory
+        * generate three lines of text with the appropriate syllable counts by picking from the filler words, nouns, and adjectives
 
         :return: a new :class:'Haiku'
         """
@@ -63,10 +64,11 @@ class HaikuAgent(CreativeAgent):
     def write_line(self, length, nouns, adjectives):
         """
         Generates a line of text with the desired syllable count using the given nouns and adjectives.  The process is:
-        - randomly select whether the next word will be filler (1/5 chance), noun (2/5), or adjective (2/5)
-        - randomly select the specific word from the appropriate list and add it to the line.  Update the syllable count.
-        - if the syllable count is greater than the desired amount, delete the last word and add filler words until the count is correct
-        - else repeat
+
+        * randomly select whether the next word will be filler (1/5 chance), noun (2/5), or adjective (2/5)
+        * randomly select the specific word from the appropriate list and add it to the line.  Update the syllable count.
+        * if the syllable count is greater than the desired amount, delete the last word and add filler words until the count is correct
+        * else repeat
 
         :param length: the desired number of syllables
         :type length: int
