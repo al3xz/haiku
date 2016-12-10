@@ -10,6 +10,14 @@ NUMBER_HAIKU_AGENTS = 5
 
 
 def filter_nouns(nouns):
+    """
+    Filter out nouns which meet either of the following requirements:
+    - fewer than two adjectives
+    - no other nouns with a common adjective
+
+    :param nouns: the list of nouns
+    :return: the filtered list of nouns
+    """
     at_least_two_adjs = []
     for noun in nouns:
         if len(noun.adjectives) > 1:

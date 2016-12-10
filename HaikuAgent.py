@@ -5,9 +5,21 @@ import random
 
 
 class HaikuAgent(CreativeAgent):
-    def __init__(self, env, nouns, fillers, mem_cap=500):
+    """
+    This class is a type of CreativeAgent which generates and evaluates haiku artifacts.
+
+    Attributes:
+        GUESS_SCORE_WEIGHT    The weight given to the guess-ability of a haiku when evaluating that haiku
+        WORD_VARIETY_WEIGHT   The weight given to the word variety of a haiku when evaluating that haiku
+    """
+
+    def __init__(self, env, fillers, mem_cap=500):
+        """
+        :param env (Environment): the creamas environment the agent will operate in
+        :param fillers (list of :class:'Word'): a list of filler words which can appear in any haiku
+        :param mem_cap (int): the number of metaphors the agent will keep in its memory before it starts forgetting them at random
+        """
         super().__init__(env)
-        self.nouns = nouns
         self.fillers = fillers
         self.memory = MetaphorMemory(mem_cap)
 
@@ -15,6 +27,10 @@ class HaikuAgent(CreativeAgent):
     WORD_VARIETY_WEIGHT = 1
 
     async def act(self):
+        """
+        Each simulation round, the HaikuAgent memorizes the metaphor winners from last round, then generates a
+        new :class:'Haiku' and enters it as a candidate.
+        """
         if len(self.env.artifacts) > 0:
             # memorize the most recent artifact.  Agents will distinguish themselves once they start forgetting
             for winner in self.env.artifacts[(-self.env.num_metaphors_accepted_per_round - 1):-1]:
@@ -25,6 +41,13 @@ class HaikuAgent(CreativeAgent):
             self.env.add_candidate(haiku)
 
     def generate(self):
+        """
+        The HaikuAgent generates a new haiku, drawing on the metaphors in its memory.  This includes three steps.
+        - pick a topic noun from a random metaphor in memory
+        - compile a list of nouns and adjectives linked to the topic by searching the metaphor memory
+        - generate three lines of text with the appropriate syllable counts by picking from the filler words, nouns, and adjectives
+        :return: a new :class:'Haiku'
+        """
         known_topics = self.memory.metaphor_lookup.keys()
         if len(known_topics) == 0:
             return None
@@ -36,6 +59,17 @@ class HaikuAgent(CreativeAgent):
         return Artifact(self, Haiku(topic, line_1, line_2, line_3, max(len(nouns), len(adjectives))), domain=Haiku)
 
     def write_line(self, length, nouns, adjectives):
+        """
+        Generates a line of text with the desired syllable count using the given nouns and adjectives.  The process is:
+        - randomly select whether the next word will be filler (1/5 chance), noun (2/5), or adjective (2/5)
+        - randomly select the specific word from the appropriate list and add it to the line.  Update the syllable count.
+        - if the syllable count is greater than the desired amount, delete the last word and add filler words until the count is correct
+        - else repeat
+        :param length (int): the desired number of syllables
+        :param nouns (list of :class:'Noun'): the list of nouns to choose from
+        :param adjectives( list of :class:'Word'): the list of adjectives to choose from
+        :return (str): a line of text with the appropriate number of syllables
+        """
         line = []
         sylla_count = 0
         while sylla_count < length:
@@ -56,6 +90,12 @@ class HaikuAgent(CreativeAgent):
         return line
 
     def get_applicable(self, topic):
+        """
+        Search for nouns and adjectives linked to the given topic noun by metaphors in the memory.  Nouns are chose if they
+        share a metaphor with the topic.  Adjectives are chosen if a metaphor involving the topic uses them.
+        :param topic (:class:'Noun'): The topic noun
+        :return (list of :class:'Noun', list of class:'Word'): a tuple containing the lists of applicable nouns and adjectives
+        """
         if len(self.memory.metaphor_lookup) == 0:
             return [], []
         applicable_nouns = list(self.memory.metaphor_lookup[topic].keys())
@@ -65,6 +105,21 @@ class HaikuAgent(CreativeAgent):
         return applicable_nouns, applicable_adjectives
 
     def evaluate(self, artifact):
+        """
+        Evaluate a :class:'Haiku' by computing guess and word variety scores and returning their weighted sum.
+
+        Word variety is calculated as (unique words / total words)
+
+        Guesses are created by searching the metaphor memory for nouns which share a metaphor with nouns in the :class:'Haiku' and making a list.
+        For adjectives, all nouns for which there is a metaphor in memory using that adjective are added to the list.  If a noun is added
+        multiple times during the noun and adjective search, it gets a higher score.  The top 3 scores are the guesses.
+
+        Guess score is 1.0 for a first guess,  0.4 for a second guess, and 0.1 for a third guess.
+
+        Weights for the guess score and word variety score are class attributes of HaikuAgent.
+        :param artifact: the artifact to be evaluated.  The domain should be :class:'Haiku'.
+        :return (int, bool): A tuple containing the score for the artifact and a boolean indicating whether the first guess was correct for framing.
+        """
         haiku = artifact.obj
         haiku_content = haiku.line_1 + haiku.line_2 + haiku.line_3
 
