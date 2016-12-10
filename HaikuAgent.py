@@ -10,6 +10,7 @@ class HaikuAgent(CreativeAgent):
 
     Attributes:
         GUESS_SCORE_WEIGHT    The weight given to the guess-ability of a haiku when evaluating that haiku
+
         WORD_VARIETY_WEIGHT   The weight given to the word variety of a haiku when evaluating that haiku
     """
 
@@ -46,6 +47,7 @@ class HaikuAgent(CreativeAgent):
         - pick a topic noun from a random metaphor in memory
         - compile a list of nouns and adjectives linked to the topic by searching the metaphor memory
         - generate three lines of text with the appropriate syllable counts by picking from the filler words, nouns, and adjectives
+
         :return: a new :class:'Haiku'
         """
         known_topics = self.memory.metaphor_lookup.keys()
@@ -65,10 +67,14 @@ class HaikuAgent(CreativeAgent):
         - randomly select the specific word from the appropriate list and add it to the line.  Update the syllable count.
         - if the syllable count is greater than the desired amount, delete the last word and add filler words until the count is correct
         - else repeat
-        :param length (int): the desired number of syllables
-        :param nouns (list of :class:'Noun'): the list of nouns to choose from
-        :param adjectives( list of :class:'Word'): the list of adjectives to choose from
-        :return (str): a line of text with the appropriate number of syllables
+
+        :param length: the desired number of syllables
+        :type length: int
+        :param nouns: the list of nouns to choose from
+        :type nouns: list of :class:'Noun'
+        :param adjectives: the list of adjectives to choose from
+        :type adjectives: list of :class:'Word'
+        :return: a line of text with the appropriate number of syllables
         """
         line = []
         sylla_count = 0
@@ -93,8 +99,10 @@ class HaikuAgent(CreativeAgent):
         """
         Search for nouns and adjectives linked to the given topic noun by metaphors in the memory.  Nouns are chose if they
         share a metaphor with the topic.  Adjectives are chosen if a metaphor involving the topic uses them.
-        :param topic (:class:'Noun'): The topic noun
-        :return (list of :class:'Noun', list of class:'Word'): a tuple containing the lists of applicable nouns and adjectives
+
+        :param topic: The topic noun
+        :type topic: :class:'Noun'
+        :return: a tuple containing the lists of applicable nouns and adjectives
         """
         if len(self.memory.metaphor_lookup) == 0:
             return [], []
@@ -117,8 +125,9 @@ class HaikuAgent(CreativeAgent):
         Guess score is 1.0 for a first guess,  0.4 for a second guess, and 0.1 for a third guess.
 
         Weights for the guess score and word variety score are class attributes of HaikuAgent.
+
         :param artifact: the artifact to be evaluated.  The domain should be :class:'Haiku'.
-        :return (int, bool): A tuple containing the score for the artifact and a boolean indicating whether the first guess was correct for framing.
+        :return: A tuple containing the score for the artifact and a boolean indicating whether the first guess was correct for framing.
         """
         haiku = artifact.obj
         haiku_content = haiku.line_1 + haiku.line_2 + haiku.line_3
