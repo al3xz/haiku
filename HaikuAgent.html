@@ -26,6 +26,8 @@
     <script type="text/javascript" src="_static/doctools.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Main module" href="Main.html" />
+    <link rel="prev" title="Welcome to metahaiku’s documentation!" href="index.html" />
    
   <link rel="stylesheet" href="_static/custom.css" type="text/css" />
   
@@ -45,8 +47,15 @@
 <span id="haikuagent-module"></span><h1>HaikuAgent module<a class="headerlink" href="#module-HaikuAgent" title="Permalink to this headline">¶</a></h1>
 <dl class="class">
 <dt id="HaikuAgent.HaikuAgent">
-<em class="property">class </em><code class="descclassname">HaikuAgent.</code><code class="descname">HaikuAgent</code><span class="sig-paren">(</span><em>env</em>, <em>nouns</em>, <em>fillers</em>, <em>mem_cap=500</em><span class="sig-paren">)</span><a class="headerlink" href="#HaikuAgent.HaikuAgent" title="Permalink to this definition">¶</a></dt>
+<em class="property">class </em><code class="descclassname">HaikuAgent.</code><code class="descname">HaikuAgent</code><span class="sig-paren">(</span><em>env</em>, <em>fillers</em>, <em>mem_cap=500</em><span class="sig-paren">)</span><a class="headerlink" href="#HaikuAgent.HaikuAgent" title="Permalink to this definition">¶</a></dt>
 <dd><p>Bases: <code class="xref py py-class docutils literal"><span class="pre">creamas.core.agent.CreativeAgent</span></code></p>
+<p>This class is a type of CreativeAgent which generates and evaluates haiku artifacts.</p>
+<dl class="docutils">
+<dt>Attributes:</dt>
+<dd><p class="first">GUESS_SCORE_WEIGHT    The weight given to the guess-ability of a haiku when evaluating that haiku</p>
+<p class="last">WORD_VARIETY_WEIGHT   The weight given to the word variety of a haiku when evaluating that haiku</p>
+</dd>
+</dl>
 <dl class="attribute">
 <dt id="HaikuAgent.HaikuAgent.GUESS_SCORE_WEIGHT">
 <code class="descname">GUESS_SCORE_WEIGHT</code><em class="property"> = 1</em><a class="headerlink" href="#HaikuAgent.HaikuAgent.GUESS_SCORE_WEIGHT" title="Permalink to this definition">¶</a></dt>
@@ -60,27 +69,95 @@
 <dl class="method">
 <dt id="HaikuAgent.HaikuAgent.act">
 <code class="descname">act</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#HaikuAgent.HaikuAgent.act" title="Permalink to this definition">¶</a></dt>
-<dd></dd></dl>
+<dd><p>Each simulation round, the HaikuAgent memorizes the metaphor winners from last round, then generates a
+new :class:&#8217;Haiku&#8217; and enters it as a candidate.</p>
+</dd></dl>
 
 <dl class="method">
 <dt id="HaikuAgent.HaikuAgent.evaluate">
 <code class="descname">evaluate</code><span class="sig-paren">(</span><em>artifact</em><span class="sig-paren">)</span><a class="headerlink" href="#HaikuAgent.HaikuAgent.evaluate" title="Permalink to this definition">¶</a></dt>
-<dd></dd></dl>
+<dd><p>Evaluate a :class:&#8217;Haiku&#8217; by computing guess and word variety scores and returning their weighted sum.</p>
+<p>Word variety is calculated as (unique words / total words)</p>
+<p>Guesses are created by searching the metaphor memory for nouns which share a metaphor with nouns in the :class:&#8217;Haiku&#8217; and making a list.
+For adjectives, all nouns for which there is a metaphor in memory using that adjective are added to the list.  If a noun is added
+multiple times during the noun and adjective search, it gets a higher score.  The top 3 scores are the guesses.</p>
+<p>Guess score is 1.0 for a first guess,  0.4 for a second guess, and 0.1 for a third guess.</p>
+<p>Weights for the guess score and word variety score are class attributes of HaikuAgent.</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Parameters:</th><td class="field-body"><strong>artifact</strong> &#8211; the artifact to be evaluated.  The domain should be :class:&#8217;Haiku&#8217;.</td>
+</tr>
+<tr class="field-even field"><th class="field-name">Returns:</th><td class="field-body">A tuple containing the score for the artifact and a boolean indicating whether the first guess was correct for framing.</td>
+</tr>
+</tbody>
+</table>
+</dd></dl>
 
 <dl class="method">
 <dt id="HaikuAgent.HaikuAgent.generate">
 <code class="descname">generate</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#HaikuAgent.HaikuAgent.generate" title="Permalink to this definition">¶</a></dt>
-<dd></dd></dl>
+<dd><p>The HaikuAgent generates a new haiku, drawing on the metaphors in its memory.  This includes three steps.</p>
+<ul class="simple">
+<li>pick a topic noun from a random metaphor in memory</li>
+<li>compile a list of nouns and adjectives linked to the topic by searching the metaphor memory</li>
+<li>generate three lines of text with the appropriate syllable counts by picking from the filler words, nouns, and adjectives</li>
+</ul>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Returns:</th><td class="field-body">a new :class:&#8217;Haiku&#8217;</td>
+</tr>
+</tbody>
+</table>
+</dd></dl>
 
 <dl class="method">
 <dt id="HaikuAgent.HaikuAgent.get_applicable">
 <code class="descname">get_applicable</code><span class="sig-paren">(</span><em>topic</em><span class="sig-paren">)</span><a class="headerlink" href="#HaikuAgent.HaikuAgent.get_applicable" title="Permalink to this definition">¶</a></dt>
-<dd></dd></dl>
+<dd><p>Search for nouns and adjectives linked to the given topic noun by metaphors in the memory.  Nouns are chose if they
+share a metaphor with the topic.  Adjectives are chosen if a metaphor involving the topic uses them.</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Parameters:</th><td class="field-body"><strong>topic</strong> (<em>:class:'Noun'</em>) &#8211; The topic noun</td>
+</tr>
+<tr class="field-even field"><th class="field-name">Returns:</th><td class="field-body">a tuple containing the lists of applicable nouns and adjectives</td>
+</tr>
+</tbody>
+</table>
+</dd></dl>
 
 <dl class="method">
 <dt id="HaikuAgent.HaikuAgent.write_line">
 <code class="descname">write_line</code><span class="sig-paren">(</span><em>length</em>, <em>nouns</em>, <em>adjectives</em><span class="sig-paren">)</span><a class="headerlink" href="#HaikuAgent.HaikuAgent.write_line" title="Permalink to this definition">¶</a></dt>
-<dd></dd></dl>
+<dd><p>Generates a line of text with the desired syllable count using the given nouns and adjectives.  The process is:</p>
+<ul class="simple">
+<li>randomly select whether the next word will be filler (1/5 chance), noun (2/5), or adjective (2/5)</li>
+<li>randomly select the specific word from the appropriate list and add it to the line.  Update the syllable count.</li>
+<li>if the syllable count is greater than the desired amount, delete the last word and add filler words until the count is correct</li>
+<li>else repeat</li>
+</ul>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Parameters:</th><td class="field-body"><ul class="first simple">
+<li><strong>length</strong> (<em>int</em>) &#8211; the desired number of syllables</li>
+<li><strong>nouns</strong> (<em>list of :class:'Noun'</em>) &#8211; the list of nouns to choose from</li>
+<li><strong>adjectives</strong> (<em>list of :class:'Word'</em>) &#8211; the list of adjectives to choose from</li>
+</ul>
+</td>
+</tr>
+<tr class="field-even field"><th class="field-name">Returns:</th><td class="field-body"><p class="first last">a line of text with the appropriate number of syllables</p>
+</td>
+</tr>
+</tbody>
+</table>
+</dd></dl>
 
 </dd></dl>
 
@@ -95,6 +172,8 @@
 <h3>Related Topics</h3>
 <ul>
   <li><a href="index.html">Documentation overview</a><ul>
+      <li>Previous: <a href="index.html" title="previous chapter">Welcome to metahaiku&#8217;s documentation!</a></li>
+      <li>Next: <a href="Main.html" title="next chapter">Main module</a></li>
   </ul></li>
 </ul>
 </div>

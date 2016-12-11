@@ -26,6 +26,8 @@
     <script type="text/javascript" src="_static/doctools.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="MetaphorMemory module" href="MetaphorMemory.html" />
+    <link rel="prev" title="MetaHaikuEnvironment module" href="MetaHaikuEnvironment.html" />
    
   <link rel="stylesheet" href="_static/custom.css" type="text/css" />
   
@@ -47,6 +49,15 @@
 <dt id="MetaphorAgent.MetaphorAgent">
 <em class="property">class </em><code class="descclassname">MetaphorAgent.</code><code class="descname">MetaphorAgent</code><span class="sig-paren">(</span><em>env</em>, <em>nouns</em>, <em>mem_cap=100</em><span class="sig-paren">)</span><a class="headerlink" href="#MetaphorAgent.MetaphorAgent" title="Permalink to this definition">¶</a></dt>
 <dd><p>Bases: <code class="xref py py-class docutils literal"><span class="pre">creamas.core.agent.CreativeAgent</span></code></p>
+<p>This class is a type of CreativeAgent which generates and evaluates metaphors.</p>
+<dl class="docutils">
+<dt>Attributes:</dt>
+<dd><p class="first">SHARED_SCORE_EVAL_WEIGHT    The weight given to the score for metaphors with both nouns in common used when evaluating a new metaphor</p>
+<p>NOUN_SCORE_EVAL_WEIGHT      The weight given to the score for metaphors with one noun in common used when evaluating a new metaphor</p>
+<p>ADJ_SCORE_EVAL_WEIGHT       The weight given to the score for metaphors with the adjective in common used when evaluating a new metaphor</p>
+<p class="last">INVENT_TRIES                The number of metaphors to generate and evaluate before submitting the best as a candidate</p>
+</dd>
+</dl>
 <dl class="attribute">
 <dt id="MetaphorAgent.MetaphorAgent.ADJ_SCORE_EVAL_WEIGHT">
 <code class="descname">ADJ_SCORE_EVAL_WEIGHT</code><em class="property"> = 0</em><a class="headerlink" href="#MetaphorAgent.MetaphorAgent.ADJ_SCORE_EVAL_WEIGHT" title="Permalink to this definition">¶</a></dt>
@@ -70,32 +81,103 @@
 <dl class="method">
 <dt id="MetaphorAgent.MetaphorAgent.act">
 <code class="descname">act</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#MetaphorAgent.MetaphorAgent.act" title="Permalink to this definition">¶</a></dt>
-<dd></dd></dl>
+<dd><p>Each simulation round, the MetaphorAgent memorizes the metaphor winners from last round, then invents a
+new :class:&#8217;Metaphor&#8217; and enters it as a candidate.</p>
+</dd></dl>
 
 <dl class="method">
 <dt id="MetaphorAgent.MetaphorAgent.count_noun_metaphors">
 <code class="descname">count_noun_metaphors</code><span class="sig-paren">(</span><em>noun</em>, <em>shared_noun</em><span class="sig-paren">)</span><a class="headerlink" href="#MetaphorAgent.MetaphorAgent.count_noun_metaphors" title="Permalink to this definition">¶</a></dt>
-<dd></dd></dl>
+<dd><p>Count the appearances of a noun in the metaphor memory.  Also count the number of metaphors which have the same other noun as the one given.</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Parameters:</th><td class="field-body"><ul class="first simple">
+<li><strong>noun</strong> (<em>:class:'Noun'</em>) &#8211; the noun to count</li>
+<li><strong>shared_noun</strong> (<em>:class:'Noun'</em>) &#8211; the other noun in the metaphor</li>
+</ul>
+</td>
+</tr>
+<tr class="field-even field"><th class="field-name">Returns:</th><td class="field-body"><p class="first last">a tuple including the metaphor counts for the single noun and for both nouns</p>
+</td>
+</tr>
+</tbody>
+</table>
+</dd></dl>
 
 <dl class="method">
 <dt id="MetaphorAgent.MetaphorAgent.eval_metaphor">
 <code class="descname">eval_metaphor</code><span class="sig-paren">(</span><em>metaphor</em><span class="sig-paren">)</span><a class="headerlink" href="#MetaphorAgent.MetaphorAgent.eval_metaphor" title="Permalink to this definition">¶</a></dt>
-<dd></dd></dl>
+<dd><p>Evaluate a metaphor by calculating four scores and taking their weighted sum.</p>
+<p>The first two scores are the noun scores.  One for each of the metaphor&#8217;s nouns.  These are returned by count_noun_metaphors(),
+and indicate the number of metaphors in memory which include the noun.</p>
+<p>The shared_count score is also returned by count_noun_metaphors(), and indicates the number of metaphors in memory which
+include both nouns in the metaphor being evaluated.</p>
+<p>The adjective score is indicates the number of metaphors in memory which use the same adjective as the metaphor being evaluated.</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Parameters:</th><td class="field-body"><strong>metaphor</strong> &#8211; The metaphor to be evaluated</td>
+</tr>
+<tr class="field-even field"><th class="field-name">Returns:</th><td class="field-body">The evaluation score for the metaphor</td>
+</tr>
+</tbody>
+</table>
+</dd></dl>
 
 <dl class="method">
 <dt id="MetaphorAgent.MetaphorAgent.evaluate">
 <code class="descname">evaluate</code><span class="sig-paren">(</span><em>artifact</em><span class="sig-paren">)</span><a class="headerlink" href="#MetaphorAgent.MetaphorAgent.evaluate" title="Permalink to this definition">¶</a></dt>
-<dd></dd></dl>
+<dd><p>Evaluation method inherited from CreativeAgent.  If the object is a Metaphor, evaluate it with eval_metphor().  Otherwise
+give a -1 evaluation.</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Parameters:</th><td class="field-body"><strong>artifact</strong> &#8211; the artifact to be evaluated</td>
+</tr>
+<tr class="field-even field"><th class="field-name">Returns:</th><td class="field-body">The evaluation score for the metaphor (or -1) and None for framing</td>
+</tr>
+</tbody>
+</table>
+</dd></dl>
 
 <dl class="method">
 <dt id="MetaphorAgent.MetaphorAgent.generate">
 <code class="descname">generate</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#MetaphorAgent.MetaphorAgent.generate" title="Permalink to this definition">¶</a></dt>
-<dd></dd></dl>
+<dd><p>Generate a new metaphor by a very simple method:</p>
+<ul class="simple">
+<li>shuffle the lists of nouns and adjectives</li>
+<li>repeatedly pick a noun, then pick another noun, then check if they have any adjectives in common</li>
+<li>if an adjective is found in common, with probability 0.5 create a metaphor using these two nouns and that adjective.  With probability 0.5 continue searching.</li>
+<li>if no adjective in common is found, pick a new noun (without replacement)</li>
+</ul>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Returns:</th><td class="field-body">an Artifact with the Metaphor as its object and :class:&#8217;Metaphor&#8217; as its domain</td>
+</tr>
+</tbody>
+</table>
+</dd></dl>
 
 <dl class="method">
 <dt id="MetaphorAgent.MetaphorAgent.invent">
 <code class="descname">invent</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#MetaphorAgent.MetaphorAgent.invent" title="Permalink to this definition">¶</a></dt>
-<dd></dd></dl>
+<dd><p>Generates INVENT_TRIES new metaphors and evaluates them, then returns the one with the best
+evaluation.</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Returns:</th><td class="field-body">the metaphor with the best evaluation</td>
+</tr>
+</tbody>
+</table>
+</dd></dl>
 
 </dd></dl>
 
@@ -110,6 +192,8 @@
 <h3>Related Topics</h3>
 <ul>
   <li><a href="index.html">Documentation overview</a><ul>
+      <li>Previous: <a href="MetaHaikuEnvironment.html" title="previous chapter">MetaHaikuEnvironment module</a></li>
+      <li>Next: <a href="MetaphorMemory.html" title="next chapter">MetaphorMemory module</a></li>
   </ul></li>
 </ul>
 </div>
