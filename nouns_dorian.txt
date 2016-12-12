@@ -1,776 +1,776 @@
-observation 4 other 2
-network 2 loose 1
-carpet 2 Persian 2
-difference 3 great 1 only 2
-vow 1 irrevocable 5
-pearl 1 perfect 2
-profit 2 non 1
-lying 2 telegram 3
-louder 2 little 2
-wax 1 dreadful 2
-way 1 odd 1 curious 3 only 2 other 2 own 1 mysterious 4 petulant 3 horrible 3 ridiculous 4
-lilacs 2 such 1
-devotion 3 wild 1
-breakfast 2 light 1 French 1
+satin 2 yellow 2 purple 2 white 1
+tongue 1 common 2 parched 1
+appreciation 5 real 1
+deal 1 great 1 good 1
 philanthropist 4 certain 2
-definition 4 premature 3
-rejection 3 superb 2
-pool 1 clotted 2 black 1
-extent 2 large 1 full 1
-snake 1 horned 1
-mouth 1 sullen 2 sensitive 3 heavy 2 sensual 3 parched 1 flat 1
-sinner 2 modern 2
-wish 1 mad 1
-version 2 official 3
-indifference 4 curious 3 high 1
-danger 2 mere 1 horrible 3
-phrase 1 delightful 3 wonderful 3
-nugget 2 large 1
-changed 1 little 2
-design 2 own 1
-lie 1 horrible 3
-blast 1 bitter 2
-specimen 3 fine 1
-stupidity 4 inherited 4
-rein 1 loose 1
-happiness 3 perfect 2
-poem 2 forgotten 3
-reason 2 real 1 brute 1 only 2 terrible 3 curious 3 scientific 4 true 1
-paste 1 green 1
-lily 2 white 1
-point 1 scientific 4 psychological 5 perfect 2 particular 4 important 3 proper 2 artistic 3 same 1 moral 2
-turban 2 ragged 2
-hole 1 wretched 2
-instance 2 present 2
-evil 2 enough 2
-wider 2 little 2
-half 1 Dorian 3
-slaughter 2 immense 2
-incarnation 4 visible 3
-wardrobe 2 large 1
-pang 1 sharp 1
-poet 2 great 1
-cup 1 inverted 3
-information 4 useful 2 useless 2
-disease 2 horrible 3
+taste 1 exquisite 3
+ecstasy 3 tremulous 3
 chamber 2 large 1 octagonal 4 scented 2 darkened 2
-take 1 experiment 4
-sense 1 abstract 2 common 2 subtle 2 strong 1 hideous 3 strange 1 dim 1 moral 2 terrible 3 quickened 2 little 2 horrible 3 sound 1 English 2
-scale 1 same 1 emotional 4
-theatre 3 absurd 2 little 2
-piece 1 splendid 2 extraordinary 5 only 2
-shame 1 sordid 2 own 1 public 2
+cadence 2 mere 1
+dressing 2 long 1
+refund 2 full 1
+brushwork 2 own 1
+tenderness 3 strange 1
+difference 3 great 1 only 2
+city 2 pearl 1 great 1 delightful 3
+language 2 bad 1
+bow 1 courteous 3 low 1
+rewarded 3 good 1
+word 1 single 2 dreadful 2 harsh 1
+luncheon 2 tedious 3
+dressmaker 3 English 2
+lady 2 old 1 dear 1
+tapestry 3 faded 2 Flemish 2
+proposal 3 formal 2
+curiosity 5 mad 1 simple 2 own 1 infinite 3 intellectual 5
+interest 2 strange 1 small 1 scientific 4 possible 3
+delight 2 real 1 terrible 3 curious 3
+triumphs 2 mean 1 strange 1
+specimen 3 fine 1
+test 1 true 1
+pleasure 2 strange 1 frightened 2 perfect 2 exquisite 3 real 1 subtle 2 curious 3 rapt 1 secret 2 terrible 3 such 1
+rank 1 own 1
+sculpture 2 late 1 Greek 1
+fortnight 2 last 1
+page 1 fifth 1 official 3
+medium 3 imperfect 3 new 1 physical 3 other 2
+metal 2 heated 2 plaited 2 blue 1
+dew 1 evening 2 loathsome 2 red 1
+dress 1 tawdry 2 theatrical 4 own 1
+wife 1 excellent 3 first 1 nice 1
+linen 2 fine 1 blue 1
+simplicity 4 harsh 1 primitive 3
+detail 2 hideous 3
+head 1 golden 2 small 1 Greek 1 little 2 averted 3
+action 2 good 1 first 1
+state 1 dreadful 2 constant 2 applicable 4 particular 4
+cloak 1 hooded 2
+spirituality 6 new 1
+exception 3 single 2
+undergrowth 3 rough 1
+lisp 1 delightful 3
+vein 1 great 1
+method 2 experimental 5 only 2
+poem 2 forgotten 3
+disappointment 4 great 1
+distance 2 little 2
+antidote 3 certain 2
+hearth 1 own 1 large 1 open 2
+cup 1 inverted 3
+desire 3 wild 1 conscious 2
 sake 1 own 1
-struggle 2 wild 1
-office 2 principal 3
-deed 1 good 1
-brood 1 misshapen 3
-stain 1 red 1
-advice 2 good 1
-efficacy 4 certain 2 ethical 3
-coffee 2 black 1
-beneath 2 much 1
-handiwork 3 own 1
-groan 1 stifled 2
-turmoil 2 extraordinary 5
-audience 3 common 2 uneducated 5
-hunger 2 hideous 3
-permission 3 specific 3
+fact 1 mere 1
+experiment 4 certain 2 scientific 4
+approval 3 intellectual 5
+collection 3 usual 3
+activity 4 other 2
+delicacy 4 perfect 2
+instance 2 present 2
+edition 3 illustrated 4 late 1 third 1 first 1
+emotion 3 new 1
+match 1 suitable 3
+plain 1 peculiarly 4
+existence 3 mere 1
+sense 1 abstract 2 common 2 subtle 2 strong 1 hideous 3 strange 1 dim 1 moral 2 terrible 3 quickened 2 little 2 horrible 3 sound 1 English 2
+shadow 2 dim 1 misshapen 3 black 1
+plate 1 antique 2
+bear 1 dreadful 2 old 1
+wardrobe 2 large 1
+cedar 2 long 1
+gallery 3 imaginary 5
+restaurant 3 little 2 Italian 3
 explanation 4 true 1 romantic 3
-cost 1 additional 4
-chord 1 secret 2
-gondola 3 black 1
-pavement 2 cold 1 marble 2 slimy 2
-reality 4 full 1 supreme 2 terrible 3
-utterance 3 musical 3 give 1
-amusement 3 silent 2
+soul 1 own 1 whole 1 wonderful 3 beautiful 3
+king 1 guilty 2 faded 2
+domain 2 public 2 proofread 2
+bill 1 heavy 2
+topic 2 delightful 3
+chime 1 double 2
+water 2 cool 1
+month 1 whole 1
+virtue 2 middle-class 3
+office 2 principal 3
+reward 2 great 1
+fluid 2 subtle 2
+bracken 2 withered 2
+surrender 3 premature 3
+refuge 2 last 1
+liquor 2 spilled 1
+duchess 2 good 1 little 2
+contact 2 additional 4
+hour 2 wild 1
+material 4 new 1
+dread 1 grotesque 2
+daughter 2 own 1
+laughter 2 harsh 1 horrible 3
+smile 1 amused 2 tremulous 3 sweet 1 melancholy 4 sad 1 boyish 2 immobile 3 crooked 2
+narcissus 3 white 1
+fare 1 extra 2
+image 2 painted 2
+tax 1 periodic 4 federal 3
+orchard 2 little 2
+cheek 1 withered 2
+grandson 2 little 2
+sweetness 2 singular 3
+sensation 3 curious 3 new 1
+dahlia 2 monstrous 2
+louder 2 little 2
+village 2 little 2
+steal 1 gold 1
+novel 2 English 2 wonderful 3 bad 1 French 1
+truth 1 sad 1
+gum 1 elastic 3
+till 1 visible 3
+stain 1 red 1
+speculation 4 intellectual 5
+study 2 serious 3 interesting 3 wonderful 3 psychological 5
+likeness 2 wonderful 3 strange 1 marked 1 fantastic 3
+reviews 2 scientific 4
+canvas 2 coloured 2 painted 2 fatal 2
+shame 1 sordid 2 own 1 public 2
+pilgrim 2 Good 1
+glance 1 inquisitive 4
+bronzes 2 green 1
+window 2 huge 1 open 2
+brougham 2 little 2
+evidence 3 own 1 corroborative 5
+distribution 4 free 1
+frame 1 wonderful 3
+vanity 3 pure 1
+property 3 own 1 special 2 intellectual 5 other 2
+cruelty 2 vicious 2
+realization 4 true 1
+woodland 2 Greek 1
+drawer 1 triangular 4
+field 1 open 2
+English 2 good 1
+profession 3 lucrative 3
+brood 1 misshapen 3
+advantage 3 great 1
+Parisian 3 wonderful 3 young 1
+hand 1 other 2 right 1 cold 1 yellow 2 brutal 2
+vision 2 wonderful 3
+diamond 2 enormous 3
+drama 2 British 2
+orange 2 murky 2
+habit 2 silly 2 bad 1
+Basil 2 Dear 1
+observation 4 other 2
+peasant 2 wretched 2
+longer 2 little 2
+terror 2 sheer 1 wild 1
+record 2 fair 1
+decay 2 sudden 2
+whisper 2 tragic 2
+conversation 4 whole 1
+laurel 2 tall 1
+instinct 2 sensuous 3 natural 3 fine 1
+phenomenon 4 psychological 5
+scene 1 balcony 3 wonderful 3 dreadful 2 last 1
+spider 2 sprawling 2
+take 1 experiment 4
+brute 1 Belgian 2 offensive 3
+curate 2 amateur 3
+doll 1 wooden 2
+floor 1 tiled 1
+romance 2 modern 2 first 1 curious 3 strange 1
+equipment 3 outdated 3
+atonement 3 public 2
+tomb 1 Italian 3 marble 2
+day 1 particular 4 present 2 exquisite 3 fatal 2 own 1 whole 1 lovely 2 next 1 first 1 third 1
+poet 2 great 1
+doorway 2 open 2
+dialogue 3 brief 1
+waxed 1 selenite 3
+lane 1 dark 1
+debonair 3 frank 1
+groan 1 stifled 2
+noon 1 long 1 past 1
+genius 2 real 1 wonderful 3
+door 1 open 2
+skull 1 yellow 2
+alchemist 3 great 1
+copper 2 pierced 1 red 1
+stem 1 thin 1
+apology 4 insincere 3
+fibre 2 delicate 3
+pang 1 sharp 1
+advice 2 good 1
+influence 3 external 3 subtle 2 bad 1 good 1 curious 3 extraordinary 5 marked 1 wonderful 3 evil 2
+marriage 2 brilliant 2 secret 2 mystic 2
+use 1 perfect 2
+gardener 3 common 2
+confession 3 strange 1 disappointing 4 terrible 3 monstrous 2
+son 1 rough 1 stern 1 only 2
+sympathy 3 ethical 3 modern 2 horrible 3 Considerable 5
+corruption 3 hideous 3
+beneath 2 much 1
+contemplation 4 philosophic 4
+outfit 2 proper 2
+answer 2 sullen 2 direct 2 sufficient 3 affirmative 4
+painter 2 fashionable 4
+jagged 1 red 1
+crow 1 Yellow 2
+coffee 2 black 1
+mockery 3 boyish 2
+scheme 1 new 1
+inn 1 little 2
+mackintosh 3 wet 1
+scarlet 2 tiny 2 fiery 3
+den 1 low 1 loathsome 2
+show 1 dumb 1
+hope 1 silly 2 wild 1 terrible 3
+design 2 own 1
+bit 1 first 1 little 2
+charge 1 whole 1
+wind 1 southern 2 black 1
+handkerchief 3 white 1 spotted 2
+act 1 first 1 single 2 second 2 third 1 last 1 sixth 1 own 1
+mystery 3 true 1
+statue 2 curious 3
+humility 4 pompous 2
+stagnation 3 utter 2 intellectual 5
+Tory 2 good 1
+town 1 large 1
+incoherence 4 absolute 3
+consumption 3 terrible 3
+research 2 copyright 3
+labyrinth 3 sanguine 2
+felicity 4 conjugal 3
+greeting 2 hideous 3
+curtain 2 torn 1 tattered 2 green 1
+affection 3 real 1
+censure 2 social 2
+nerve 1 hidden 2 white 1
+wafer 2 pallid 2
+fragment 2 strange 1 lurid 2
+buzz 1 low 1
+emblem 2 visible 3
+egotism 4 unconscious 3
+fault 1 single 2 own 1
+charm 1 curious 3 considerable 5 extraordinary 5 certain 2 accidental 4 dangerous 3 indefinable 5
+blood 1 red 1 such 1 Innocent 3
+part 1 great 1 last 1 latter 2 thousandth 2 essential 3
+archway 2 dim 1
+fee 1 reasonable 4
+class 1 respectable 4 good 1 own 1
+tonic 2 admirable 4
+theory 2 delightful 3 dangerous 3 fascinating 4
+name 1 real 1 Christian 2 assumed 2 good 1 tarnished 2 clean 1 own 1
+basis 2 charming 2 artistic 3
+morality 4 Modern 2
+animal 3 rational 3 wild 1
+recklessness 3 wild 1
+bulwark 2 proper 2
+grave 1 nameless 2
+paper 2 yellow 2 particular 4
+lot 1 poor 1
+size 1 extraordinary 5
+paste 1 green 1
+shot 1 wild 1
+quarter 2 strange 1
+mad 1 sudden 2
+characteristic 5 distinguishing 4 dominant 3
+evil 2 enough 2
+beetle 2 last 1 Brazilian 3
+donation 3 current 2
+sound 1 only 2 delicate 3 doleful 2 horrible 3 dull 1
+invalid 3 pretty 2 professional 4
+contempt 2 infinite 3
 gesture 2 wild 1
 exaggeration 5 charming 2
-speculation 4 intellectual 5
-labyrinth 3 sanguine 2
-symbol 2 visible 3
-culture 2 real 1
-greeting 2 hideous 3
-canvas 2 coloured 2 painted 2 fatal 2
-crest 1 pink 1
-throat 1 little 2 wrinkled 2 plastic 2
-moment 2 precise 2 psychological 5 capricious 3 terrible 3 present 2 dreadful 2 particular 4 mad 1 strained 1 horrible 3 thoughtless 2 monstrous 2
-smell 1 horrible 3
-lisp 1 delightful 3
-ideal 2 modern 2 new 1 unseen 2
-novel 2 English 2 wonderful 3 bad 1 French 1
-stable 2 empty 2
-dawn 1 bright 1
-nature 2 whole 1 beautiful 3 second 2 secret 2 true 1 own 1
-good-bye 2 polite 2
-scene 1 balcony 3 wonderful 3 dreadful 2 last 1
-access 2 free 1 other 2 immediate 4
-analysis 4 scientific 4
-stagnation 3 utter 2 intellectual 5
-basis 2 charming 2 artistic 3
-exception 3 single 2
-twenty 2 over 2
-surrender 3 premature 3
-degradation 4 fancied 2 real 1
-dahlia 2 monstrous 2
-shadow 2 dim 1 misshapen 3 black 1
-contrast 2 delightful 3
-archway 2 dim 1
-outfit 2 proper 2
-humbug 2 pure 1
-home 1 straight 1
-copper 2 pierced 1 red 1
-nobody 3 mere 1
-doorway 2 open 2
-friend 1 mysterious 4 young 1 dearest 2 old 1 dear 1 new 1 great 1 stanch 1
-marriage 2 brilliant 2 secret 2 mystic 2
-star 1 solitary 4 red 1
-lace 1 tattered 2 crumpled 2
-vein 1 great 1
-element 3 certain 2
-right 1 limited 3
-spot 1 crimson 2
-property 3 own 1 special 2 intellectual 5 other 2
-lane 1 dark 1
-cruelty 2 vicious 2
-change 1 small 1 horrible 3 further 2
-likeness 2 wonderful 3 strange 1 marked 1 fantastic 3
-country 2 own 1 great 1 pure 1 unadulterated 6
-pose 1 irritating 4
-service 2 diplomatic 4
-land 1 native 2
-detail 2 hideous 3
-heiress 2 wonderful 3 beautiful 3
-nerve 1 hidden 2 white 1
-chair 1 worn 1
-cope 1 gorgeous 2
-virtue 2 middle-class 3
-moan 1 low 1
-character 3 elaborate 3 fantastic 3 insincere 3
-searching 2 steady 2
-cadence 2 mere 1
-mystery 3 true 1
-delicacy 4 perfect 2
-domain 2 public 2 proofread 2
-animal 3 rational 3 wild 1
-status 2 exempt 2
-dandy 2 young 1
-rewarded 3 good 1
-story 2 true 1
-forehead 2 shiny 2
-bill 1 heavy 2
-scent 1 heavy 2
-orange 2 murky 2
-coil 1 long 1
-brushwork 2 own 1
-shook 1 light 1
-chest 1 painted 2 heavy 2
-field 1 open 2
-staccato 3 same 1 nervous 2
-material 4 new 1
-affair 2 tawdry 2
-authority 4 excellent 3
-fare 1 extra 2
-police 2 French 1
-breath 1 deep 1 long 1
-problem 2 important 3
-appreciation 5 real 1
-gold 1 red 1
-spread 1 wide 1
-passion 2 useful 2 lifelong 2 mad 1 wild 1 extraordinary 5 complex 2 nobler 2 infinite 3 special 2 shameful 2 dominant 3 intellectual 5 evil 2
-fault 1 single 2 own 1
-mourning 2 artistic 3
-barrel 2 polished 2
-habit 2 silly 2 bad 1
-simplicity 4 harsh 1 primitive 3
-dull 1 dowdy 2
-English 2 good 1
-dressmaker 3 English 2
-engagement 3 subsequent 3 long 1
-debonair 3 frank 1
-drawn 1 purple 2
-accord 2 own 1
-spirit 2 romantic 3 silent 2 wonderful 3 high 1
-sugar 2 white 1
-remark 2 last 1
-corruption 3 hideous 3
-sin 1 original 4 terrible 3 own 1
-history 3 romantic 3
-pageant 2 empty 2
-workmanship 3 Moorish 2
-hero 2 fantastic 3
-sex 1 decorative 3
-certainty 3 immoral 3
-forth 1 call 1
-felicity 4 conjugal 3
-activity 4 other 2
-compliment 3 graceful 2
-boldness 2 own 1
-siege 1 sudden 2
-laughter 2 harsh 1 horrible 3
-organ 2 distant 2
-case 1 present 2
-landing 2 top 1
-tenderness 3 strange 1
-truth 1 sad 1
-sweat 1 clammy 2
-choice 1 own 1
-pipe 1 hideous 3 long 1 thin 1
-dependence 3 absolute 3
-mode 1 new 1 fresh 1
-characteristic 5 distinguishing 4 dominant 3
-mixture 2 curious 3
-sacrifice 3 daily 2
-luck 1 bad 1
-vanity 3 pure 1
-letter 2 passionate 3 mad 1
-beard 1 pointed 2 brown 1
-fiction 2 French 1
-actuality 5 intense 2
-charm 1 curious 3 considerable 5 extraordinary 5 certain 2 accidental 4 dangerous 3 indefinable 5
-rage 1 dull 1
-insistence 3 monotonous 4
-appeal 2 wild 1
-crucible 3 curious 3
-master 2 own 1 young 1
-Information 4 General 3
-sincerity 4 own 1
-personality 5 mere 1 new 1 complex 2 own 1
-lent 1 mystery 3
-future 2 hideous 3 own 1 free 1 permanent 3
-position 3 social 2
-fact 1 mere 1
-blood 1 red 1 such 1 Innocent 3
-dressing 2 long 1
-king 1 guilty 2 faded 2
-nose 1 hooked 1
-glance 1 inquisitive 4
-purity 3 white 1 stainless 2 unstained 2
-questioning 3 casual 3
-hour 2 wild 1
-mausoleum 4 marble 2
-interest 2 strange 1 small 1 scientific 4 possible 3
-emblem 2 visible 3
-innocence 3 tempt 1
-trumpet 2 stained 1
-distance 2 little 2
-tomb 1 Italian 3 marble 2
-sum 1 large 1
-irony 3 wonderful 3
-knock 1 peculiar 3
-donation 3 current 2
-taper 2 own 1 white 1
-tie 1 white 1
-background 2 interesting 3
-dislike 2 spirited 3
-fire 2 yellow 2 exquisite 3 white 1 blue 1 huge 1
-purpose 2 such 1 little 2
-love 1 beautiful 3 selfish 2 secret 2 such 1 wonderful 3
-dialogue 3 brief 1
-word 1 single 2 dreadful 2 harsh 1
-profession 3 lucrative 3
-justice 2 much 1
-deliberation 5 slow 1
-street 1 polished 2 empty 2
-bit 1 first 1 little 2
-match 1 suitable 3
-alchemist 3 great 1
-trademark 2 registered 3
-test 1 true 1
-hope 1 silly 2 wild 1 terrible 3
-afraid 2 much 1
-emerald 2 clear 1
-sneer 1 whispered 2
-lack 1 entire 3
-aunt 1 dear 1 excellent 3
-family 3 Pure 1
-bloom 1 delicate 3
-village 2 little 2
-parody 3 foul 1
-lesson 2 awful 2
-Dutch 1 open 2
-ice 1 sluggish 2
-copy 2 second 2
-tongue 1 common 2 parched 1
-chime 1 double 2
-psychology 4 real 1 shallow 2
-seething 2 black 1
-horror 2 sickened 2
-antidote 3 certain 2
-buzz 1 low 1
-want 1 absurd 2
-violin 3 exquisite 3
-track 1 wrong 1
-folly 2 exaggerated 5
-action 2 good 1 first 1
-paragraph 3 following 3
-carriage 2 open 2
-freedom 2 delightful 3
-curiosity 5 mad 1 simple 2 own 1 infinite 3 intellectual 5
-renunciation 5 great 1
-drum 1 huge 1 cylindrical 4
-absorption 3 passionate 3
-fragment 2 strange 1 lurid 2
-idea 3 vague 1 delightful 3
-Parisian 3 wonderful 3 young 1
-temper 2 good 1
-affinity 4 subtle 2 strange 1
-plate 1 antique 2
-murmur 2 sullen 2
-desire 3 wild 1 conscious 2
-realization 4 true 1
-lady 2 old 1 dear 1
-diamond 2 enormous 3
-revival 3 curious 3
-century 3 nineteenth 2 own 1 fifteenth 2 eighteenth 2
-brougham 2 little 2
-prefix 2 alliterative 5
-beater 2 unlucky 3
-peasant 2 wretched 2
-page 1 fifth 1 official 3
-effect 2 momentary 4 Japanese 3 excellent 3 dramatic 3
-failure 2 hopeless 2 complete 2 absolute 3
-pathos 2 eternal 3
-rehearsal 3 bad 1
-linen 2 fine 1 blue 1
-decent 2 single 2
-sentence 2 following 3
-method 2 experimental 5 only 2
-paper 2 yellow 2 particular 4
-warning 2 terrible 3
-shape 1 bestial 2 square 1
-scarlet 2 tiny 2 fiery 3
-juice 1 milky 2
-luncheon 2 tedious 3
-affection 3 real 1
-equipment 3 outdated 3
-object 2 true 1
-amazement 3 perplexed 2 absolute 3
-apology 4 insincere 3
-mania 3 perfect 2
-outlet 2 terrible 3
-powder 2 coarse 1
-skull 1 yellow 2
-refuge 2 last 1
-survival 3 tragic 2
-malady 3 horrible 3
-care 1 special 2 usual 3
-attitude 3 absurd 2
-part 1 great 1 last 1 latter 2 thousandth 2 essential 3
-reward 2 great 1
-table 2 small 1 Japanese 3 little 2 leaden 2
-taste 1 exquisite 3
-school 1 fresh 1 French 1
-age 1 old 1
-statue 2 curious 3
-strange 1 grown 1
-Gladys 2 dear 1
-childhood 2 lonely 2
-satire 3 infamous 3 ignoble 3
-ruby 2 large 1
-frown 1 slight 1
-quarter 2 strange 1
-clouds 1 little 2
-liquor 2 spilled 1
-window 2 huge 1 open 2
-drawback 2 real 1
-dew 1 evening 2 loathsome 2 red 1
-spring 1 little 2 hidden 2
-mellow 2 deep 1
-romance 2 modern 2 first 1 curious 3 strange 1
-space 1 blank 1
-charge 1 whole 1
-research 2 copyright 3
-pity 2 great 1 infinite 3 only 2
-ball 1 costume 2
-steaming 2 green 1
-crowd 1 little 2
-ship 1 horrid 2
-rank 1 own 1
-bronze 1 green 1
-box 1 horrid 2 little 2 private 2
-bracken 2 withered 2
-incoherence 4 absolute 3
-cleft 1 black 1
-dress 1 tawdry 2 theatrical 4 own 1
-avenue 3 long 1
-day 1 particular 4 present 2 exquisite 3 fatal 2 own 1 whole 1 lovely 2 next 1 first 1 third 1
-triumphs 2 mean 1 strange 1
-temperament 3 artistic 3 own 1
-flight 1 great 1
-grace 1 delicate 3 shy 1 tremulous 3 infinite 3 such 1 stately 2
-end 1 dreadful 2 terrible 3 romantic 3
-sleep 1 long 1 magical 3
-language 2 bad 1
-brute 1 Belgian 2 offensive 3
-edition 3 illustrated 4 late 1 third 1 first 1
-modernity 4 absolute 3
-child 1 Foolish 2 foolish 2 little 2 only 2 burnt 1
-precision 3 painful 2
-rope 1 tight 1
-town 1 large 1
-restaurant 3 little 2 Italian 3
-week 1 first 1 last 1 whole 1
-steel 1 lithe 1 burnished 2
-proposal 3 formal 2
-body 2 own 1 little 2 white 1 twisted 2 misshapen 3 dead 1
-force 1 brute 1
-logic 2 curious 3 hard 1
-fall 1 heavy 2
-name 1 real 1 Christian 2 assumed 2 good 1 tarnished 2 clean 1 own 1
-pyramid 3 little 2 crimson 2
-narcissus 3 white 1
-silence 2 awkward 2 wordy 2 terrible 3
-contact 2 additional 4
-fortnight 2 last 1
-monotony 4 subtle 2
-craving 2 mad 1
-hearth 1 own 1 large 1 open 2
-fascination 4 intolerable 5 subtle 2 horrible 3
-drama 2 British 2
-wind 1 southern 2 black 1
-show 1 dumb 1
-selection 3 careful 2
-memory 3 mere 1 awful 2 hideous 3
-wave 1 graceful 2
-support 2 financial 3 public 2
-atonement 3 public 2
-Dorian 3 cried 1
-screen 1 large 1
-gaunt 1 past 1
-couple 2 charming 2
-refinement 3 true 1
-wife 1 excellent 3 first 1 nice 1
-bulwark 2 proper 2
-gallery 3 imaginary 5
-fluid 2 subtle 2
-woodland 2 Greek 1
-acceptance 3 formal 2
-mistake 2 social 2
-steal 1 gold 1
-linger 2 dead 1
-schoolroom 2 old 1
-fancy 2 mere 1 own 1 curious 3
-opportunity 5 great 1 second 2
-scheme 1 new 1
-rough 1 common 2
-excuse 2 only 2 nice 1 facile 2
-puppet 2 foul 1
-account 2 little 2
-regret 2 infinite 3
-creation 3 wonderful 3 own 1
-brass 1 long 1
-tapestry 3 faded 2 Flemish 2
-influence 3 external 3 subtle 2 bad 1 good 1 curious 3 extraordinary 5 marked 1 wonderful 3 evil 2
-head 1 golden 2 small 1 Greek 1 little 2 averted 3
-member 2 Radical 3
-faculty 3 extraordinary 5
-tier 1 grand 1
-play 1 wonderful 3 romantic 3
-theory 2 delightful 3 dangerous 3 fascinating 4
-misshapen 3 huge 1
-blush 1 maiden 2
-chat 1 pleasant 2
-beam 1 long 1
-tragedy 3 husky 2 real 1 strange 1 terrible 3 Greek 1 human 2
-fit 1 horrible 3
-peril 2 infinite 3
-genius 2 real 1 wonderful 3
-cedar 2 long 1
-thought 1 sudden 2
-mirror 2 unjust 2
-cave 1 purple 2 black 1
-phenomenon 4 psychological 5
-metal 2 heated 2 plaited 2 blue 1
-impression 3 sudden 2
-disappointment 4 great 1
-presence 2 visible 3 mere 1
-staff 1 small 1
-eloquent 3 idle 2 grown 1
-disclaimer 3 maximum 3
-stem 1 thin 1
-magic 2 subtle 2
-wood 1 bright 1
-side 1 trivial 3 other 2 right 1 complete 2
-mahogany 4 large 1
-temple 2 Mexican 3
-pleasure 2 strange 1 frightened 2 perfect 2 exquisite 3 real 1 subtle 2 curious 3 rapt 1 secret 2 terrible 3 such 1
-bow 1 courteous 3 low 1
-son 1 rough 1 stern 1 only 2
-longer 2 little 2
-remembrance 3 distinct 2
-foam 1 red 1
-improvisation 5 extraordinary 5
-question 2 interesting 3
-flash 1 twisted 2
-cloak 1 hooded 2
-easel 2 upright 2
-butterfly 3 modern 2
-distribution 4 free 1
-public 2 literary 4 British 2
-conscience 2 like 1
-murder 2 real 1
-laurel 2 tall 1
-shirt 1 soiled 1 coarse 1
-consumption 3 terrible 3
-crime 1 treacherous 3 terrible 3 same 1
-staircase 2 front 1 little 2
-accompaniment 4 musical 3
-delight 2 real 1 terrible 3 curious 3
-contemplation 4 philosophic 4
-cheek 1 withered 2
-courage 2 extraordinary 5
-class 1 respectable 4 good 1 own 1
-frame 1 wonderful 3
-ugliness 3 remarkable 4
-price 1 huge 1 terrible 3 extravagant 4 own 1
-tonic 2 admirable 4
-censure 2 social 2
-fellow 2 dear 1 extraordinary 5 lucky 2 young 1 charming 2 poor 1
-person 2 fascinating 4 young 1 wonderful 3 single 2 only 2 sympathetic 4 third 1
-doll 1 wooden 2
-husband 2 good 1 other 2 woman's 2 third 1 first 1
-contempt 2 infinite 3
-mask 1 pallid 2 placid 2
-poison 2 exquisite 3 wretched 2 mineral 3
-artist 2 born 1 great 1 representative 5 British 2
-morality 4 Modern 2
-dinner 2 enormous 3 bad 1
-perfume 2 delicate 3 strange 1 particular 4
-format 2 same 1 other 2 alternate 3
-jagged 1 red 1
-look 1 funny 2 bright 1 blank 1 tired 2 cruel 2 slight 1 same 1 troubled 2 sad 1
-dread 1 grotesque 2
-record 2 fair 1
-spirituality 6 new 1
-laugh 1 silly 2 sudden 2 bitter 2 hideous 3
-guinea 2 whole 1
-smile 1 amused 2 tremulous 3 sweet 1 melancholy 4 sad 1 boyish 2 immobile 3 crooked 2
-ground 1 new 1
-adoration 4 mad 1 wild 1
-wonder 2 exquisite 3 small 1 mere 1 shy 1
-image 2 painted 2
-flesh 1 same 1
-paperwork 3 much 1
-vermilion 3 long 1 bright 1
-city 2 pearl 1 great 1 delightful 3
-Hedonism 4 new 1
-sympathy 3 ethical 3 modern 2 horrible 3 Considerable 5
-beginning 3 bad 1
-disappearance 4 sudden 2 mysterious 4
-summer 2 light 1
-blade 1 thin 1
-rain 1 cold 1
-tax 1 periodic 4 federal 3
-cloud 1 tremulous 3
-privilege 2 great 1
-tin 1 ribbed 1
-strain 1 mental 2
-roof 1 broken 2
-painter 2 fashionable 4
-shabby 2 small 1
-infatuation 5 silly 2
-harshly 2 lad 1
-shake 1 grave 1
-warmth 1 genial 2
-shield 1 polished 2
-conversation 4 whole 1
-set 1 usual 3
-justification 5 such 1
-ear 1 one's 1
-one 1 important 3 queen 1
-pilgrim 2 Good 1
-wafer 2 pallid 2
-appearance 3 personal 3
-medium 3 imperfect 3 new 1 physical 3 other 2
-duchess 2 good 1 little 2
-food 1 own 1
-film 1 thin 1
-world 1 new 1 whole 1 outside 2 visible 3 antique 2 next 1 common 2
-square 1 silent 2
-longing 2 wild 1
-bear 1 dreadful 2 old 1
-wrinkle 2 first 1 curved 1
-exhibition 4 special 2
-roofs 1 low 1
-champagne 2 much 1
-idolatry 4 curious 3 artistic 3 strange 1
-egotism 4 unconscious 3
-society 4 decent 2 good 1 smart 1
-Basil 2 Dear 1
-evidence 3 own 1 corroborative 5
-gathering 3 delightful 3
-collection 3 usual 3
-approval 3 intellectual 5
-church 1 pagan 2
-jacinth 2 real 1
-reviews 2 scientific 4
-answer 2 sullen 2 direct 2 sufficient 3 affirmative 4
-vision 2 wonderful 3
-crow 1 Yellow 2
-prayer 1 mad 1
-sport 1 good 1
-gardener 3 common 2
-success 2 great 1
-dust 1 white 1
-tread 1 slow 1 heavy 2
-stone 1 white 1
-morning 2 fresh 1 next 1
-philosophy 4 mystical 3
 host 1 perfect 2
-mackintosh 3 wet 1
-evening 2 wonderful 3 next 1 dreadful 2
-savage 2 few 1
-musician 3 excellent 3
-grandson 2 little 2
-chapter 2 seventh 2 fantastic 3
-her 1 pleased 1
+pyramid 3 little 2 crimson 2
+outlet 2 terrible 3
+force 1 brute 1
+Information 4 General 3
+aunt 1 dear 1 excellent 3
 turquoise 2 hollowed 2
-quickening 3 strange 1
-lot 1 poor 1
-blanc 1 et 1
-lover 2 wonderful 3
-glare 1 red 1
-month 1 whole 1
-rainbow 2 broken 2
-lining 2 blue 1
-admiration 4 mere 1 physical 3
-effort 2 terrible 3 considerable 5
-benefit 3 particular 4
-topic 2 delightful 3
-subject 2 religious 3 admirable 4 hideous 3
-fee 1 reasonable 4
-whiteness 2 pearly 2
-servant 2 tired 2 bad 1
-brocade 2 old 1
-hinder 2 long 1
-sculpture 2 late 1 Greek 1
-use 1 perfect 2
-act 1 first 1 single 2 second 2 third 1 last 1 sixth 1 own 1
-alliance 3 suitable 3
-bamboo 2 long 1
-lapse 1 actual 3
-excitement 3 such 1 public 2
-experiment 4 certain 2 scientific 4
-substitute 3 fashionable 4
-wreath 1 thin 1
-shot 1 wild 1
-handkerchief 3 white 1 spotted 2
-conjecture 3 such 1 strange 1
-charcoal 2 little 2
-business 2 bad 1
-recklessness 3 wild 1
-figure 2 wonderful 3 tragic 2 squat 1 misshapen 3
-piazza 3 yellow 2
-o'clock 2 eleven 3
-plain 1 peculiarly 4
-humility 4 pompous 2
-refund 2 full 1
-floor 1 tiled 1
-violence 3 crude 1
-lord 1 young 1
-seat 1 vacant 2
-mother 2 poor 1 dear 1 own 1
-luxury 3 wanton 2
-decay 2 sudden 2
-inn 1 little 2
-instinct 2 sensuous 3 natural 3 fine 1
-door 1 open 2
-waxed 1 selenite 3
-pencil 2 red 1
-disdain 2 exquisite 3
-ivory 3 little 2 cool 1 black 1
-import 2 high 1
-spider 2 sprawling 2
-redistribution 5 commercial 3
-curtain 2 torn 1 tattered 2 green 1
-hollow 2 empty 2
-iron 2 black 1
-insolent 3 boyish 2
-bronzes 2 green 1
-sensation 3 curious 3 new 1
-press 1 huge 1 secret 2
-doctor 2 Jewish 2
-study 2 serious 3 interesting 3 wonderful 3 psychological 5
-confession 3 strange 1 disappointing 4 terrible 3 monstrous 2
-attraction 3 great 1 indefinable 5
-library 3 perfect 2 little 2
-hiding 2 servant 2
-sound 1 only 2 delicate 3 doleful 2 horrible 3 dull 1
-passage 2 beautiful 3
-advantage 3 great 1
-while 1 little 2
-importance 3 vital 2
-ecstasy 3 tremulous 3
-laboratory 4 fetid 2
-web 1 black 1
-existence 3 mere 1
-Tory 2 good 1
-till 1 visible 3
-noise 1 enough 2
-science 2 natural 3
-mockery 3 boyish 2
-lad 1 young 1
-deal 1 great 1 good 1
-corporation 4 educational 5
-emotion 3 new 1
-whisper 2 tragic 2
-camp 1 Turkish 2
-lead 1 white 1
-sweetness 2 singular 3
-motive 2 dominant 3
-race 1 own 1 human 2
-defect 2 chief 1
-development 4 new 1 intellectual 5
-statement 2 ministerial 5
-cut 1 short 1
-fibre 2 delicate 3
-arcade 2 low 1
-state 1 dreadful 2 constant 2 applicable 4 particular 4
-grave 1 nameless 2
-pit 1 great 1
-painting 2 actual 3 bad 1
-orchestra 3 dreadful 2
-daughter 2 own 1
-claws 1 gilded 2
-mad 1 sudden 2
-satin 2 yellow 2 purple 2 white 1
-den 1 low 1 loathsome 2
-wealth 1 great 1
-secret 2 real 1 dead 1 own 1 curious 3
-invalid 3 pretty 2 professional 4
-mind 1 great 1 British 2
-party 2 small 1 tedious 3 other 2
-hand 1 other 2 right 1 cold 1 yellow 2 brutal 2
-orchard 2 little 2
-crisis 2 terrible 3
-law 1 unjust 2
-penalty 3 sure 1 swift 1
-meeting 2 absurd 2
-ticking 2 formal 2 monotonous 4
-sob 1 stifled 2
-gum 1 elastic 3
-hat 1 ducal 2
-piano 3 cracked 1
-sigh 1 deep 1 heavy 2
-accident 3 vulgar 2 unfortunate 4
-tray 1 small 1
-cloth 1 stained 1 mortuary 4
-beetle 2 last 1 Brazilian 3
+heiress 2 wonderful 3 beautiful 3
 cause 1 active 2
-distinction 3 intellectual 5 great 1
-size 1 extraordinary 5
-undergrowth 3 rough 1
-attention 3 gratifying 4
-curate 2 amateur 3
-drawer 1 triangular 4
-soul 1 own 1 whole 1 wonderful 3 beautiful 3
-arm 1 long 1
+one 1 important 3 queen 1
+country 2 own 1 great 1 pure 1 unadulterated 6
+strange 1 grown 1
+mahogany 4 large 1
+deed 1 good 1
+rope 1 tight 1
+lack 1 entire 3
+stable 2 empty 2
+ugliness 3 remarkable 4
+analysis 4 scientific 4
+psychology 4 real 1 shallow 2
+mask 1 pallid 2 placid 2
+defect 2 chief 1
+accompaniment 4 musical 3
+effect 2 momentary 4 Japanese 3 excellent 3 dramatic 3
+hat 1 ducal 2
+sigh 1 deep 1 heavy 2
+future 2 hideous 3 own 1 free 1 permanent 3
+trumpet 2 stained 1
+redistribution 5 commercial 3
+deliberation 5 slow 1
+case 1 present 2
+iron 2 black 1
+attraction 3 great 1 indefinable 5
+sinner 2 modern 2
+precision 3 painful 2
+malady 3 horrible 3
+question 2 interesting 3
+symbol 2 visible 3
+tin 1 ribbed 1
+pity 2 great 1 infinite 3 only 2
+handiwork 3 own 1
+member 2 Radical 3
+shabby 2 small 1
+rough 1 common 2
+sincerity 4 own 1
+questioning 3 casual 3
+fall 1 heavy 2
+snake 1 horned 1
+landing 2 top 1
+camp 1 Turkish 2
+food 1 own 1
+crowd 1 little 2
+table 2 small 1 Japanese 3 little 2 leaden 2
+magic 2 subtle 2
+temple 2 Mexican 3
+sleep 1 long 1 magical 3
+incarnation 4 visible 3
+screen 1 large 1
+boldness 2 own 1
+excitement 3 such 1 public 2
+modernity 4 absolute 3
+person 2 fascinating 4 young 1 wonderful 3 single 2 only 2 sympathetic 4 third 1
+pipe 1 hideous 3 long 1 thin 1
+beginning 3 bad 1
+peril 2 infinite 3
+irony 3 wonderful 3
+Dorian 3 cried 1
+frown 1 slight 1
+film 1 thin 1
+blush 1 maiden 2
+turmoil 2 extraordinary 5
+audience 3 common 2 uneducated 5
+track 1 wrong 1
+pit 1 great 1
+hero 2 fantastic 3
+cloth 1 stained 1 mortuary 4
+element 3 certain 2
+service 2 diplomatic 4
+shield 1 polished 2
+lapse 1 actual 3
+mixture 2 curious 3
+failure 2 hopeless 2 complete 2 absolute 3
+attitude 3 absurd 2
+dislike 2 spirited 3
+humbug 2 pure 1
+stupidity 4 inherited 4
+crest 1 pink 1
+Hedonism 4 new 1
+love 1 beautiful 3 selfish 2 secret 2 such 1 wonderful 3
+warning 2 terrible 3
+permission 3 specific 3
+change 1 small 1 horrible 3 further 2
+powder 2 coarse 1
+hiding 2 servant 2
+dependence 3 absolute 3
+theatre 3 absurd 2 little 2
+piano 3 cracked 1
+scent 1 heavy 2
+tread 1 slow 1 heavy 2
+blade 1 thin 1
+look 1 funny 2 bright 1 blank 1 tired 2 cruel 2 slight 1 same 1 troubled 2 sad 1
+pathos 2 eternal 3
+monotony 4 subtle 2
+cave 1 purple 2 black 1
+copy 2 second 2
+adoration 4 mad 1 wild 1
+shirt 1 soiled 1 coarse 1
+want 1 absurd 2
+throat 1 little 2 wrinkled 2 plastic 2
+servant 2 tired 2 bad 1
+breath 1 deep 1 long 1
+doctor 2 Jewish 2
+appearance 3 personal 3
+foam 1 red 1
+sacrifice 3 daily 2
+idea 3 vague 1 delightful 3
+whiteness 2 pearly 2
+ground 1 new 1
+science 2 natural 3
+barrel 2 polished 2
+fellow 2 dear 1 extraordinary 5 lucky 2 young 1 charming 2 poor 1
+devotion 3 wild 1
+crime 1 treacherous 3 terrible 3 same 1
 lapis 2 blue 1
-red 1 dull 1
+staccato 3 same 1 nervous 2
+background 2 interesting 3
+admiration 4 mere 1 physical 3
+amusement 3 silent 2
+Gladys 2 dear 1
+mausoleum 4 marble 2
+gondola 3 black 1
+spot 1 crimson 2
+lie 1 horrible 3
+hinder 2 long 1
+distinction 3 intellectual 5 great 1
+drawback 2 real 1
+arm 1 long 1
+school 1 fresh 1 French 1
+fancy 2 mere 1 own 1 curious 3
+prefix 2 alliterative 5
+version 2 official 3
+box 1 horrid 2 little 2 private 2
+shape 1 bestial 2 square 1
+orchestra 3 dreadful 2
+disappearance 4 sudden 2 mysterious 4
+carpet 2 Persian 2
+reality 4 full 1 supreme 2 terrible 3
+world 1 new 1 whole 1 outside 2 visible 3 antique 2 next 1 common 2
+noise 1 enough 2
+creation 3 wonderful 3 own 1
+laugh 1 silly 2 sudden 2 bitter 2 hideous 3
+attention 3 gratifying 4
+searching 2 steady 2
+corporation 4 educational 5
+lover 2 wonderful 3
+benefit 3 particular 4
+revival 3 curious 3
+wish 1 mad 1
+warmth 1 genial 2
+refinement 3 true 1
+home 1 straight 1
+shake 1 grave 1
+sin 1 original 4 terrible 3 own 1
+sneer 1 whispered 2
+tie 1 white 1
+star 1 solitary 4 red 1
 realism 3 vulgar 2
+wood 1 bright 1
+spread 1 wide 1
+flesh 1 same 1
+half 1 Dorian 3
+affair 2 tawdry 2
+guinea 2 whole 1
+roofs 1 low 1
+choice 1 own 1
+pavement 2 cold 1 marble 2 slimy 2
+emerald 2 clear 1
+amazement 3 perplexed 2 absolute 3
+temper 2 good 1
+paragraph 3 following 3
+set 1 usual 3
+ear 1 one's 1
+status 2 exempt 2
+innocence 3 tempt 1
+race 1 own 1 human 2
+gaunt 1 past 1
+siege 1 sudden 2
+chest 1 painted 2 heavy 2
+folly 2 exaggerated 5
+development 4 new 1 intellectual 5
+horror 2 sickened 2
+avenue 3 long 1
+web 1 black 1
+quickening 3 strange 1
+arcade 2 low 1
+secret 2 real 1 dead 1 own 1 curious 3
+pool 1 clotted 2 black 1
+mother 2 poor 1 dear 1 own 1
+accord 2 own 1
+square 1 silent 2
+side 1 trivial 3 other 2 right 1 complete 2
+trademark 2 registered 3
+access 2 free 1 other 2 immediate 4
+ice 1 sluggish 2
+roof 1 broken 2
+statement 2 ministerial 5
+artist 2 born 1 great 1 representative 5 British 2
+lent 1 mystery 3
+law 1 unjust 2
+purity 3 white 1 stainless 2 unstained 2
+excuse 2 only 2 nice 1 facile 2
+cloud 1 tremulous 3
+justice 2 much 1
+bamboo 2 long 1
+renunciation 5 great 1
+perfume 2 delicate 3 strange 1 particular 4
+child 1 Foolish 2 foolish 2 little 2 only 2 burnt 1
+efficacy 4 certain 2 ethical 3
+organ 2 distant 2
+longing 2 wild 1
+flight 1 great 1
+schoolroom 2 old 1
+her 1 pleased 1
+hole 1 wretched 2
+police 2 French 1
+fiction 2 French 1
+cut 1 short 1
+brocade 2 old 1
+luck 1 bad 1
+church 1 pagan 2
+mourning 2 artistic 3
+contrast 2 delightful 3
+rainbow 2 broken 2
+luxury 3 wanton 2
+chat 1 pleasant 2
+wave 1 graceful 2
+clouds 1 little 2
+beard 1 pointed 2 brown 1
+object 2 true 1
+puppet 2 foul 1
+presence 2 visible 3 mere 1
+seething 2 black 1
+moan 1 low 1
+rein 1 loose 1
+rehearsal 3 bad 1
+sugar 2 white 1
+slaughter 2 immense 2
+chair 1 worn 1
+struggle 2 wild 1
+couple 2 charming 2
+eloquent 3 idle 2 grown 1
+childhood 2 lonely 2
+week 1 first 1 last 1 whole 1
+century 3 nineteenth 2 own 1 fifteenth 2 eighteenth 2
+steaming 2 green 1
+nugget 2 large 1
+rain 1 cold 1
+way 1 odd 1 curious 3 only 2 other 2 own 1 mysterious 4 petulant 3 horrible 3 ridiculous 4
+brass 1 long 1
+linger 2 dead 1
+juice 1 milky 2
+dandy 2 young 1
+authority 4 excellent 3
+blanc 1 et 1
+jacinth 2 real 1
+memory 3 mere 1 awful 2 hideous 3
+easel 2 upright 2
+position 3 social 2
+wreath 1 thin 1
+thought 1 sudden 2
+logic 2 curious 3 hard 1
+sentence 2 following 3
+ideal 2 modern 2 new 1 unseen 2
+ticking 2 formal 2 monotonous 4
+savage 2 few 1
+support 2 financial 3 public 2
+good-bye 2 polite 2
+nobody 3 mere 1
+dull 1 dowdy 2
+lily 2 white 1
+sum 1 large 1
+silence 2 awkward 2 wordy 2 terrible 3
+tier 1 grand 1
+philosophy 4 mystical 3
+mirror 2 unjust 2
+beam 1 long 1
+ruby 2 large 1
+rejection 3 superb 2
+lying 2 telegram 3
+o'clock 2 eleven 3
+husband 2 good 1 other 2 woman's 2 third 1 first 1
+appeal 2 wild 1
+twenty 2 over 2
+knock 1 peculiar 3
+parody 3 foul 1
+claws 1 gilded 2
+drawn 1 purple 2
+hollow 2 empty 2
+reason 2 real 1 brute 1 only 2 terrible 3 curious 3 scientific 4 true 1
+crisis 2 terrible 3
+mistake 2 social 2
+motive 2 dominant 3
+survival 3 tragic 2
+dawn 1 bright 1
+effort 2 terrible 3 considerable 5
+hunger 2 hideous 3
+fit 1 horrible 3
+courage 2 extraordinary 5
+ball 1 costume 2
+history 3 romantic 3
+accident 3 vulgar 2 unfortunate 4
+chapter 2 seventh 2 fantastic 3
+selection 3 careful 2
+passion 2 useful 2 lifelong 2 mad 1 wild 1 extraordinary 5 complex 2 nobler 2 infinite 3 special 2 shameful 2 dominant 3 intellectual 5 evil 2
+sweat 1 clammy 2
+vermilion 3 long 1 bright 1
+lord 1 young 1
+wider 2 little 2
+flash 1 twisted 2
+satire 3 infamous 3 ignoble 3
+misshapen 3 huge 1
+chord 1 secret 2
+account 2 little 2
+mania 3 perfect 2
+musician 3 excellent 3
+point 1 scientific 4 psychological 5 perfect 2 particular 4 important 3 proper 2 artistic 3 same 1 moral 2
+alliance 3 suitable 3
+land 1 native 2
+spring 1 little 2 hidden 2
+piazza 3 yellow 2
+exhibition 4 special 2
+success 2 great 1
+tragedy 3 husky 2 real 1 strange 1 terrible 3 Greek 1 human 2
+library 3 perfect 2 little 2
+gold 1 red 1
+mode 1 new 1 fresh 1
+degradation 4 fancied 2 real 1
+butterfly 3 modern 2
+wealth 1 great 1
 consequence 3 natural 3
-noon 1 long 1 past 1
-water 2 cool 1
+danger 2 mere 1 horrible 3
+end 1 dreadful 2 terrible 3 romantic 3
+wax 1 dreadful 2
+laboratory 4 fetid 2
+acceptance 3 formal 2
+justification 5 such 1
+vow 1 irrevocable 5
+remark 2 last 1
+evening 2 wonderful 3 next 1 dreadful 2
+importance 3 vital 2
+insistence 3 monotonous 4
+turban 2 ragged 2
+profit 2 non 1
+mouth 1 sullen 2 sensitive 3 heavy 2 sensual 3 parched 1 flat 1
+shook 1 light 1
+business 2 bad 1
+utterance 3 musical 3 give 1
+regret 2 infinite 3
+penalty 3 sure 1 swift 1
+affinity 4 subtle 2 strange 1
+improvisation 5 extraordinary 5
+substitute 3 fashionable 4
+purpose 2 such 1 little 2
+definition 4 premature 3
+lad 1 young 1
+carriage 2 open 2
+cost 1 additional 4
+body 2 own 1 little 2 white 1 twisted 2 misshapen 3 dead 1
+sex 1 decorative 3
+stone 1 white 1
+care 1 special 2 usual 3
+phrase 1 delightful 3 wonderful 3
+absorption 3 passionate 3
+character 3 elaborate 3 fantastic 3 insincere 3
+afraid 2 much 1
+glare 1 red 1
+pose 1 irritating 4
+lesson 2 awful 2
+dinner 2 enormous 3 bad 1
+breakfast 2 light 1 French 1
+grace 1 delicate 3 shy 1 tremulous 3 infinite 3 such 1 stately 2
+compliment 3 graceful 2
+lilacs 2 such 1
+opportunity 5 great 1 second 2
+tray 1 small 1
+cope 1 gorgeous 2
+violin 3 exquisite 3
+public 2 literary 4 British 2
+privilege 2 great 1
+pageant 2 empty 2
+murder 2 real 1
+network 2 loose 1
+sport 1 good 1
+actuality 5 intense 2
+changed 1 little 2
+problem 2 important 3
+champagne 2 much 1
+ivory 3 little 2 cool 1 black 1
+conscience 2 like 1
+craving 2 mad 1
+figure 2 wonderful 3 tragic 2 squat 1 misshapen 3
+Dutch 1 open 2
+space 1 blank 1
+mind 1 great 1 British 2
+steel 1 lithe 1 burnished 2
+fascination 4 intolerable 5 subtle 2 horrible 3
+certainty 3 immoral 3
+red 1 dull 1
+personality 5 mere 1 new 1 complex 2 own 1
+street 1 polished 2 empty 2
+format 2 same 1 other 2 alternate 3
+nose 1 hooked 1
+conjecture 3 such 1 strange 1
+passage 2 beautiful 3
+sob 1 stifled 2
+painting 2 actual 3 bad 1
+extent 2 large 1 full 1
+strain 1 mental 2
+insolent 3 boyish 2
+staff 1 small 1
+meeting 2 absurd 2
+poison 2 exquisite 3 wretched 2 mineral 3
+harshly 2 lad 1
+forth 1 call 1
+right 1 limited 3
 afternoon 3 interesting 3 last 1
-terror 2 sheer 1 wild 1
+bronze 1 green 1
+disclaimer 3 maximum 3
+decent 2 single 2
+lead 1 white 1
+nature 2 whole 1 beautiful 3 second 2 secret 2 true 1 own 1
+pearl 1 perfect 2
+seat 1 vacant 2
+disease 2 horrible 3
+subject 2 religious 3 admirable 4 hideous 3
+lining 2 blue 1
+infatuation 5 silly 2
+happiness 3 perfect 2
+freedom 2 delightful 3
+fire 2 yellow 2 exquisite 3 white 1 blue 1 huge 1
+family 3 Pure 1
+rage 1 dull 1
+summer 2 light 1
+gathering 3 delightful 3
+wrinkle 2 first 1 curved 1
+piece 1 splendid 2 extraordinary 5 only 2
+impression 3 sudden 2
+dust 1 white 1
+engagement 3 subsequent 3 long 1
+information 4 useful 2 useless 2
+while 1 little 2
+staircase 2 front 1 little 2
+culture 2 real 1
+idolatry 4 curious 3 artistic 3 strange 1
+murmur 2 sullen 2
+lace 1 tattered 2 crumpled 2
+taper 2 own 1 white 1
+import 2 high 1
+prayer 1 mad 1
+price 1 huge 1 terrible 3 extravagant 4 own 1
+press 1 huge 1 secret 2
+society 4 decent 2 good 1 smart 1
+moment 2 precise 2 psychological 5 capricious 3 terrible 3 present 2 dreadful 2 particular 4 mad 1 strained 1 horrible 3 thoughtless 2 monstrous 2
+spirit 2 romantic 3 silent 2 wonderful 3 high 1
+play 1 wonderful 3 romantic 3
+violence 3 crude 1
+charcoal 2 little 2
+friend 1 mysterious 4 young 1 dearest 2 old 1 dear 1 new 1 great 1 stanch 1
+temperament 3 artistic 3 own 1
+indifference 4 curious 3 high 1
+morning 2 fresh 1 next 1
+letter 2 passionate 3 mad 1
+bloom 1 delicate 3
+mellow 2 deep 1
+cleft 1 black 1
+smell 1 horrible 3
+blast 1 bitter 2
+pencil 2 red 1
+crucible 3 curious 3
+remembrance 3 distinct 2
+coil 1 long 1
+forehead 2 shiny 2
+ship 1 horrid 2
+master 2 own 1 young 1
+story 2 true 1
+disdain 2 exquisite 3
+workmanship 3 Moorish 2
+age 1 old 1
+wonder 2 exquisite 3 small 1 mere 1 shy 1
+paperwork 3 much 1
+faculty 3 extraordinary 5
+scale 1 same 1 emotional 4
+party 2 small 1 tedious 3 other 2
+drum 1 huge 1 cylindrical 4
+beater 2 unlucky 3

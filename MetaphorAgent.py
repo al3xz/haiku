@@ -1,6 +1,7 @@
 from creamas import CreativeAgent, Artifact
 from MetaphorMemory import MetaphorMemory
 from Model_Classes import Metaphor
+from gensim.models import word2vec
 import random
 
 
@@ -17,7 +18,7 @@ class MetaphorAgent(CreativeAgent):
 
         INVENT_TRIES                The number of metaphors to generate and evaluate before submitting the best as a candidate
     """
-    def __init__(self, env, nouns, mem_cap=100):
+    def __init__(self, env, nouns, word2vec_model, mem_cap=100):
         """
         :param env (Environment): the creamas environment the agent will operate in
         :param nouns (list of :class:'Noun'): a list of nouns (describing adjectives included) to draw metaphors from
@@ -25,6 +26,7 @@ class MetaphorAgent(CreativeAgent):
         """
         super().__init__(env)
         self.nouns = nouns
+        self.word2vec_model = word2vec_model
         self.memory = MetaphorMemory(mem_cap)
 
     SHARED_SCORE_EVAL_WEIGHT = 1
@@ -135,8 +137,13 @@ class MetaphorAgent(CreativeAgent):
         :param metaphor: The metaphor to be evaluated
         :return: The evaluation score for the metaphor
         """
+
+        # TODO: (1 - word2vec_distance) for novelty, word2vec_distance for commonality
+        word2vec_distance = 1 - self.word2vec_model.similarity(metaphor.noun_1.word, metaphor.noun_2.word)
+
         if self.memory.contains(metaphor):
-            return 0
+            # TODO: check this
+            return word2vec_distance # 0
 
         # Hard to evaluate the 'truth' of a metaphor without a model of the world that is well beyond the capability
         # of this algorithm.  Instead, focus on surprise/novelty.
@@ -147,7 +154,8 @@ class MetaphorAgent(CreativeAgent):
         total_count = float(self.memory.count)
 
         if total_count == 0:
-            return 1
+            # TODO: check this
+            return word2vec_distance # 1
 
         noun1_score = 1 - (noun1_count / total_count)
         noun2_score = 1 - (noun2_count / total_count)
@@ -161,4 +169,5 @@ class MetaphorAgent(CreativeAgent):
         denominator = (MetaphorAgent.SHARED_SCORE_EVAL_WEIGHT
                        + (2 * MetaphorAgent.NOUN_SCORE_EVAL_WEIGHT)
                        + MetaphorAgent.ADJ_SCORE_EVAL_WEIGHT)
-        return nominator / denominator
+
+        return (word2vec_distance + (nominator / denominator)) / 2

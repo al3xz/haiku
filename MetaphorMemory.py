@@ -3,6 +3,7 @@ import random
 
 class MetaphorMemory:
     def __init__(self, capacity):
+        assert type(capacity) is int, "capacity is not an integer"
         self._capacity = capacity
         self._count = 0
         self._metaphors = dict()

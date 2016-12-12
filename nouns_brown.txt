@@ -1,0 +1,1178 @@
+basket 2 cylindrical 4 perforated 4 big 1
+shopping 2 vital 2 small 1 main 1 final 2 major 2 daily 2
+security 4 social 2 other 2 own 1 national 3 nation's 2 protect 2 Western 2 economic 4 external 3 individual 5 collective 3 emotional 4 same 1 cultural 3
+fighting 2 recent 2 Asian 2 worth 1 effective 3
+improvement 3 recent 2 substantial 3 further 2 steady 2 real 1 added 2 big 1 distinct 2 agricultural 5 habitat 3 marked 1
+paradox 3 classic 2 understandable 5 further 2
+fish 1 stranded 2 live 1 first 1 raw 1 frozen 2
+forward 2 bent 1 such 1 essential 3 unique 2 stick 1
+respect 2 tremendous 3 new 1 particular 4 conventional 4 deep 1 decent 2 utmost 2
+evil 2 total 2 awful 2 future 2 great 1
+manager 3 former 2 general 3 genial 2 kitchen 2 artful 2 competent 3 good 1 works 1 particular 4
+allocation 4 different 3 optimum 3 primary 3 longstanding 3 full 1
+sensory 3 concurrent 3 other 2 neutral 2 adverse 2
+exploration 4 extensive 3 careful 2 general 3 approved 2 further 2 mere 1 empirical 4 thoughtful 2
+solace 2 small 1 temporary 4 emotional 4
+staff 1 general 3 fair 1 managerial 5 musical 3 editorial 5 Senior 2 senior 2 technical 3 scientific 4 hospital 3 legal 2 personal 3 political 4 central 2 pool 1 new 1 adequate 3 academic 4 administrative 5 medical 3 resident 3
+entrepreneur 4 ideal 2 real 1 independent 4
+tumor 2 pituitary 5 crown 1 gall 1
+factor 2 major 2 final 2 other 2 compelling 3 creative 3 contributing 4 primary 3 added 2 determining 4 big 1 additional 4 chief 1 key 1 indispensable 5 principal 3 powerful 3 important 3 geometric 4 significant 4 common 2 vital 2 same 1 second 2 scale 1
+differentiation 6 entail 2 oversimplified 5 vast 1 denominational 6
+cannot 2 slogan 2 select 2 few 1 signal 2 minimal 3 polynomial 5 gay 1
+share 1 lion's 2 equal 2 third 1 major 2 proper 2 other 2 own 1 substantial 3 small 1
+quarter 2 first 1 next 1 second 2 last 1 Sicilian 4 unexpected 4 fourth 1 Jewish 2
+consequence 3 obvious 3 direct 2 serious 3 permanent 3 indirect 3
+melody 3 unusual 4 traditional 4 Jewish 2 new 1 sinuous 2 charming 2 curious 3
+scandal 2 salacious 3 amusing 3 new 1
+disapproval 4 clinical 3 great 1 social 2
+good 1 total 2 common 2 created 3 human 2 American 4 mutual 3 sentimental 4 own 1
+flag 1 American 4 white 1 black 1
+equation 3 personal 3 fallacious 3 resultant 3 approximate 4 differential 4 simple 2 functional 3 starting 2
+prejudice 3 segregationist 5 racial 2 great 1
+rhythms 2 buoyant 2 elemental 4 revolutionary 6 organic 3 odd 1
+peril 2 perpetual 4 national 3 common 2
+notice 2 enough 2 short 1 due 1 such 1 first 1 public 2
+grade 1 first 1 seventh 2 fourth 1 deluxe 2 good 1 exterior 4 salary 3 eighth 1 reagent 3 third 1 sixth 1
+bundle 2 annual 3 big 1 general 3 limp 1
+producer 3 theatrical 4 prospective 3 major 2 famous 2 phony 2 eminent 3
+switch 1 drastic 2 other 2 electronic 4 individual 5 light 1
+discontent 3 great 1 social 2 certain 2
+parlor 2 beatnik 2 Victorian 4 small 1 funeral 3 town's 1 lit 1
+fallout 2 radioactive 5 Soviet 3 much 1 absolute 3 effective 3
+showing 2 first 1 inevitable 5 signal 2
+politician 4 skillful 2 average 3 Democratic 4 experienced 4 West 1 German 2
+elimination 5 natural 3 substantial 3 further 2
+badge 1 distinctive 3 special 2 black 1
+urgency 3 national 3 desperate 2 moral 2 immediate 4 terrible 3
+technology 4 increased 2 automotive 4 present 2 runaway 3 military 4 future 2 nuclear 3
+chain 1 second 2 certain 2 national 3 entire 3 additional 4 deductive 3 nationwide 3
+nature 2 good 1 erratic 3 specialized 3 peculiar 3 animal 3 moral 2 pragmatic 3 new 1 spiritual 4 divine 2 dual 2 raw 1 demanding 3 second 2 immoral 3 basic 2 human 2 deeply 2 very 2 inner 2 transformed 2 defensible 4 specialist 3 real 1 physical 3 metropolitan 5 civil 2 military 4 reflected 3 scientific 4 chemical 3 radical 3 detailed 2 floral 2 noble 2 essential 3 long-term 2 dynamic 3 Human 2 different 3 social 2 intrepid 3 terrifying 4
+drunk 1 lady 2 stark 1 dead 1
+tea 1 huge 1 weak 1 tansy 2 strong 1 famous 2 literary 4
+sea 1 open 2 great 1 ordinary 4 green 1 wooden 2 dead 1
+dozen 2 half 1 daily 2 several 2
+penetration 4 pianist's 3 musical 3 first 1 forceful 2 Russian 2 military 4 Soviet 3 deeper 2
+manipulation 5 proper 2 magical 3 magic 2 technological 5 pituitary 5
+meat 1 independent 4 fresh 1 insert 2 good 1 Simple 2
+attraction 3 new 1 magic 2 added 2 only 2 planetary 4 gravitational 5 cosmic 2 strong 1 physical 3
+error 2 grave 1 cardinal 3 slight 1 previous 3 first 1 ultimate 3 great 1 human 2 reversible 4
+choice 1 intelligent 4 logical 3 third 1 first 1 second 2 happy 2 moral 2 good 1 agonizing 4 other 2 only 2 own 1 wide 1 final 2 natural 3 varied 2 free 1 personal 3 limited 3 popular 3 careful 2 proud 1
+format 2 same 1 nonstop 2 basic 2
+tsunami 3 great 1 destructive 3 damaging 3 Japanese 3
+garage 2 adequate 3 central 2 ordinary 4 strange 1
+copy 2 engrossed 2 promotional 4 advance 2 prime 1 new 1 outdated 3 uniform 3 changeable 3 only 2 own 1 poor 1 exact 2 prepared 2 fair 1
+sale 1 secret 2 such 1 annual 3 forced 1 nationwide 3 voluntary 4 first 1
+bearing 2 regal 2 serious 3 vital 2 proud 1 scornful 2
+appeal 2 broad 1 public 2 limited 3 powerful 3 visual 3 wide 1 great 1 peculiar 3 aesthetic 3 impoverished 3 own 1
+stimulus 3 original 4 experiential 5 intellectual 5 positive 3 conditioned 3 additional 4
+inspiration 4 Christian 2 plenary 3 new 1
+emphasis 3 great 1 excessive 3 undue 2 appropriate 4 tremendous 3 exaggerated 5 chief 1 enough 2 rhythmic 2 primary 3 considerable 5 special 2 particular 4 much 1 new 1
+dialectic 4 inner 2 much 1 metrical 3 tragic 2
+accident 3 high 1 hunting 2 tragic 2
+lawn 1 floating 2 immaculate 4 smooth 1 front 1 little 2
+difficulty 4 only 2 fantastic 3 much 1 extreme 2 new 1 great 1 fundamental 4 basic 2 serious 3 considerable 5 relative 3 major 2 Serious 3 practical 3
+witness 2 first 1 bear 1 only 2 impartial 3
+intercourse 3 first 1 painless 2 premarital 4 sexual 3
+laborer 3 unskilled 2 ordinary 4 traditional 4
+hit 1 special 2 other 2 direct 2 lucky 2
+elite 2 native 2 intellectual 5 social 2 warrior 3
+event 2 only 2 current 2 big 1 great 1 final 2 historical 4 first 1 direct 2 same 1 novel 2 other 2 sporting 2 tragic 2 personal 3 confused 2 social 2 gala 2 such 1 annual 3 unusual 4 important 3 past 1 main 1 happy 2
+matter 2 whole 1 didn't 2 subject 2 small 1 delicate 3 personalized 4 serious 3 personal 3 separate 3 odd 1 brute 1 latter 2 dried 1 solid 2 different 3 complex 2 simple 2 inanimate 4 organic 3 sedimentary 5 difficult 3 won't 1 don't 1 important 3 little 2 legal 2 shouldn't 2
+help 1 military 4 financial 3 additional 4 technical 3 sympathetic 4 present 2 great 1 professional 4 big 1 little 2 unobtrusive 4 invaluable 4 outside 2 effective 3 decided 3 practical 3 secretarial 5
+lack 1 region's 2 relative 3 total 2 mere 1 present 2 remarkable 4 slight 1 comparative 4 complete 2
+decay 2 inevitable 5 rapid 2 same 1 social 2
+representative 5 young 1 honorable 4 official 3 perfect 2 legal 2 duly 2 authorized 3 powerful 3
+fury 2 own 1 hot 1 screaming 2 cursing 2 certain 2 raw 1 fighting 2
+daughter 2 young 1 little 2 king's 1 married 2 own 1 precious 2 modern 2
+athlete 2 incredible 4 amateur 3 prime 1 top 1
+prospect 2 industrial 4 wonderful 3 certain 2 apparent 3 frightful 2
+devotion 3 unusual 4 personal 3 sincere 2 traditional 4 ardent 2 sure 1
+belt 1 broad 1 neutral 2 natural 3
+bathing 2 few 1 inexpensive 4 public 2
+incentive 3 great 1 creative 3 added 2 important 3 positive 3 real 1
+trust 1 public 2 excessive 3 such 1 much 1 mutual 3 total 2
+killer 2 elusive 3 psychopathic 4 retired 2 professional 4
+trend 1 national 3 Long-term 2 long-term 2 fashionable 4 historical 4 painful 2 prominent 3 continued 3 significant 4 important 3 recent 2 definite 3
+orthography 4 possible 3 many 2 current 2
+partnership 3 productive 3 such 1 international 5 full 1 new 1
+illumination 5 ultraviolet 5 partial 2 complete 2 own 1 usual 3 nocturnal 3
+adventure 3 photographic 4 romantic 3 high 1 little 2
+interference 4 improper 3 indirect 3 Communist 3 such 1 excessive 3 destructive 3 objectionable 5 skywave 2 extensive 3 Political 4
+hill 1 steep 1 special 2 gentle 2
+suspension 3 massive 2 permanent 3 fluid 2 aqueous 3 cell 1
+museum 3 only 2 special 2 fascinating 4
+bloc 1 Communist 3 Eastern 2 Soviet 3
+orange 2 golden 2 old 1 fiery 3 great 1
+sweep 1 annual 3 brown 1 broad 1
+jet 1 modern 2 big 1 transoceanic 5
+individual 5 frustrated 3 arty 2 historical 4 good 1 free 1 aberrant 3 devoted 3 isolated 4 resident 3 certain 2 modal 2 important 3 anxious 2 unique 2
+broadcasting 3 oral 2 national 3 nighttime 2
+claim 1 prior 2 Christian 2 genuine 3 direct 2 different 3 such 1 individual 5 same 1 only 2 particular 4 implicit 3
+boycott 2 economic 4 general 3 wide 1
+close 1 teeth 1 early 2 general 3
+republic 3 first 1 free 1 other 2 Latin 2 American 4
+lunch 1 certain 2 white 1 silent 2 longshoremen's 3
+dilemma 3 interesting 3 first 1 second 2 great 1 crucial 2 serious 3 fatal 2 personal 3 unique 2
+desegregation 5 pending 2 further 2 pupil 2
+key 1 minor 2 few 1 final 2 abrupt 2 right 1 huge 1 cold 1
+absorption 3 calm 1 intense 2 poetic 3 normal 2
+ambassador 4 American 4 Soviet 3 northern 2
+nod 1 noncommittal 4 little 2 vigorous 3
+cool 1 kinda 2 roots 1 oh 1
+textile 2 international 5 American 4 British 2
+response 2 quick 1 usual 3 generous 3 only 2 common 2 critical 3 societal 4 reactionary 5 such 1 unfailing 3 negative 3 popular 3 identical 4 quantitative 4 emotional 4 parasympathetic 6 immediate 4 wrong 1 respectable 4 frantic 2 reasonable 4 fast 1 alert 2
+psychologist 4 academic 4 noted 2 clinical 3
+execution 4 rapid 2 previous 3 final 2
+honesty 3 tough 1 intellectual 5 personal 3
+alarm 2 awakened 3 proper 2 Victorian 4
+promise 2 abundant 3 devil's 2 implied 2 early 2 unfulfilled 3 great 1 rich 1 first 1 firm 1
+feat 1 remarkable 4 historical 4 amazing 3
+flair 1 clear 1 creative 3 colloquial 4
+surprise 2 added 2 such 1 grisly 2 delightful 3 one's 1 complete 2 great 1 certain 2 stunned 1 shocked 1 real 1
+essay 2 later 2 remarkable 4 long 1
+interval 3 brief 1 closed 1 entire 3 long 1
+extreme 2 other 2 opposite 3 former 2 logical 3 appropriate 4
+prosperity 4 relative 3 material 4 resurgent 3
+delegation 4 congressional 4 single 2 British 2 ambivalent 4 broad 1
+coast 1 opposite 3 east 1 old 1 north 1
+assessment 3 categorical 5 pessimistic 4 equitable 4 standard 2 preferred 2 exact 2 actual 3
+argument 3 impressive 3 theological 5 wordy 2 main 1 ideological 6 violent 3 same 1 rigorous 3 considerable 5 persuasive 3 first 1 second 2 third 1 fine 1 ironical 4 little 2 eloquent 3
+enemy 3 potential 3 camouflaged 3 later 2 aggressive 3 entire 3 open 2 implacable 4 someone's 2 defeated 3 deadly 2 identifiable 6
+succession 3 orderly 3 regular 3 spiritual 4 rapid 2 quick 1 such 1 logical 3
+admission 3 own 1 terminal 3 second 2 implicit 3
+assurance 3 inner 2 silken 2 much 1
+vehicle 3 heavy 2 insured 2 promising 3 appropriate 4 extensive 3
+bastard 2 black 1 poor 1 old 1 little 2
+sitting 2 personal 3 proxy 2 upstairs 2
+token 2 same 1 first 1 important 3
+domination 4 Communist 3 colonial 4 total 2 sexual 3 white 1 foreign 2
+accounting 3 own 1 epic 2 final 2
+disposition 4 sunny 2 good 1 final 2 gentle 2
+pleasure 2 genuine 3 pure 1 full 1 anticipated 5 keen 1 obvious 3 childish 2 considerable 5 great 1 ecstatic 3
+enrollment 3 undergraduate 5 permissive 3 current 2 total 2 enthusiastic 5
+neurosis 3 infantile 3 experimental 5 clinical 3
+whatever 3 possible 3 good 1 legs 1
+withdrawal 3 gradual 3 economic 4 legitimized 4
+letter 2 fascinating 4 today's 2 personal 3 changeable 3 separate 3 detailed 2 dead 1 good 1 sympathetic 4 previous 3 open 2 explanatory 5 second 2 official 3 cover 2 adventurous 4 anonymous 4 unsealed 2 last 1
+skill 1 marked 1 deadly 2 unusual 4 marketable 4 excellent 3 perceptual 4 superior 4 diplomatic 4 great 1 Considerable 5 technical 3 local 2 considerable 5 experimental 5 new 1
+opposite 3 cafe 2 equal 2 absolute 3
+starting 2 real 1 convenient 3 rough 1
+caliber 3 high 1 such 1 small 1
+folk 1 international 5 authentic 3 anonymous 4 fair 1 common 2 American 4 few 1 hardy 2 impious 3
+tank 1 nightclub 2 central 2 glorified 3
+gathering 3 large 1 particular 4 social 2 hostile 2
+legend 2 propagandistic 5 Southern 2 medieval 3 Faustian 2 whole 1
+twist 1 extra 2 little 2 quick 1 new 1 right 1
+link 1 exact 2 mysterious 4 important 3 thin 1
+extent 2 large 1 full 1 great 1 certain 2 limited 3 practicable 4 probable 3 considerable 5 same 1
+spectacle 3 brilliant 2 Russian 2 great 1 seasonal 3 amazing 3 horrible 3
+offering 3 new 1 weekly 2 pegged 1
+warning 2 negative 3 potential 3 emphatic 3 fair 1 important 3 unspoken 3
+span 1 possible 3 single 2 short 1
+tube 1 following 3 composite 3 experimental 5 discussed 2
+move 1 eloquent 3 citywide 3 first 1 peacemaking 3 next 1 last 1 didn't 2 false 1
+achievement 3 special 2 educational 5 professional 4 enduring 3 academic 4 constructive 3 literary 4 recent 2 final 2 total 2 mean 1 successful 3 great 1 national 3
+probability 5 terrible 3 human 2 reasonable 4 binomial 4 many 2 other 2 same 1
+oak 1 scrub 1 great 1 live 1
+thick 1 little 2 big 1 heavy 2
+judgment 2 such 1 poor 1 moral 2 quick 1 good 1 clinical 3 clear 1 own 1 independent 4 popular 3 subjective 3 charitable 4 bad 1
+decade 2 last 1 past 1 next 1 new 1 first 1 following 3 productive 3 later 2
+fun 1 healthy 2 outdoor 2 great 1
+membership 3 entire 3 enlarged 2 effective 3 chronological 5 major 2 denominational 6 net 1 active 2 complete 2 individual 5 congregational 5 homogeneous 5 whole 1 middle-class 3
+confession 3 own 1 extraordinary 5 remarkable 4
+engineer 3 aeronautical 5 advisory 4 senior 2 chief 1 registered 3 professional 4 chartered 2 electrical 4 outstanding 3 bright 1 young 1
+working 2 hard 1 Jewish 2 good 1
+height 1 considerable 5 minimum 3 full 1 mean 1 impossible 4
+president 3 school's 1 new 1 past 1 first 1 Democratic 4 former 2 secessionist 4 good 1 busy 2
+excitement 3 new 1 physical 3 emotional 4 youthful 2 great 1 crazy 2 terrible 3
+professor 3 good 1 other 2 old 1
+focus 2 sharp 1 proper 2 dramatic 3 central 2 clear 1 Local 2 local 2 cannot 2 real 1 electrostatic 5
+interplay 3 intricate 3 functional 3 hectic 2
+occasion 3 third 1 second 2 present 2 great 1 such 1 random 2 aforementioned 4 memorable 4 odd 1 little 2 sacred 2
+variable 4 descriptive 3 independent 4 continuous 4
+reform 2 political 4 new 1 penal 2 democratic 4 governmental 4 practical 3 long-overdue 4 Jewish 2 social 2
+effectiveness 4 military 4 complete 2 relative 3 overall 3 sufficient 3 increased 2 tactical 3
+spring 1 annual 3 early 2 sixth 1 straight 1 belated 3 last 1 late 1 next 1 suitable 3 come 1 following 3 new 1
+moment 2 tense 1 crucial 2 quiet 2 such 1 high 1 last 1 present 2 brief 1 single 2 unbridled 3 second 2 experimental 5 magnetic 3 first 1 seeming 2 same 1 perilous 3 poignant 2 shameful 2 next 1 long 1 silent 2 dramatic 3
+command 2 high 1 immediate 4 simple 2 multiple 3 key 1 same 1 central 2 immense 2 naval 2 one's 1 direct 2
+liberty 3 own 1 intellectual 5 Christian 2 personal 3 individual 5 religious 3 civil 2 precious 2 human 2 shore 1
+advice 2 other 2 sensible 3 homely 2 free 1 outside 2 legal 2 personalized 4 helpful 2 technical 3 medical 3 own 1 such 1 earthy 2
+preparation 4 enzyme 2 thorough 2 physical 3 adequate 3 vocational 4 specific 3 functional 3 artists' 2
+guidance 2 automatic 4 little 2 spiritual 4 cautious 2 conscious 2 ethical 3 sole 1 social 2 anticipatory 6 child 1 same 1 industry's 3
+cap 1 sleeve 1 hard 1 rusty 2
+depth 1 excellent 3 identical 4 little 2 new 1 such 1 probable 3 relative 3 cavernous 3
+antenna 3 external 3 outside 2 narrow 2
+pine 1 yellow 2 soft 1 smooth 1
+psyche 2 own 1 individual 5 human 2 disturbed 2
+proportion 3 major 2 direct 2 perfect 2 considerable 5 same 1 correct 2
+trunk 1 good 1 tree 1 upper 2
+prosecution 4 successful 3 federal 3 occasional 4 irrational 4
+lake 1 good 1 small 1 artificial 4
+debate 2 serious 3 great 1 strenuous 3 much 1 long 1 public 2
+jacket 2 white 1 light 1 same 1 gray 1
+gold 1 white 1 American 4 big 1 raw 1 small 1
+article 3 manufactured 4 American 4 small 1 initial 3 amazing 3 Spread 1 excellent 3 brief 1 thoughtful 2
+yesterday 3 present 2 new 1 alive 2 fired 2
+disturbance 3 prevalent 3 mental 2 spectacular 4 fundamental 4 other 2 emotional 4 small 1 inner 2
+title 2 prosaic 3 physique 2 medical 3 permanent 3 original 4 actual 3 equitable 4 clear 1
+listing 2 raucous 2 complete 2 alphabetical 5
+license 2 dog 1 untrammeled 3 medical 3 literary 4
+spirit 2 old 1 new 1 irresistible 5 real 1 departed 3 love's 1 same 1 traditional 4 nationalistic 5 tolerant 3 unique 2 fine 1 folksy 2 true 1 Jewish 2 human 2 related 3 common 2 joyous 2 evil 2 adventurous 4
+representation 5 ecclesiastical 6 symbolic 3 abstract 2
+dirt 1 old 1 black 1 rutted 2 hard 1 dusty 2 loose 1
+wire 2 barbed 1 short 1 last 1 electrical 4
+circular 3 last 1 wartime 2 right 1
+personality 5 collective 3 main 1 authoritarian 6 bigoted 3 creative 3 diverse 2 human 2 individual 5 comparative 4 general 3 teacher's 2 public 2
+strand 1 new 1 light 1 dark 1 single 2 first 1
+contradiction 4 evident 3 direct 2 explosive 3 ominous 3
+analogy 4 specific 3 forced 1 interesting 3 farfetched 2
+honor 2 first 1 such 1 international 5 eternal 3
+domain 2 exclusive 3 potential 3 entire 3
+playing 2 orchestra 3 you're 1 major 2 tragic 2 musician 3 last 1 athletic 3
+mother's 2 dead 1 anxious 2 unwed 2 widowed 2 poor 1
+suffrage 2 women's 2 universal 4 old 1
+consumer 3 Average 3 increased 2 rapid 2 recent 2 sustained 2 residential 4 new 1
+irritation 4 other 2 skin 1 individual 5
+publicity 4 recent 2 personal 3 bad 1 little 2 fine 1
+premise 2 needed 2 ethical 3 basic 2
+mastery 3 extraordinary 5 such 1 reasonable 4 complete 2
+daytime 2 middle 2 Such 1 additional 4
+plant 1 modest 2 industrial 4 little 2 many 2 other 2 expensive 3 primitive 3 new 1 physical 3 present 2 Physical 3 sparse 1 similar 3 electric 3 local 2 modern 2
+treaty 2 second 2 territorial 5 final 2
+get 1 they'll 1 we'll 1 let's 1 you'll 1
+enterprise 3 free 1 private 2 such 1 academic 4 new 1 unofficial 4 creative 3 challenging 3 thriving 2 cooperative 5 joint 1 commercial 3 common 2 superior 4
+diameter 4 top 1 large 1 maximum 3 angular 3 same 1 inside 2 minimum 3 inch 1 natural 3 small 1
+beach 1 private 2 denuded 3 attractive 3 warm 1 moonlit 2
+utterance 3 epigrammatic 5 precise 2 pure 1
+mobility 4 residential 4 optimum 3 social 2
+date 1 effective 3 same 1 open 2 favorite 3 future 2 appropriate 4 late 1 latter 2 memorable 4 actual 3 exact 2 early 2 final 2 due 1 regular 3 other 2 appended 3 approximate 4 impending 3
+constitution 4 free 1 tough 1 frail 1
+fall 1 last 1 formal 2 Last 1 next 1 pleasant 2 late 1 early 2 final 2 don't 1 pony 2 nasty 2
+designer 3 favorite 3 European 4 chic 1 interior 4 reputable 4 original 4
+variation 4 wide 1 fourth 1 fifth 1 little 2 much 1 superimposed 4 periodic 4 diurnal 3 considerable 5 such 1 individual 5
+drink 1 little 2 sixth 1 final 2 occasional 4 stiff 1 new 1
+staircase 2 fine 1 interior 4 marble 2 great 1 splendid 2 outdoor 2 outer 2
+concert 2 live 1 first 1 excellent 3 big 1 numerous 3 next 1
+drawer 1 bottom 2 top 1 secret 2
+nationalism 5 totalitarian 6 aroused 2 historical 4 today's 2 Italian 3
+council 2 present 2 general 3 private 2
+cook 1 chief 1 good 1 German 2
+servant 2 international 5 nobody's 3 public 2
+traveler 3 such 1 casual 3 occasional 4
+vitality 4 underlying 4 spiritual 4 dynamic 3 new 1 unique 2
+reception 3 small 1 welcome 2 tremendous 3 warm 1 royal 2 neutral 2 exclusive 3
+night 1 last 1 Last 1 big 1 next 1 rare 1 other 2 irresistible 5 pleasant 2 wild 1 dark 1 same 1 clear 1 interesting 3 summer's 2 previous 3 second 2 long 1 moonlight 2 important 3 festive 2 good 1 quiet 2 warm 1 cold 1 first 1 curious 3 black 1 hot 1 blue 1 late 1 cute 1 little 2
+costume 2 cowboy 2 same 1 ridiculous 4
+commitment 3 primary 3 unshakeable 4 American 4 Christian 2 active 2 concrete 2 serious 3
+spur 1 negative 3 great 1 short 1 thin 1
+injury 3 knee 1 leg 1 ankle 2 side 1 old 1 bodily 3 serious 3 economic 4 potential 3
+fabric 2 sufficient 3 other 2 similar 3 rubberized 3
+specialization 5 such 1 technical 3 Considerable 5 early 2
+cabin 2 large 1 small 1 double 2 same 1 tiny 2
+tennis 2 professional 4 dual 2 invitational 5 old 1
+curriculum 4 informal 3 educational 5 local 2
+soldier 2 great 1 trained 1 popular 3 ordinary 4 Russian 2 bad 1 magnificent 4 simple 2
+scope 1 wild 1 optimum 3 present 2
+productivity 5 unusual 4 critical 3 new 1
+bed 1 beautiful 3 lasting 2 marital 3 trundle 2 alveolar 4 common 2 capillary 4 same 1 imagined 3 dry 1
+adviser 3 trusted 2 special 2 military 4 legal 2
+proposal 3 similar 3 modest 2 central 2 remarkable 4 eventual 4
+dimension 3 satisfying 4 adequate 3 ethical 3 fourth 1 religious 3 new 1 single 2
+disappointment 4 great 1 abrupt 2 bitter 2 common 2
+artillery 4 small 1 Communist 3 heavy 2 French 1
+hillside 2 narrow 2 rocky 2 impassable 4 long 1
+introduction 4 fine 1 famous 2 perfect 2 easy 2 finale 3
+autumn 2 last 1 freezing 2 late 1
+efficiency 4 maximum 3 deadly 2 technical 3 industrial 4 southern 2 equal 2 physical 3 astonishing 4 luminous 3 combined 2
+detail 2 vital 2 clerical 3 personal 3 affectionate 4 specific 3 photographic 4 considerable 5 much 1 significant 4 factual 3 warm 1 sharp 1 great 1 complete 2 special 2 tiny 2 exquisite 3
+tragedy 3 unrelieved 3 ironic 3 near 1 much 1 mixed 1 Athenian 4 Greek 1 private 2 Shakespearean 4 fearful 2
+poems 2 short 1 early 2 later 2 dated 2
+bulwark 2 strong 1 powerful 3 necessary 4
+friction 2 racial 2 resultant 3 local 2
+era 2 new 1 present 2 apocalyptic 5 specific 3
+independence 4 grant 1 new 1 financial 3 American 4 habitual 4
+financing 3 own 1 individual 5 single 2
+justification 5 certain 2 perpetual 4 questionable 4 possible 3 real 1
+melancholy 4 equal 2 last 1 night's 1
+smooth 1 real 1 worn 1 little 2
+autonomy 4 economic 4 legal 2 American 4 practical 3 local 2 individual 5 broad 1
+acceptance 3 Democratic 4 organization's 5 public 2 such 1 general 3 widespread 2 unconscious 3 social 2 ultimate 3 conventional 4 complete 2 broad 1 wide 1 simplistic 3 individual 5 provisional 4 flat 1 comfortable 4
+dependent 3 utterly 3 degree 2 long 1 you're 1
+prison 2 federal 3 temporary 4 Siberian 4
+nutrition 3 basic 2 good 1 adequate 3
+setup 2 standby 2 neat 1 own 1 ecological 5
+scar 1 gray 1 long 1 thin 1 ugly 2 funny 2 little 2
+fringe 1 narrow 2 glorious 3 extravagant 4 particular 4
+influence 3 Christian 2 calming 2 Chinese 2 pervasive 3 other 2 social 2 German 2 strong 1 Italian 3 evil 2 different 3 considerable 5 American 4 international 5 Soviet 3 Western 2 unique 2 dominant 3 nominal 3 father's 2 powerful 3 reciprocal 4 literary 4 classical 3 personal 3 subtle 2 bad 1 little 2 tremendous 3 profound 2 such 1 voluntary 4 decisive 3 nationalizing 5 much 1 principal 3
+poverty 3 agricultural 5 independent 4 cultural 3 much 1
+fiber 2 moral 2 cylindrical 4 small 1
+plain 1 writ 1 empty 2 dusty 2
+story 2 old 1 simple 2 British 2 detective 3 fascinating 4 true 1 rehearsed 2 first 1 short 1 straightforward 3 occasional 4 upper 2 top 1 incest 2 remarkable 4 popular 3 amazing 3 romantic 3 tense 1 classic 2 big 1 familiar 3 famous 2 whole 1 fantastic 3 sad 1 forthright 2
+benefit 3 material 4 richly 2 marked 1 ultimate 3 unprecedented 5 positive 3 own 1
+cloud 1 satisfactory 4 initial 3 dense 1
+cemetery 4 modest 2 rural 2 Jewish 2 old 1 small 1 French 1
+sector 2 important 3 western 2 many 2 agricultural 5 urban 2 untouched 2 rural 2
+stroke 1 first 1 swift 1 upward 2 remarkable 4
+aunt 1 maiden 2 real 1 old 1
+restraint 2 spiritual 4 such 1 political 4 literary 4 external 3
+lamb 1 black 1 Persian 2 fresh 1
+consumption 3 high 1 popular 3 conspicuous 4
+misunderstanding 5 basic 2 total 2 much 1 great 1
+grave 1 proportionate 4 common 2 unmarked 2
+humanity 4 new 1 radiant 3 fellow 2 degraded 3
+characteristic 5 unusual 4 uniquely 3 known 1 revolt 2 depth 1 chief 1 similar 3 amateurish 4 dogmatic 3 obvious 3 peculiar 3 common 2 deplorable 4 essential 3
+purity 3 ideological 6 classic 2 high 1
+myth 1 primitive 3 social 2 classic 2
+cohesion 3 political 4 induced 2 social 2
+proof 1 further 2 scientific 4 positive 3 final 2 abundant 3 adequate 3 concrete 2 former 2 definite 3
+skirt 1 flared 1 clean 1 green 1 tight 1
+mail 1 daily 2 direct 2 regular 3
+continent 3 American 4 African 3 North 1 lost 1 Which 1
+sin 1 cardinal 3 classic 2 human 2 original 4 private 2 deadly 2
+county 2 former 2 Democratic 4 other 2 only 2 particular 4 populated 4 whole 1 entire 3
+diffusion 3 ideological 6 pronounced 2 thermal 2 vertical 3
+bank 1 convicted 3 custodian 4 local 2 south 1 cloud 1 east 1 left 1 arroyo 3 wrong 1 soft 1 faro 2 high 1 big 1
+suburb 2 quiet 2 little 2 mere 1 modern 2
+eye 1 public 2 critical 3 humorous 3 sensible 3 natural 3 human 2 wary 2 observant 3 mythological 5 private 2 fictional 3 American 4 big 1 little 2 close 1 hard 1 afflicted 3 black 1 maternal 3 blank 1 naked 2 left 1 omniscient 3 magical 3 steely 2
+pot 1 large 1 big 1 deep 1
+south 1 mile 1 tract 1 industrialized 5
+humor 2 American 4 good 1 bright 1 gruesome 2 much 1 awful 2 impatient 3 real 1 grim 1
+winter 2 past 1 last 1 severe 2 bitter 2 lean 1 long 1 cold 1 late 1 many 2 unglamorous 4 rugged 2 dismal 2
+gratitude 3 nation's 2 eternal 3 humble 2
+corporation 4 prominent 3 good 1 new 1 other 2 modern 2 final 2 American 4 British 2 same 1 different 3 skeleton 3
+answer 2 probable 3 only 2 complete 2 short 1 existential 4 real 1 simple 2 negative 3 possible 3 tolerable 4 satisfactory 4 ultimate 3 same 1 ready 2
+columns 2 green 1 same 1 majestic 3 Greek 1 digital 3
+welcome 2 warm 1 formal 2 official 3 obvious 3
+cry 1 Laotian 3 full 1 weird 1 massive 2 didn't 2 harsh 1
+testing 2 resume 2 nuclear 3 Russian 2 further 2 full 1 atmospheric 4 electronic 4 rapid 2
+depreciation 5 certain 2 Special 2 realistic 4 allowable 4
+indication 4 avant 2 garde 1 good 1 obvious 3 yellow 2
+excuse 2 further 2 frequent 2 possible 3 easy 2 plausible 3 favorite 3 good 1
+pickup 2 sharp 1 first 1 decided 3
+vein 1 nautical 3 same 1 similar 3 pulmonary 4 favorable 4 pessimistic 4 rich 1 large 1
+boredom 2 acute 2 restless 2 awful 2
+impetus 3 marked 1 chief 1 initial 3
+measurement 3 simultaneous 5 simple 2 single 2 convincing 3 recent 2 practical 3
+voyage 2 last 1 tragic 2 fourth 1 second 2 third 1 first 1 long 1 glorious 3
+bargaining 3 political 4 collective 3 poor 1 international 5
+anyone 3 past 1 isn't 2 little 2
+satire 3 classic 2 hilarious 4 brilliant 2 personal 3 bitter 2
+recognition 4 widespread 2 kindly 2 first 1 public 2 specific 3 man's 1 parallel 3 technical 3 vague 1 national 3 effective 3 formal 2 overt 2 painful 2
+football 2 university's 5 much 1 American 4
+approximation 5 good 1 reasonable 4 first 1
+bare 1 deep 1 few 1 great 1
+mapping 2 basic 2 Basic 2 fifth 1
+week's 1 next 1 last 1 full 1
+maturity 4 maximum 3 special 2 sexual 3 skeletal 3 intermediate 5 convenient 3 entire 3 Emotional 4
+poetry 3 early 2 romantic 3 much 1 new 1 later 2 idyllic 3 modern 2 oral 2
+recreation 4 popular 3 characteristic 5 wholesome 2 simple 2 Idle 2
+approval 3 federal 3 direct 2 public 2 necessary 4 unqualified 4 judicial 3 positive 3 social 2 popular 3 personal 3 legislative 4 administrative 5
+communion 3 Unitarian 5 quiet 2 first 1
+drift 1 unintelligible 6 winter 2 general 3 secular 3
+profile 2 new 1 composite 3 common 2 vertical 3
+confrontation 4 personal 3 dramatic 3 first 1 collective 3 primitive 3 Direct 2
+connection 3 apparent 3 personal 3 close 1 own 1 unbreakable 4 such 1 direct 2 hose 1 symbolic 3 final 2
+ingredient 4 chief 1 primary 3 main 1 necessary 4 major 2 secret 2
+decorator 4 amateur 3 local 2 good 1 professional 4
+wash 1 flat 1 first 1 several 2 laboratory 4 single 2 cylindrical 4
+outcome 2 probable 3 possible 3 unhealthy 3 successful 3
+executive 4 young 1 local 2 rare 1 chief 1 successful 3 top 1 high 1 responsible 4 other 2
+aggression 3 piecemeal 2 British 2 unlimited 4 Soviet 3 underlie 3
+standpoint 2 commercial 3 technical 3 psychological 5
+socialism 4 covert 2 overt 2 good 1 British 2 radical 3 modern 2
+manure 2 mechanical 4 supplementary 5 converted 3
+peace 1 inner 2 perfect 2 empty 2 wonderful 3 guaranteed 3 negotiated 5 international 5 own 1 cosmic 2 individual 5 satellite 3 domestic 3
+stream 1 steady 2 additional 4 main 1 endless 2 constant 2 sizable 3 grand 1 dirty 2 cold 1 little 2
+minute 2 last 1 next 1 Many 2 good 1 long 1 full 1
+pencil 2 lead 1 entire 3 general 3 arbitrary 4
+label 2 definite 3 contemporary 5 full 1 private 2 actual 3 symbolic 3
+separation 4 dramatic 3 muscular 3 final 2 permanent 3 formal 2 speedy 2
+element 3 positive 3 important 3 prime 1 human 2 lyric 2 cinematic 4 sexual 3 cohesive 3 single 2 intrusive 3 unmistakable 5 principal 3 next 1 effective 3 formulaic 4 crucial 2 sixth 1 major 2 second 2
+backlog 2 nation's 2 large 1 big 1 huge 1 great 1
+advance 2 significant 4 gradual 3 ecumenical 5 decisive 3 great 1 technical 3 rapid 2
+giant 2 ancient 2 young 1 parliamentary 5
+attainment 3 real 1 particular 4 civilized 3 spiritual 4
+restriction 3 corresponding 4 legislative 4 salt 1
+horror 2 persistent 3 extravagant 4 fascinated 4 headless 2 previous 3 night's 1
+presence 2 mysterious 4 female 2 physical 3 unseen 2 vigorous 3
+texture 2 crisp 1 musical 3 right 1 granular 3 skin 1
+account 2 conservative 4 careful 2 due 1 inaccurate 4 major 2 prejudiced 3 small 1 melodramatic 5 conventional 4 political 4 own 1 authentic 3
+resource 2 only 2 new 1 important 3 expendable 4 natural 3 other 2 financial 3
+epic 2 long 1 fantastic 3 oral 2 contemporary 5 entire 3
+displacement 3 engine's 2 total 2 such 1 formal 2
+awareness 3 public 2 intense 2 intellectual 5 incisive 3 emphatic 3 conscious 2 rational 3 spatial 2 much 1 suggest 2 sexual 3
+exception 3 possible 3 only 2 single 2
+cooling 2 separate 3 much 1 necessitate 4 extensive 3
+curve 1 upper 2 middle 2 such 1 rotated 3 original 4 analytic 4 twisted 2 single 2 smooth 1
+assault 2 direct 2 criminal 3 only 2 sizable 3 picked 1 constant 2
+bathroom 2 American 4 dark 1 new 1
+fantasy 3 similar 3 little 2 boy's 1 innocent 3 oedipal 3
+festival 3 quadrennial 4 American 4 political 4
+onion 2 minced 1 small 1 large 1
+fertility 4 high 1 general 3 ancient 2
+enthusiasm 5 new 1 excessive 3 little 2 early 2 only 2
+speaker 2 featured 2 principal 3 non-Catholic 3 first 1 second 2 next 1 last 1
+butchery 3 annual 3 first 1 stupid 2
+mechanisms 4 financial 3 synthetic 3 detailed 2
+cavity 3 carved 1 mold 1 deep 1 oral 2 abdominal 4
+iron 2 Good 1 old 1 rusty 2 structural 3 heavy 2
+offer 2 reasonable 4 tempting 2 generous 3
+discomfort 3 temporary 4 slight 1 physical 3
+crop 1 present 2 year's 1 fresh 1 certain 2 excellent 3 whole 1 particular 4 frozen 2
+romance 2 American 4 elaborate 3 local 2
+currency 3 British 2 steady 2 local 2 Local 2
+survey 2 serious 3 annual 3 first 1 careful 2 recent 2 general 3 exhaustive 3 cursory 3 small 1 local 2 preliminary 5 swift 1
+fool 1 crazy 2 pliant 2 credible 3 old 1
+favor 2 popular 3 such 1 big 1 Big 1 special 2 small 1 great 1
+club 1 local 2 first 1 top 1 proper 2 atomic 3 exclusive 3 social 2 residential 4 athletic 3
+stone 1 brown 1 flat 1 great 1 same 1 naked 2 old 1 big 1 steep 1
+sailing 2 first 1 day's 1 remarkable 4
+custom 2 old 1 universal 4 new 1 uncomfortable 5
+department 3 nation's 2 different 3 first 1 large 1 auxiliary 4 downtown 2 other 2 several 2
+jungle 2 semantic 3 green 1 stagnant 2
+prominence 3 military 4 sufficient 3 new 1
+candidate 3 Democratic 4 gubernatorial 6 new 1 political 4 unity 3 only 2 possible 3 inspiring 3 splendid 2 former 2 conservative 4
+drop 1 marked 1 single 2 modest 2 spherical 3 relative 3 few 1
+ignorance 3 enormous 3 such 1 abysmal 3 blissful 2
+rice 1 cooked 1 dry 1 total 2 lukewarm 2
+ridge 1 low 1 cleared 1 protective 3 high 1 new 1
+meaning 2 real 1 particular 4 effective 3 true 1 social 2 symbolic 3 special 2 similar 3 ultimate 3 dictionary 4 central 2 such 1 aesthetic 3 vital 2 consistent 3 possible 3 constant 2 comparable 4 political 4 literal 3 intelligible 5 only 2 intellectual 5 remote 2 own 1 double 2
+fog 1 verbal 2 merciful 3 moderate 3 cold 1
+relation 3 little 2 worker's 2 common 2 vital 2 right 1 poignant 2 tangential 3 following 3 reciprocal 4 actual 3 intelligible 5 such 1 only 2 stable 2
+intensity 4 serious 3 impetuous 3 same 1 lyrical 3 low 1 observed 2 thermal 2 absorbed 2 light 1 relative 3 strange 1 fixed 1 frantic 2
+university 5 true 1 major 2 American 4 many 2 former 2 local 2 entire 3 proper 2
+architecture 4 own 1 Western 2 domestic 3
+trouble 2 little 2 real 1 mendacious 3 same 1 much 1 particular 4 financial 3 considerable 5 serious 3 possible 3 only 2
+relaxation 4 noticeable 4 dubious 3 thermal 2
+businessman 3 simple 2 successful 3 young 1 sharp 1
+failure 2 party's 2 notable 3 latter 2 political 4 individual's 5 old 1 military 4 chronic 2 congestive 3 complete 2 pure 1 cohesive 3 dynamic 3 type 1 absolute 3 brilliant 2 coincidental 5 recent 2
+turtle 2 surprised 2 snapping 2 good 1
+discrimination 5 racial 2 Racial 2 sufficient 3 fundamental 4 adequate 3
+temper 2 civic 2 own 1 violent 3
+superiority 6 nuclear 3 obvious 3 complete 2 great 1 systematic 4 metaphysical 5 secret 2
+wasn't 2 south 1 Indian 3 mine 1 ravenous 3 eating 2
+dance 1 crazy 2 new 1 public 2 magnificent 4 confident 3 vigorous 3 Indian 3 human 2 modern 2 funny 2 little 2 regular 3 slow 1
+credo 2 collective 3 dominant 3 sociological 6
+scenery 3 lovely 2 sunny 2 spectacular 4
+narrative 3 lively 2 military 4 fictional 3 outstanding 3 entire 3 sustained 2
+composition 4 whole 1 unified 3 social 2 musical 3 fictional 3 literary 4 formal 2 oral 2 rapid 2
+emergency 4 snow 1 major 2 national 3 early 2 international 5 extreme 2
+breakfast 2 good 1 full 1 right 1 much 1 old 1
+grain 1 pronounced 2 whole 1 social 2 stored 1
+file 1 complete 2 smooth 1 permanent 3 central 2 special 2 dictionary 4 wooden 2 single 2
+edition 3 first 1 great 1 splendid 2 new 1 present 2 second 2 eventual 4 third 1 sixth 1 seventh 2 limited 3
+deficit 3 anticipated 5 increased 2 postal 2
+association 5 close 1 residential 4 coerced 2 free 1 long 1 long-term 2 negative 3 knit 1
+limit 2 reasonable 4 elastic 3 upper 2 effective 3 serious 3
+while 1 long 1 short 1 little 2 good 1
+filling 2 single 2 same 1 initial 3
+anything 3 seldom 2 uttering 3 long 1
+individualism 7 restless 2 rugged 2 dangerous 3 precious 2
+bee 1 solitary 4 alkali 3 angry 2
+leg 1 entire 3 upper 2 deep 1 right 1 human 2 own 1 left 1 white 1 wooden 2 other 2
+singing 2 nice 1 raucous 2 male 1
+Symphony 3 witty 2 little 2 Classical 3
+circle 2 own 1 large 1 back 1 wider 2 vicious 2 perfect 2 magic 2 great 1 full 1 burnt 1 big 1 fortified 3 red 1 bright 1 youthful 2 wide 1 pink 1
+cruelty 2 mental 2 excessive 3 cold-blooded 3 active 2 gentle 2
+phenomena 4 startling 2 natural 3 remarkable 4 physical 3 possible 3
+historian 4 early 2 English 2 respectable 4 impartial 3
+god 1 wooden 2 great 1 golden 2
+uncertainty 4 considerable 5 create 2 such 1
+landscape 2 amateur 3 common 2 American 4 certain 2 mental 2 inert 2
+alive 2 much 1 burnt 1 flesh 1
+formulas 3 scientific 4 above 2 rational 3 basic 2
+correspondence 4 close 1 little 2 delightful 3 lengthy 2
+reliance 3 British 2 uncritical 4 winsome 2
+flash 1 big 1 temporary 4 first 1 human 2 indefinable 5 cool 1 windshield 2
+official 3 top 1 high 1 Belgian 2 other 2 minor 2 public 2
+mare 1 gentle 2 old 1 new 1 black 1 little 2
+whisper 2 hoarse 1 patient 2 sweet 1 anxious 2
+soap 1 common 2 brown 1 sufficient 3
+drama 2 little 2 Biblical 3 original 4 religious 3 classical 3 divine 2 human 2 legitimate 4 public 2 romantic 3 antique 2 good 1
+criminal 3 magnificent 4 potential 3 real 1 common 2
+monk 1 spiritual 4 old 1 conventional 4
+realism 3 political 4 vivid 2 photographic 4 artistic 3 earthy 2 grim 1 stark 1
+ego 2 little 2 own 1 human 2
+slope 1 steep 1 nearby 2 muddy 2 roof 1 downward 2
+occupation 4 mayor's 2 annual 3 state's 1 joint 1 Russian 2 military 4 French 1 imagined 3 useless 2
+twenty 2 extra 2 seacoast 2 past 1
+queen 1 young 1 new 1 gentle 2 unfortunate 4
+ordinance 3 new 1 infamous 3 local 2
+cut 1 Salary 3 special 2 next 1 annual 3 short 1 poodle 2
+utility 4 public 2 wonderful 3 extensive 3 Western 2 particular 4 electric 3 modern 2
+holiday 3 legal 2 French 1 damned 1
+exhibition 4 heartening 3 current 2 gigantic 3
+civilization 5 new 1 American 4 Western 2 political 4 Christian 2 outside 2 European 4 Greek 1 capitalist 4
+man's 1 dead 1 common 2 old 1 fat 1 young 1 rich 1 other 2 big 1 elderly 3
+interaction 4 molecular 4 uniform 3 social 2 Intense 2 characteristic 5 predicted 3
+wheat 1 whole 1 cracked 1 sprouted 2
+roll 1 undeveloped 4 unreleased 3 steady 2
+string 1 own 1 thin 1 ragged 2
+afternoon 3 early 2 harrowing 3 Newport's 2 last 1 year's 1 long 1 late 1 dull 1 legislative 4 sunshiny 3 dark 1 other 2
+overhead 3 exhaust 2 disproportionate 5 close 1
+operating 4 normal 2 hot 1 own 1 net 1 total 2 imputed 3 annual 3 admissible 4
+dust 1 reddish 2 own 1 atmospheric 4 dry 1 white 1 red 1 Permian 3 stinging 2 pale 1
+month 1 Last 1 last 1 second 2 third 1 consecutive 4 final 2 natal 2 first 1 same 1 full 1
+tribunal 3 revolutionary 6 impartial 3 international 5
+speed 1 top 1 high 1 incredible 4 unaccustomed 4 full 1 exact 2 various 3 correct 2 deliberate 4 usual 3 such 1 extraordinary 5 great 1 reckless 2 desired 3 unprecedented 5 undiminished 4 same 1
+cover 2 fitting 2 linen 2 effective 3
+woman's 2 dead 1 paranoid 3 old 1 murdered 2
+institution 4 private 2 amorphous 3 social 2 own 1 conservative 4 American 4 unique 2 educational 5 other 2 mental 2
+gait 1 choppy 2 impressive 3 good 1 violent 3
+depression 3 deep 1 slight 1 economic 4 tragic 2
+suite 1 ambassador's 4 usual 3 elegant 3 same 1 particular 4
+testimony 4 impressive 3 own 1 immaterial 5 perpetual 4 incomparable 5 following 3 circuitous 4 final 2
+commission 3 fish 1 colonel's 2 divine 2
+homogeneity 6 authentic 3 social 2 certain 2
+performer 3 great 1 good 1 steady 2 virtuoso 4
+luck 1 bad 1 good 1 Good 1 own 1 mixed 1 such 1
+package 2 supernatural 5 single 2 nice 1 teensy 2 walking 2
+norm 1 concrete 2 regulative 4 national 3 single 2 legal 2
+stereotype 4 current 2 present 2 sociological 6 verbal 2
+amount 2 unspecified 4 full 1 maximum 3 total 2 large 1 undetermined 4 similar 3 excessive 3 tremendous 3 fair 1 significant 4 appreciable 4 ideal 2 sizeable 3 equal 2 generous 3 same 1 huge 1 adequate 3 certain 2 immense 2 specified 3 substantial 3 principal 3 negligible 4 small 1 sufficient 3 considerable 5 required 3 increased 2 reduced 2 disturbing 3 surprising 3 average 3 comparable 4 sizable 3 calculated 4 correct 2 own 1
+silent 2 old 1 erotic 3 undercurrent 4
+pastor 2 old 1 new 1 colored 2
+competence 3 quiet 2 individual 5 technical 3 mathematical 5 professional 4
+noise 1 possible 3 manmade 2 adequate 3 other 2 slight 1 much 1
+dictatorship 4 benevolent 4 totalitarian 6 profitable 4
+atmosphere 3 friendly 2 ideological 6 historical 4 informal 3 supernatural 5 psychological 5 new 1 general 3 economic 4 pessimistic 4 confused 2 extensive 3 sophisticated 5 certain 2
+handling 2 excessive 3 mechanical 4 mechanized 3 impolitic 4 dramatic 3
+con 1 chili 2 vicious 2 medical 3
+acquaintance 3 wide 1 nodding 2 other 2
+works 1 other 2 public 2 actual 3 federal 3 good 1
+functioning 3 daily 2 social 2 dynamic 3 complex 2
+affection 3 tangible 3 abiding 3 endless 2 humorous 3 mutual 3 brotherly 3 true 1
+sitter 2 interested 3 proxy 2 absent 2 distant 2 eager 2
+fishing 2 Irish 2 next 1 blue 1
+manpower 3 Relative 3 military 4 outside 2 trained 1 such 1 skilled 1
+cat 1 thin 1 little 2 Grecian 2 scared 1 direct 2
+fence 1 left 1 wooden 2 south 1 north 1 whitewashed 2
+usage 2 former 2 present 2 dictionary 4 actual 3 conflicting 3
+defeat 2 certain 2 disastrous 3 dismal 2 prior 2 ultimate 3 American 4 first 1 permanent 3
+brush 1 cheap 1 stiff 1 other 2 broad 1
+visitor 3 regular 3 important 3 constant 2 occasional 4 other 2
+mode 1 mythological 5 simple 2 preferred 2 general 3 other 2 symbolic 3 only 2 major 2
+bone 1 flat 1 cracked 1 short 1 hard 1 single 2 painted 2
+moon 1 full 1 imperial 4 new 1 delayed 2
+deviation 4 slight 1 standard 2 angular 3
+present 2 bodily 3 sterile 2 alien 3 main 1 wonderful 3
+text 1 full 1 brief 1 published 2 new 1
+mud 1 polished 2 original 4 thick 1 viscous 2 deep 1
+publication 4 first 1 official 3 extensive 3
+efficacy 4 irresistible 5 causal 2 relative 3
+Spring 1 next 1 famous 2 late 1 Annual 3 Early 2
+success 2 artistic 3 continued 3 great 1 impressive 3 financial 3 poor 1 dazzling 3 precarious 4 materialistic 6 popular 3 substantial 3 considerable 5 apparent 3 unusual 4 simple 2 pragmatic 3 astonishing 4 further 2 easy 2 same 1 unqualified 4 much 1 consecutive 4 big 1 unhappy 3
+grace 1 much 1 incredible 4 natural 3 easy 2 bad 1 mad 1 masculine 3
+sacrifice 3 needed 2 human 2 yearly 2 considerable 5 financial 3 supreme 2 great 1 personal 3 ultimate 3 annual 3
+beard 1 wispy 2 great 1 white 1 auburn 2 red 1 sparse 1 thin 1 short 1 black 1 long 1
+recourse 2 last 1 frequent 2 only 2
+instance 2 particular 4 first 1 specific 3 such 1 analogous 4
+flower 2 wilted 2 unusual 4 same 1
+delight 2 special 2 childish 2 sadistic 3 evident 3 great 1
+initiative 4 sexual 3 little 2 private 2 real 1 individual 5 fierce 1
+dish 1 favorite 3 oyster 2 popular 3 important 3
+portrait 2 genial 2 tribal 2 coherent 3
+ward 1 beloved 2 psychopathic 4 small 1
+opportunity 5 convenient 3 first 1 further 2 national 3 possible 3 timely 2 ample 2 full 1 students' 2 marvelous 3 reasonable 4 unique 2 equal 2 cultural 3 educational 5
+announcement 3 American 4 naval 2 recent 2 original 4 second 2 interim 3 public 2 previous 3 special 2
+bidding 2 competitive 4 advertised 3 negotiated 5
+commotion 3 such 1 shrill 1 girlish 2 mild 1
+rendering 3 abbreviated 5 individualized 6 feeble 2 amateur 3
+thirty 2 first 1 past 1 average 3 last 1 next 1
+valley 2 raped 1 wide 1 whole 1
+dream 1 American 4 previous 3 common 2 typical 3 beautiful 3 eternal 3 conceived 2 romantic 3 little 2
+joke 1 wry 1 little 2 practical 3 big 1 devilish 2
+promotion 3 new 1 coveted 3 local 2 industrial 4 merit 2 right 1
+illustration 4 previous 3 medical 3 personal 3
+clearing 2 small 1 snow 1 logical 3
+flow 1 free 1 endless 2 sluggish 2 unrestricted 4 continuous 4
+scientist 3 political 4 German 2 rare 1 social 2 electronic 4 great 1
+ritual 3 royal 2 mealtime 2 rigid 2 disguised 2 dramatic 3 weekly 2
+wisdom 2 little 2 unconventional 5 sufficient 3 conventional 4 accepted 3 sublime 2 old 1 sensuous 3 glorious 3 infinite 3 bitter 2
+episode 3 new 1 entire 3 small 1 main 1 central 2 planned 1 trivial 3
+park 1 new 1 national 3 basic 2 beautiful 3 open 2 green 1 public 2
+frequency 3 resonant 3 own 1 same 1 high 1 relative 3 low 1
+evolution 4 historical 4 biological 5 future 2 human 2 organic 3 religious 3 long 1
+adjustment 3 seasonal 3 physiological 6 definite 3 final 2 social 2 personal 3 required 3 Specific 3 accurate 3
+medicine 3 socialized 3 preventive 3 folk 1 military 4 historical 4 black 1 chosen 2
+controversy 4 hot 1 religious 3 considerable 5 unnecessary 5 bitter 2 additional 4 long 1 political 4 major 2
+tape 1 magnetic 3 red 1 separate 3 adhesive 3
+movie 2 masterful 3 cerebral 3 first 1 costume 2 beautiful 3 recent 2 British 2
+ballet 2 American 4 Russian 2 sound 1 technical 3 white 1 other 2 solo 2 magnificent 4 famous 2 young 1 sexy 2
+commerce 2 interstate 3 domestic 3 such 1
+television 4 nationwide 3 live 1 venerable 4 extra 2 national 3 same 1 first 1
+pipe 1 lead 1 thin 1 black 1
+core 1 inner 2 hard 1 nuclear 3 mysterious 4
+organ 2 great 1 first 1 parliamentary 5
+sex 1 odd 1 uptown 2 first 1 important 3 traditional 4 uninhibited 5 prolonged 2 opposite 3
+complaint 2 federal 3 early 2 common 2 skeletal 3 vague 1
+cold 1 bad 1 extended 3 miserable 4 bitter 2
+disregard 3 general 3 callous 2 exceptional 4
+rag 1 clean 1 wet 1 oiled 1
+railroad 2 French 1 main 1 broken 2 private 2 eastern 2
+darkness 2 cool 1 total 2 strange 1
+employee 3 improved 2 additional 4 American 4 civilian 3 retired 2
+injustice 3 cruel 2 widespread 2 great 1
+enjoyment 3 much 1 public 2 lusty 2
+syntax 2 conventional 4 sprung 1 old 1
+break 1 fair 1 violent 3 evident 3 major 2
+wage 1 basic 2 own 1 monthly 2
+collaboration 5 close 1 first 1 economic 4
+equivalent 4 musical 3 decimal 3 decent 2 rupee 2 substantial 3
+resident 3 own 1 pioneer 3 other 2
+royal 2 Belgian 2 French 1 whole 1
+styrene 2 impact 2 expandable 4 rigid 2
+front 1 left 1 Latin 2 American 4 upper 2 entire 3 own 1 military 4 economic 4 united 3 Russian 2 open 2
+edge 1 scalloped 2 competitive 4 rough 1 sharp 1 dramatic 3 stiff 1 ragged 2
+ugliness 3 contorted 3 certain 2 rugged 2
+fan 1 confirmed 2 giant 2 avocado 4
+fulfillment 3 utterly 3 unhurried 3 complete 2 erotic 3 marital 3 spiritual 4 supreme 2
+stool 1 high 1 camp 1 piano 3
+allotment 3 minimum 3 maximum 3 unadjusted 4
+reporting 3 national 3 financial 3 meaningful 3 intergovernmental 6 mandatory 4
+gasps 1 slow 1 painful 2 harsh 1
+diplomat 3 skilled 1 veteran 3 foreign 2
+preoccupation 5 same 1 considerable 5 intensive 3 modern 2 unusual 4
+pocket 2 empty 2 own 1 last 1 same 1 funny 2 little 2
+push 1 big 1 forward 2 strong 1
+handkerchief 3 clean 1 same 1 dirty 2
+care 1 mammoth 2 new 1 medical 3 such 1 voluntary 4 special 2 extreme 2 partial 2 good 1 proper 2 pastoral 3 paternalistic 5 great 1 critical 3 much 1 didn't 2
+landing 2 first 1 second 2 next 1
+photographs 3 numerous 3 excellent 3 transparent 3
+registration 4 continuous 4 European 4 other 2
+slate 1 rival 2 primary 3 clean 1
+chairman 2 former 2 ticket 2 long 1 temporary 4
+step 1 route 1 first 1 next 1 affirmative 4 necessary 4 giant 2 positive 3 irreversible 5 decisive 3 traditional 4 dog 1 important 3 short 1 long 1 constructive 3 second 2 big 1 major 2 terrible 3 further 2 drastic 2 third 1 fourth 1 last 1 final 2 easy 2 intermediate 5 revolutionary 6 purging 2 painful 2 momentous 3 concrete 2
+convenience 3 frozen 2 own 1 mere 1
+harm 1 great 1 much 1 terrible 3
+make 1 English 2 batting 2 average 3
+glimpse 1 entire 3 fleeting 2 brief 1 first 1
+rank 1 Democratic 4 academic 4 first 1 high 1 front 1
+tongue 1 other 2 foreign 2 aboriginal 5 common 2 sharp 1 plastic 2 native 2 man's 1 forked 1 black 1
+soup 1 hot 1 enough 2 else's 2 fish 1
+zeal 1 partisan 3 Christian 2 blind 1
+objective 3 long-range 2 military 4 ultimate 3 other 2 worthy 2 primary 3 proper 2 basic 2 major 2 common 2 total 2 prime 1
+terminology 5 technical 3 traditional 4 customary 4
+intention 3 apparent 3 party's 2 expressed 2 conscious 2 express 2 full 1
+priority 4 first 1 such 1 obvious 3 empirical 4 top 1
+glow 1 golden 2 pleasant 2 real 1 misleading 3 red 1 theatrical 4
+emerge 2 few 1 successful 3 first 1 young 1
+inference 3 such 1 philosophical 5 necessary 4
+chord 1 first 1 blaring 2 final 2
+stare 1 surprised 2 white 1 same 1 dreadful 2 rigid 2
+reflection 3 natural 3 distorted 3 theoretical 5 last 1 such 1 theological 5 dim 1 formal 2 little 2 conscious 2 internal 3 rosy 2 superior 4
+sampling 2 enough 2 small 1 scientific 4 subjective 3 systematic 4 complete 2
+gain 1 net 1 unambiguous 5 financial 3 further 2 obtainable 4 effective 3 high 1 theoretical 5 flux 1 luminous 3 overall 3 loop 1
+cast 1 original 4 familiar 3 light 1 dusty 2 entire 3
+victim 2 one's 1 predestined 3 helpless 2 spectacular 4
+perspective 3 ecumenical 5 parish 2 historical 4 different 3 conventional 4
+discipline 3 stern 1 entire 3 rational 3 new 1 scientific 4
+contrast 2 considerable 5 strong 1 welcome 2 sharp 1 startling 2 marked 1 direct 2 significant 4
+mean 1 golden 2 physical 3 mathematical 5 actual 3 you're 1
+disaster 3 natural 3 particular 4 political 4 unexpected 4 great 1 atomic 3 major 2
+neon 2 comparable 4 fragile 2 elaborate 3 shaded 2
+sweat 1 cold 1 own 1 dark 1
+endurance 3 long 1 underwater 4 human 2 submerged 2
+brutality 4 senseless 2 unforgivable 5 sunny 2 undue 2 gleeful 2
+recipe 3 secret 2 new 1 particular 4 statistical 4
+coverage 3 good 1 certain 2 adequate 3 medical 3 statewide 2 comparable 4 dictionary 4 such 1 complete 2
+porch 1 Southern 2 back 1 front 1 broken 2
+empire 3 economic 4 great 1 northern 2
+threat 1 direct 2 dreadful 2 Double 2 irresponsible 5 possible 3 external 3 immediate 4 Soviet 3 military 4 new 1 main 1 perceived 2 such 1 combined 2
+conductivity 5 thermal 2 low 1 Thermal 2
+diversity 4 social 2 old 1 local 2
+breath 1 welcome 2 passionate 3 fetid 2 deep 1 full 1 long 1
+metaphor 3 mixed 1 moral 2 natural 3
+kiss 1 long 1 consummated 4 own 1
+computation 4 conservative 4 final 2 quick 1
+slump 1 distressing 3 pitching 2 severe 2 prolonged 2
+pathology 4 experimental 5 adequate 3 potential 3
+flood 1 great 1 present 2 veritable 4
+chicken 2 little 2 fresh 1 cold 1
+stake 1 great 1 material 4 upright 2
+climate 2 ethical 3 international 5 political 4 erratic 3 temperate 2 aesthetic 3 dry 1 private 2 moral 2 much 1 goddamn 2 habitual 4 ideal 2
+optimism 4 little 2 excessive 3 Such 1 misguided 3
+leader 2 Democratic 4 elected 3 library 3 prominent 3 late 1 Soviet 3 undisputed 4 financial 3 political 4 controversial 4 new 1 national 3 regional 3 great 1 religious 3 choir 2 Russian 2 Whig 1 Tammany 3 section 2 intellectual 5
+apprehension 4 fresh 1 considerable 5 much 1
+fifty 2 past 1 previous 3 bring 1
+inflation 3 moderate 3 serious 3 general 3
+offspring 2 legitimate 4 hybrid 2 socialistic 4
+horizon 3 whole 1 wide 1 cultural 3 immediate 4 eastern 2
+gin 1 modern 2 complete 2 used 1 illicit 3 raw 1 Italian 3 second 2
+trial 2 burglary 3 separate 3 fair 1 full 1 new 1 hysterical 4 historical 4 open 2 delightful 3 first 1 binomial 4 single 2 second 2 federal 3
+assistant 3 special 2 temporary 4 administrative 5 personal 3 second 2
+resentment 3 public 2 sullen 2 Southern 2 absurd 2 bitter 2 humorous 3
+ballad 2 fragile 2 standard 2 American 4
+embassy 3 French 1 English 2 first 1
+parking 2 automatic 4 reserved 2 big 1 regular 3 familiar 3
+hearing 2 public 2 gracious 2 fair 1 magic 2 first 1 such 1 further 2 administrative 5 half 1
+motive 2 immediate 4 vocational 4 sexual 3 dominant 3 unconscious 3
+chore 1 painful 2 constitutional 5 additional 4
+stick 1 sizable 3 half 1 big 1
+possibility 5 distinct 2 first 1 terrible 3 remote 2 further 2 strong 1 other 2 sober 2
+urge 1 creative 3 irresistible 5 cosmic 2 guilty 2
+cockpit 2 open 2 front 1 warm 1
+island 2 frozen 2 small 1 only 2 clean 1 reclaimed 2 main 1 Japanese 3
+cardinal 3 only 2 beautiful 3 red 1
+shift 1 radical 3 single 2 last 1 simple 2 observable 4 dangerous 3 small 1 reversible 4 appropriate 4
+lawyer 2 young 1 British 2 private 2
+apart 2 legs 1 wide 1 patient 2 villain 2 stood 1
+supper 2 buffet 2 early 2 cold 1 light 1
+march 1 tremendous 3 grand 1 Irish 2
+newspaper 3 daily 2 French 1 inaccurate 4 recent 2 lurid 2 great 1 powerful 3 Democratic 4 old 1 outside 2 weekly 2
+vibration 3 ultrasonic 4 Prolonged 2 free 1
+wildlife 2 young 1 rare 1 complete 2
+expenditure 4 average 3 daily 2 total 2 considerable 5 small 1 principal 3
+wing 1 new 1 left 1 right 1
+path 1 slippery 3 risky 2 garden 2 treacherous 3 managerial 5 technical 3 little 2 stone 1 right 1 sun's 1 true 1 direct 2 independent 4 certain 2 revolutionary 6
+second 2 stole 1 close 1 derive 2 next 1 split 1 good 1 scared 1
+flexibility 5 utmost 2 clinical 3 much 1
+well 1 good 1 new 1 small 1 secret 2 little 2
+portion 2 big 1 average 3 north 1 large 1 good 1 substantial 3 vast 1 small 1 great 1 central 2 considerable 5 relevant 3 distal 2 later 2 upper 2 religious 3 major 2 first 1 new 1
+anatomy 4 complex 2 female 2 person's 2
+honey 2 natural 3 liquid 2 extra 2 hot 1
+unemployment 4 widespread 2 chronic 2 seasonal 3
+survival 3 competitive 4 national 3 physical 3
+revival 3 slow 1 alleged 2 major 2
+complement 3 entire 3 full 1 first 1 second 2
+lady's 2 loose 1 high 1 old 1
+chlorine 2 pure 1 radioactive 5 inactive 3 excess 2
+repair 2 rapid 2 outside 2 current 2
+purchase 2 possible 3 major 2 boy's 1
+tomb 1 Etruscan 3 nearby 2 Martian 2
+integration 4 token 2 South 1 African 3 full 1 residential 4 economic 4 Economic 4 defy 2 social 2 European 4 excellent 3 graphical 3 numerical 4 possible 3
+array 2 bright 1 fabulous 3 vast 1 impressive 3 great 1 institutional 5 packed 1 hexagonal 4
+block 1 next 1 automatic 4 small 1 simplified 3 whole 1 concrete 2 constructed 3 folded 2 mathematical 5
+year's 1 normal 2 last 1 previous 3 next 1 successful 3 Last 1
+reality 4 tangible 3 external 3 stubborn 2 physical 3 new 1 different 3 fundamental 4 sacred 2 organic 3 social 2 sharp 1 True 1 harsh 1 objective 3 ominous 3
+diagnosis 4 different 3 early 2 critical 3
+tourist 2 outstanding 3 casual 3 busy 2 elderly 3 innocent 3
+clue 1 important 3 vital 2 tenuous 3
+pain 1 severe 2 terrible 3 considerable 5 minimum 3 intense 2 unintended 4 marked 1 abdominal 4 objective 3 slight 1 physical 3 sharp 1 unimportant 4 stored 1 fearful 2 great 1
+parade 2 big 1 inaugural 4 civic 2 great 1
+investment 3 Solid 2 increased 2 initial 3 private 2 foreign 2 own 1 complex 2 sound 1 domestic 3 net 1 unwise 2 good 1
+button 2 third 1 big 1 red 1
+self 1 one's 1 former 2 pedestrian 4 impersonal 4 old 1 comprehensive 4 dark 1
+ministry 3 earthly 2 indispensable 5 parish 2
+shame 1 political 4 unworthy 3 mortal 2 naked 2
+burden 2 added 2 major 2 vast 1 unfortunate 4 additional 4 industrial 4 implicit 3 financial 3 increased 2 ultimate 3 clumsy 2
+silver 2 only 2 major 2 fine 1 tall 1 glorious 3 Syrian 3 wrong 1 table 2 curly 2 dull 1
+fist 1 clenched 1 right 1 left 1 craggy 2 gloved 1
+assist 2 artistic 3 additional 4 modest 2
+voltage 2 measured 2 high 1 arc 1 same 1 anode 2 resulting 3 extra 2
+notion 2 fundamental 4 popular 3 absurd 2 startling 2 false 1 accurate 3 mistaken 3 metaphysical 5 Aristotelian 6 imperial 4
+birth 1 new 1 approved 2 first 1 unusual 4
+sympathy 3 new 1 open 2 historical 4 special 2
+objection 3 principal 3 fundamental 4 whole 1 wholesale 2 added 2
+report 2 favorable 4 detailed 2 full 1 recent 2 final 2 annual 3 unexpected 4 new 1 short 1 straightforward 3 complete 2 first 1 incorrect 3 entire 3 fifteen 2 Hungarian 4 own 1 good 1 comprehensive 4 officer's 3 original 4 summary 3 monthly 2 formal 2 sharp 1 uninterrupted 5 medical 3
+monkey 2 large 1 skinny 2 old 1
+aggressiveness 4 superior 4 female 2 sexual 3
+log 1 long 1 low 1 diminutive 4 wet 1
+accreditation 5 proper 2 separate 3 art 1 academic 4
+crack 1 dry 1 squashy 2 distant 2
+monument 3 living 2 famous 2 singular 3 white 1 marble 2 soldiers' 2
+bag 1 picnic 2 sleeping 2 little 2 red 1 black 1 last 1
+democracy 4 total 2 European 4 individualistic 7 little 2 Western 2 American 4
+selection 3 present 2 free 1 wide 1 exceptional 4 mate 1 sample 2 representative 5
+instinct 2 poet's 2 basic 2 human 2 unconscious 3
+idiom 3 musical 3 melodious 4 familiar 3 revolutionary 6 vigorous 3
+project 2 new 1 federal 3 useful 2 worthy 2 big 1 present 2 great 1 same 1 experimental 5 current 2 whole 1
+rehabilitation 6 vocational 4 temporary 4 successful 3 specialized 3 basic 2 expensive 3
+morality 4 naturalistic 5 low 1 common 2
+night's 1 previous 3 last 1 first 1
+belief 2 first 1 third 1 religious 3 common 2 erroneous 4 actual 3 theological 5 distinctive 3 popular 3 uncompromising 5 rational 3 active 2 abiding 3 expressed 2 poetic 3 widespread 2 Western 2
+insistence 3 congressional 4 metaphysical 5 painful 2 stupid 2
+brass 1 top 1 criss-crossed 2 large 1 Indian 3
+validity 4 practical 3 internal 3 dubious 3 artistic 3
+blend 1 familiar 3 good 1 interesting 3 curious 3 equal 2
+revolution 4 social 2 Hungarian 4 scientific 4 today's 2 Egyptian 3 constitutional 5 industrial 4 sexual 3 violent 3 intellectual 5 fictitious 3 technological 5 Turkish 2 genuine 3 great 1
+host 1 warlike 2 welcome 2 official 3 urgent 2
+cloth 1 woven 2 lightweight 2 green 1 loin 1
+priest 1 Catholic 2 Babylonian 5 ancient 2 Buddhist 2 temple 2
+wool 1 mineral 3 raw 1 blue 1 rough 1 white 1 fancy 2
+correlation 4 proper 2 rough 1 complete 2 astonishing 4 empirical 4
+advocate 3 strong 1 enthusiastic 5 active 2
+coal 1 wide 1 American 4 British 2 large 1 much 1 old 1
+sanction 2 legal 2 moral 2 royal 2 such 1
+antique 2 good 1 green 1 fake 1
+sovereign 2 true 1 corporate 3 parliamentary 5
+justice 2 chief 1 poetic 3 provisional 4 social 2 divine 2 absolute 3 considerable 5 full 1 Mexican 3
+asset 2 popular 3 great 1 national 3 cultural 3 main 1 substantial 3
+ballplayer 3 good 1 complete 2 injured 2 professional 4
+ribbon 2 blue 1 black 1 lighted 2 sleepy 2
+veto 2 tripartite 3 mayoral 3 legislative 4
+aspect 2 reactionary 5 religious 3 important 3 fixed 1 intriguing 3 unique 2 inevitable 5 normal 2 racial 2 carefree 2 desirable 4 appalling 3 single 2 striking 2 troublesome 3 second 2 major 2 third 1 controversial 4 impersonal 4
+reasoning 3 tortured 2 Official 3 subconscious 3 false 1 same 1
+basement 2 Other 2 whole 1 ordinary 4 dark 1
+ocean 2 past 1 open 2 quiet 2 veritable 4
+secretary 4 former 2 national 3 fine 1 social 2 second 2 private 2 efficient 3
+camping 2 constant 2 popular 3 comfortable 4
+fine 1 nominal 3 along 2 water's 2 that's 1
+setting 2 beautiful 3 natural 3 structured 2 general 3 musical 3 initial 3
+sketch 1 initial 3 original 4 preliminary 5 following 3 biographical 5 architect's 3 finished 2
+salary 3 present 2 basic 2 same 1 small 1
+illness 2 recent 2 final 2 painful 2 second 2 third 1 mental 2 last 1
+merit 2 unequal 3 technical 3 chief 1 competitive 4 great 1 irrevocable 5 lose 1 little 2 simple 2
+anyway 3 forgive 2 stake-out 2 nip 1
+pioneer 3 frequent 2 consistent 3 young 1
+meal 1 next 1 heavy 2 substantial 3 whole 1 fresh 1 hot 1 good 1 favorite 3
+tomorrow 3 die 1 early 2 rendezvous 3
+experimentation 6 personal 3 constant 2 repeated 3 physiological 6 continued 3 long 1
+misery 3 human 2 life's 1 utter 2 felt 1
+crime 1 same 1 monstrous 2 awful 2 modern 2
+percentage 3 large 1 high 1 considerable 5 good 1 allotment 3 uniform 3 specified 3 minor 2
+oxygen 3 upper 2 added 2 additional 4 dissolved 2 maximum 3
+protection 3 only 2 self 1 moderate 3 passive 2 buoyant 2 equal 2 effective 3 same 1 absolute 3 much 1 natural 3 such 1
+consensus 3 national 3 general 3 political 4
+dislike 2 intense 2 instinctive 3 uneasy 3
+truce 1 international 5 private 2 second 2
+suffering 3 past 1 such 1 own 1
+slide 1 lantern 2 veterinary 4 Sixteen 2
+lace 1 deep 1 greenish 2 blue 1 worsted 2 nylon 2
+lip 1 upper 2 long 1 curled 1
+fellowship 3 active 2 eternal 3 gathered 2 good 1 sympathetic 4
+ten 1 following 3 last 1 good 1
+studio 3 green 1 whole 1 undistinguished 4
+biology 4 good 1 famous 2 evolutionary 6
+dive 1 suicide 3 rowdy 2 deep 1 free 1 next 1
+deference 3 blissful 2 great 1 obsequious 4
+equilibrium 5 subtle 2 balanced 2 thermal 2
+surgeon 2 orthopedic 4 prominent 3 little 2
+gate 1 second 2 massive 2 rear 1 east 1 main 1 big 1
+disintegration 5 moral 2 social 2 complete 2
+role 1 key 1 starring 2 personal 3 subordinate 4 short 1 leading 2 good 1 whole 1 central 2 potential 3 realtor's 3 important 3 commanding 3 sexual 3 active 2 prominent 3 mother's 2 peculiar 3 new 1 influential 4 single 2 meaningful 3 serious 3 unrehearsed 3 complementary 4 climactic 3 legislature's 4 enlarged 2 primary 3 major 2 great 1 crucial 2 assisting 3 modest 2
+astronomy 4 theoretical 5 systematic 4 geocentric 4 technical 3 orthodox 3 intelligible 5
+location 3 convenient 3 successful 3 actual 3 new 1 parametric 4 geographical 5 spatial 2 central 2 different 3 conceivable 4
+humidity 4 pal 1 optimal 3 relative 3
+obligation 4 only 2 normal 2 missionary 4 primary 3 same 1
+tune 1 fixed 1 ancient 2 Japanese 3
+arrangement 3 new 1 such 1 special 2 same 1 signal 2 novel 2 philanthropic 4 idyllic 3 musical 3 experimental 5 marvelous 3 opposite 3 contractual 4 lunatic 3
+redhead 2 Vivacious 3 fiery 3 long 1
+pause 1 extra 2 slight 1 long 1 momentary 4 curious 3 short 1
+cotton 2 modern 2 central 2 white 1 season's 2 neat 1 brown 1 balled 1
+gentleman 3 true 1 elderly 3 perfect 2 canny 2 real 1 effete 2 venerable 4 impeccable 4
+convention 3 international 5 accepted 3 Chinese 2 static 2 flat 1 identical 4 diplomatic 4
+carbon 2 excessive 3 corresponding 4 free 1 frozen 2 liquid 2
+neighborhood 3 immediate 4 own 1 suburban 3 Irish 2 old 1 whole 1
+conductor 3 willing 2 great 1 promising 3 young 1 regular 3 youthful 2 associate 4
+fee 1 new 1 nominal 3 rental 2 daily 2
+wish 1 own 1 sobering 3 old 1
+application 4 detailed 2 little 2 limited 3 patient 2 constant 2 unjust 2 universal 4 extreme 2 intensive 3 separate 3 new 1 topical 3 typical 3 repeated 3
+calm 1 relative 3 civilized 3 deceptive 3
+painter 2 portrait 2 contemporary 5 impressionist 4
+seat 1 congressional 4 back 1 lawful 2 theatre 3 good 1 rear 1 orchestra 3 window 2 front 1 driver's 2 firm 1 narrow 2
+devil 2 real 1 frustrated 3 hideous 3
+cell 1 original 4 normal 2 particular 4 next 1 available 4 third 1 last 1 first 1 other 2
+hurt 1 emotional 4 smooth 1 previous 3 willful 2 bitter 2
+origin 3 geographic 4 uncertain 3 geographical 5 common 2 democratic 4 civilian 3 local 2 thermal 2 European 4 national 3 unknown 2 Haitian 2 underwear 3
+sort 1 different 3 hazy 2 scientific 4 superior 4 same 1 other 2 ambiguous 4 second 2 durable 3 traditional 4 stubborn 2 nice 1 right 1
+dominance 3 military 4 parasympathetic 6 industrial 4
+dean 1 former 2 academic 4 alert 2
+innocence 3 perfect 2 accidental 4 general 3 special 2 childlike 2
+beast 1 mystical 3 apocalyptic 5 little 2
+pavement 2 good 1 hard 1 dusty 2
+curiosity 5 simple 2 intrusive 3 mere 1 undisguised 3
+detective 3 private 2 fictional 3 mythological 5 modern 2 good 1 great 1 ideal 2
+duty 2 religious 3 positive 3 collective 3 maternal 3 unpleasant 3 overseas 3 active 2 own 1 odious 3 sentimental 4 foreign 2
+resemblance 3 physical 3 symbolic 3 great 1 striking 2 little 2 obvious 3 technical 3 unfortunate 4
+acreage 3 planted 2 industrial 4 desired 3 large 1 such 1
+heading 2 general 3 proper 2 true 1 automatic 4
+battlefield 3 decisive 3 fatal 2 improved 2
+magazine 3 small 1 tubular 3 women's 2 alumni 3 quarterly 3 literary 4 prominent 3 weekly 2
+sun 1 bright 1 hot 1 atomic 3 direct 2 papal 2 same 1 southern 2 Italian 3 tropical 3
+motivation 4 High 1 chief 1 clear 1
+detection 3 submarine 3 early 2 infrared 3
+involvement 3 intense 2 emotional 4 simple 2 total 2
+salesman 2 right 1 good 1 valuable 3
+shaft 1 small 1 vertical 3 central 2 bright 1
+architect 3 great 1 Italian 3 unknown 2 good 1 naval 2
+volley 2 spirited 3 following 3 ragged 2
+impulse 2 marked 1 sexual 3 creative 3 aggressive 3 religious 3
+chemistry 3 physiological 6 Physical 3 physical 3 inorganic 4 Basic 2
+landlord 2 typical 3 surly 2 lousy 2
+author 2 versatile 3 famous 2 final 2
+coffee 2 hot 1 Hawaiian 3 powdered 2 French 1 fresh 1 so-called 2 little 2
+barrier 3 partial 2 economic 4 narrow 2 indestructible 5
+absence 2 marked 1 Whose 1 notable 3 possible 3 congenital 4 total 2 complete 2
+brand 1 different 3 private 2 ancient 2
+heap 1 real 1 big 1 impressive 3 mean 1 little 2
+award 2 special 2 posthumous 3 such 1 total 2
+couple 2 last 1 shadowy 3 American 4 young 1 married 2 smitten 2 Soviet 3 childless 2 old 1 fat 1 past 1
+quarrel 2 mysterious 4 personal 3 early 2
+exercise 3 fair 1 Physical 3 free 1 vigorous 3 fine 1 painful 2 last 1 single 2 previous 3 outdoor 2 familiar 3 entire 3
+transport 2 public 2 essential 3 armored 2
+fitness 2 physical 3 future 2 financial 3 such 1
+affinity 4 natural 3 special 2 high 1
+calf 1 golden 2 empty 2 newborn 2
+human 2 massive 2 vulnerable 4 necessary 4
+fly 1 straight 1 adjustable 4 dead 1
+sorrow 2 great 1 much 1 maximal 3
+self-help 2 Encouraging 4 other 2 necessary 4
+result 2 Net 1 net 1 first 1 evil 2 possible 3 disastrous 3 final 2 important 3 apparent 3 direct 2 same 1 significant 4 extraordinary 5 unexpected 4
+agitation 4 racial 2 much 1 present 2
+precision 3 other 2 verbal 2 quantitative 4 unique 2 many 2 old 1 economical 5 such 1
+sugar 2 brown 1 raw 1 little 2 common 2 spilled 1
+combustion 3 final 2 complete 2 important 3 internal 3
+hunting 2 fox 1 continued 3 fruitless 2
+headquarters 3 shop's 1 central 2 entire 3 denominational 6 southern 2 perfect 2
+nurse 1 pretty 2 good 1 understanding 4
+invasion 3 captured 2 wanton 2 alleged 2
+criticism 4 famous 2 mutual 3 widespread 2 such 1 senatorial 5 social 2 technical 3 considerable 5 textual 3 Much 1 literary 4 intelligent 4 main 1 general 3 one's 1 Recent 2
+scrutiny 3 public 2 careful 2 rigid 2 close 1
+passage 2 impassioned 3 long 1 adagio 4 bill's 1 particular 4 safe 1 baffling 3 famous 2 following 3 recent 2 such 1 simple 2 celebrated 4 staccato 3
+pussy 2 like 1 sweet 1 nigger 2
+qualification 5 first 1 careful 2 essential 3
+daylight 2 bright 1 Enough 2 broad 1
+actor 2 Russian 2 exciting 3 young 1 fine 1 big 1 aspiring 3 great 1 English 2 comic 2
+champion 3 national 3 grand 1 rabbit 2 showmanship 3 true 1 other 2 ardent 2
+disk 1 cutting 2 whole 1 planetary 4 visible 3 average 3 uniformly 4 bright 1
+duration 3 considerable 5 whole 1 approximate 4 total 2 measurable 4
+cure 1 sure 1 common 2 new 1 possible 3 miraculous 4 short 1
+lime 1 mashed 1 little 2 hydrated 3 active 2 dissolved 2 big 1
+simplicity 4 refined 2 apparent 3 systematic 4
+confidence 3 complete 2 enough 2 old 1 absolute 3 parental 3 full 1 little 2 great 1 utmost 2 much 1
+exchange 2 final 2 general 3 frank 1 joint 1 cultural 3 massive 2 international 5 free 1 unfettered 3 essential 3 foreign 2 realistic 4 exclusive 3 thermal 2 photochemical 5 isotopic 4 simple 2 measurable 4 own 1 favorable 4
+traffic 2 minor 2 vehicular 4 heavy 2 temporary 4 incipient 4 modern 2
+hairs 1 gray 1 long 1 black 1 tiny 2
+union 2 individual 5 other 2 industrial 4 mystical 3 sexual 3 federal 3 free 1 incestuous 3 single 2 powerful 3 vigorous 3
+phone 1 simple 2 upstairs 2 elastic 3 pale 1 yellow 2
+equality 4 majestic 3 token 2 racial 2 such 1 sovereign 2 formal 2
+pull 1 pictorial 4 political 4 elastic 3 she'd 1 extra 2 hard 1
+jurisdiction 4 other 2 domestic 3 French 1 competent 3 troublesome 3 federal 3 concurrent 3 city's 2 political 4
+childhood 2 early 2 unhappy 3 happy 2 own 1 late 1
+ice 1 stabilizes 4 like 1 old 1 enough 2 splendid 2
+patch 1 vegetable 3 necessary 4 small 1 little 2 own 1
+it's 1 present 2 much 1 sure 1
+root 1 square 1 repeated 3 similar 3 other 2 big 1
+sister 2 pretty 2 little 2 wrinkled 2 selfish 2
+precaution 3 possible 3 only 2 obvious 3 additional 4 elementary 4
+category 4 last 1 second 2 third 1 diagnostic 4 latter 2
+suggestion 3 radioed 3 added 2 little 2 useful 2 mother's 2 such 1 romantic 3
+stem 1 laminated 4 sweet 1 clover 2 long-term 2 snapped 1
+quantity 3 considerable 5 original 4 staggering 3 large 1 common 2 substantial 3 small 1 numerical 4
+conjugate 3 indirect 3 treated 2 purified 3 previous 3
+yearning 2 mankind's 2 wistful 2 small 1
+target 2 inviting 3 fixed 1 overseas 3 true 1 prime 1 tempting 2 Primary 3 few 1 obvious 3 Communist 3 perfect 2 poor 1
+deal 1 great 1 good 1 raw 1 little 2 Standard 2 big 1
+damage 2 minor 2 ligament 3 little 2 serious 3 irreparable 5 minimum 3 insect 2 excessive 3 noticeable 4 widespread 2 other 2 direct 2 extreme 2 much 1
+formula 3 acceptable 4 new 1 old 1 dangerous 3 mathematical 5 standard 2 displacement 3 following 3 original 4 chemical 3 single 2 statutory 4 general 3 magic 2 inorganic 4 secret 2
+something 2 he's 1 daily 2 little 2 imagine 3 hidden 2
+blast 1 nuclear 3 big 1 first 1 distant 2
+reluctance 3 certain 2 uneasy 3 such 1
+slave 1 crazy 2 enlightened 3 young 1
+blockade 2 naval 2 immediate 4 total 2
+diplomacy 4 international 5 personal 3 Western 2 skillful 2 parliamentary 5
+learning 2 great 1 required 3 ritual 3
+wit 1 astringent 3 native 2 keen 1
+replacement 3 early 2 suitable 3 gradual 3 sole 1 fatty 2 future 2
+fit 1 smooth 1 teeth 1 bad 1 saw 1 rare 1
+estate 2 real 1 owners' 2 young 1 famous 2 high 1 sizable 3 father's 2 entire 3
+conclusion 3 unlikely 3 erroneous 4 perverted 3 logical 3 necessary 4 common 2 same 1 opposite 3 sensible 3 different 3 first 1 second 2 consequent 3 desired 3
+circulation 4 poor 1 proper 2 tremendous 3
+dignity 3 simple 2 peasant 2 human 2 personal 3 Victorian 4 great 1 usual 3
+wonder 2 Small 1 little 2 soft 1
+pepper 2 green 1 common 2 black 1
+mention 2 much 1 grateful 2 first 1 mere 1 don't 1
+thrust 1 sufficient 3 main 1 new 1 upward 2
+clarity 3 perfect 2 structural 3 traditional 4 new 1 such 1 intellectual 5 unreasonable 4 painful 2
+seriousness 4 fundamental 4 ultimate 3 dead 1 dialectical 5 deadly 2
+mine 1 usual 3 lignite 2 whereas 2 effective 3 Such 1 own 1
+liking 2 strong 1 definite 3 own 1
+thigh 1 front 1 rear 1 right 1
+dog 1 hot 1 little 2 top 1 nervous 2 bored 1 future 2 blind 1 malnourished 3 Top 1 dumb 1 yellow 2 unique 2
+luxury 3 enjoyable 4 dangerous 3 excessive 3 attic 2 represented 4
+juvenile 3 central 2 great 1 dead 1 affluent 3
+citizen 3 average 3 loyal 2 private 2 ordinary 4 informed 2
+print 1 big 1 black 1 fine 1 limp 1
+campus 2 old 1 favorite 3 own 1 particular 4 many 2 traditional 4 entire 3
+appointment 3 interim 3 first 1 dental 2 dentist 2
+cash 1 extra 2 little 2 ready 2 strict 1
+viscosity 4 low 1 high 1 appreciable 4
+accuracy 4 sufficient 3 fair 1 hitherto 3 unknown 2 high 1 devilish 2
+disagreement 4 sharp 1 major 2 such 1
+welfare 2 public 2 spiritual 4 social 2 individual 5
+suspect 2 immediate 4 popular 3 possible 3 likely 2
+effluent 3 treated 2 high 1 average 3
+hung 1 little 2 newt 1 lantern 2
+potato 3 hot 1 raw 1 thin 1 little 2 sweet 1
+reader 2 general 3 modern 2 Western 2 average 3 inveterate 4 careless 2 hasty 2 unskilled 2
+genius 2 adorable 4 quixotic 3 great 1 authentic 3 mad 1 forgetful 3 Shakespearean 4 northern 2 individual 5 creative 3 mechanical 4 subtle 2
+spectrum 2 entire 3 observed 2 infrared 3 broad 1 total 2
+crossing 2 spacious 2 first 1 successful 3
+prestige 2 added 2 real 1 little 2
+compulsion 3 psychological 5 strong 1 feverish 3 undefined 3
+joy 1 mutual 3 little 2 Little 2 enough 2 generous 3 heartfelt 2 bitter 2 warm 1
+revision 3 entire 3 new 1 drastic 2
+accent 2 decorative 3 regional 3 Irish 2 native 2
+stature 2 sufficient 3 equal 2 Christian 2 new 1 human 2
+loop 1 wide 1 allowable 4 high 1 low 1
+popularity 5 personal 3 burgeoning 3 enjoyed 2 continued 3
+chief 1 gang 1 legal 2 only 2 young 1
+straight 1 good 1 legs 1 small 1 driven 2
+tribute 2 sax 1 heavy 2 great 1 humble 2 personal 3 warm 1
+loyalty 3 ethnic 2 Indian 3 familial 3
+draft 1 linear 3 prospective 3 early 2 little 2
+mortality 4 inescapable 5 final 2 infant 2
+data 2 relevant 3 above 2 crystal 2 numerical 4
+streak 1 stubborn 2 wild 1 dark 1
+card 1 separate 3 last 1 birthday 2
+mulch 1 porous 2 light 1 additional 4
+stint 1 current 2 excellent 3 wartime 2
+page 1 printed 2 front 1 opposite 3 final 2 ledger 2 first 1 opened 2 editorial 5 same 1 new 1
+alienation 5 existential 4 conscious 2 unconscious 3
+leap 1 ethical 3 great 1 violent 3 inferential 4
+coach 1 Assistant 3 defensive 3 assistant 3
+peasant 2 healthy 2 American 4 full 1
+courage 2 simple 2 true 1 personal 3
+bombs 1 nuclear 3 first 1 hundred 2
+village 2 normal 2 ancient 2 Indian 3 fisherman's 3 traditional 4 rural 2 rich 1 deserted 3 same 1
+dark 1 tall 1 long 1 enormous 3
+dose 1 preventive 3 infectious 3 appropriate 4 initial 3 lethal 2 little 2
+intelligence 4 human 2 available 4 current 2 good 1 operational 5 Operational 5 national 3 environmental 5 Good 1 Environmental 5 initial 3 alert 2
+confusion 3 much 1 cumulative 4 universal 4 tangled 2 certain 2 considerable 5 German 2 sudden 2
+continuity 5 admirable 4 particular 4 unbroken 3 progressive 3 realistic 4 visual 3 perfect 2 emotional 4 subjective 3 agrarian 4 uninterrupted 5 unexpected 4 qualitative 4 fundamental 4 musical 3
+refrain 2 same 1 favorite 3 orchestra 3
+minority 4 militant 3 racial 2 small 1 important 3 ranking 2
+exposure 3 guided 2 continued 3 quantitative 4 radioactive 5
+defiance 3 conscious 2 direct 2 old 1
+printing 2 economical 5 public 2 secret 2 first 1 simulated 4
+regard 2 little 2 due 1 full 1 other 2 contemptuous 4
+mileage 2 much 1 moderate 3 high 1 actual 3 Actual 3 total 2 annual 3
+consciousness 3 equal 2 imaginative 5 passionate 3 thoughtful 2 western 2 repressive 3
+contempt 2 equal 2 same 1 open 2
+firing 2 further 2 modern 2 fast 1
+mood 1 expansive 3 such 1 festive 2 own 1 high 1 contemporary 5 European 4 present 2 ebullient 3 angry 2 sullen 2
+outreach 2 missionary 4 congregational 5 Missionary 4
+rush 1 postwar 2 desperate 2 noisy 2
+palatability 6 low 1 general 3 good 1
+builder 2 morale 2 other 2 efficient 3 midwestern 3 idealized 4
+attention 3 new 1 public 2 medical 3 undivided 4 whole 1 networks' 2 one's 1 respectful 3 careful 2 worth 1 particular 4 proper 2 considerable 5 Serious 3 much 1 marked 1 legislative 4 adequate 3 great 1 special 2 little 2 close 1 immediate 4 presidential 4 major 2 general 3 undue 2 father's 2 police 2 instant 2
+clothing 2 unsuitable 4 clean 1 Warm 1 own 1 extra 2
+pursuit 2 creative 3 fascinating 4 grim 1
+recommendation 5 such 1 final 2 somebody's 3
+beat 1 we'll 1 staccato 3 last 1
+wooden 2 Clean 1 fixed 1 dirty 2 big 1
+sway 1 undisputed 4 quiet 2 meditative 4
+certainty 3 statistical 4 alternative 4 abstract 2
+hotel 2 downtown 2 swank 1 fashionable 4 useless 2 father's 2 white 1 same 1 respectable 4 single 2 different 3
+participation 5 creative 3 orchestra 3 impassioned 3 political 4 religious 3 own 1 full 1 financial 3 intelligent 4 American 4 appropriate 4 increased 2
+administrator 5 experienced 4 academic 4 able 2 poor 1
+feed 1 new 1 superior 4 steady 2 many 2 complete 2 full 1 prepared 2 principal 3 satisfactory 4
+tile 1 white 1 acoustical 4 yellow 2
+academy 4 famous 2 military 4 suitable 3 hypothetical 5
+laughter 2 much 1 quiet 2 happy 2
+farming 2 Part-time 2 part-time 2 annual 3 gentleman 3
+compensation 4 adequate 3 fair 1 other 2
+writing 2 great 1 modern 2 American 4 contemporary 5 busy 2 political 4 other 2 fantastic 3 beautiful 3 direct 2 creative 3
+port 1 lively 2 liberty 3 principal 3
+weapon 2 ultimate 3 atomic 3 powerful 3 dangerous 3 only 2 major 2 strategic 3 visible 3
+assignment 3 first 1 other 2 original 4 ridiculous 4 next 1 mysterious 4 pupil 2 later 2 symbolic 3
+contact 2 vital 2 first 1 personal 3 physical 3 Physical 3 electrical 4 few 1 little 2 close 1 friendly 2 instant 2 initial 3 necessary 4 immediate 4 low 1 optical 3
+salt 1 common 2 low 1 little 2
+violence 3 such 1 racial 2 maximum 3 nice 1 particular 4 spontaneous 4 physical 3 political 4 explosive 3
+occurrence 3 next 1 universal 4 frequent 2
+endeavor 3 scientific 4 further 2 much 1 social 2
+brief 1 few 1 able 2 own 1
+handicap 3 positive 3 great 1 equal 2
+fireplace 3 library 3 baroque 2 marble 2 disastrous 3
+trail 1 hot 1 fresh 1 ultimate 3
+alternative 4 acceptable 4 only 2 real 1 tenable 3 reasonable 4 opposite 3 workable 3
+glory 2 belong 2 ancient 2 former 2 reflected 3
+blessing 2 first 1 unmixed 2 great 1 spiritual 4 special 2
+camp 1 whole 1 Western 2 American 4 new 1 dreary 2 rigorous 3 military 4 inner 2 separate 3
+bunch 1 loose 1 small 1 little 2 whole 1 new 1 main 1
+father 2 Spanish 2 unsympathetic 5 pathetic 3 earthly 2 Scottish 2 hard 1 solicitous 4 good 1 own 1 dear 1 old 1
+bird 1 female 2 frantic 2 sacred 2 ominous 3 displeased 2 handsome 2
+police 2 local 2 Several 2 efficient 3 Italian 3 Egyptian 3 satisfied 3 internal 3 official 3 special 2 alarmed 2 first 1
+feel 1 cannot 2 luxurious 4 primitive 3
+segment 2 sizable 3 other 2 appreciable 4 important 3 circular 3
+habit 2 unfortunate 4 bad 1 common 2 man's 1 perverse 2 bothersome 3
+shop 1 apothecary 5 old 1 small 1
+gland 1 thyroid 2 anterior 4 pituitary 5
+identification 6 national 3 Such 1 stable 2 public's 2 tentative 3 protein 2 Personal 3 Similar 3 ready 2 individual's 5
+stand 1 major 2 positive 3 old 1 definite 3 rough 1 first 1
+anger 2 noble 2 generalized 4 outspoken 3 revolutionary 6 subsequent 3 real 1
+drug 1 old 1 new 1 wonder 2
+hear 1 Let's 1 wouldn't 2 won't 1
+invention 3 patented 3 Social 2 social 2 such 1 political 4 subjective 3 true 1 regard 2 artistic 3 basic 2 Russian 2 extraneous 4
+truth 1 real 1 simple 2 hard 1 new 1 whole 1 much 1 human 2 fundamental 4 basic 2 psychological 5 modern 2 wholesome 2 historical 4 awful 2 sad 1 eternal 3 exact 2
+patent 2 other 2 same 1 Many 2 basic 2 exclusive 3
+resonance 3 paramagnetic 5 magnetic 3 quantitative 4 nuclear 3 weak 1 senatorial 5
+worship 2 popular 3 cannot 2 religious 3 relic 2 primitive 3 fetish 2 public 2 wild 1
+crystal 2 particular 4 tiny 2 broken 2
+poem 2 symphonic 3 humorous 3 other 2 dated 2 fine 1 last 1 oral 2 next 1 new 1
+uniform 3 spare 1 Nazi 2 ragged 2 dark 1 full 1 fresh 1
+aim 1 major 2 primary 3 conscious 2 ultimate 3 life's 1 similar 3
+manufacturing 5 gear 1 single 2 efficient 3
+knee 1 left 1 possible 3 sprained 1 sturdy 2 other 2
+transit 2 rapid 2 public 2 old 1
+alien 3 nonresident 4 basic 2 somehow 2
+plug 1 excess 2 new 1 porous 2
+paragraphs 3 foregoing 3 few 1 following 3
+score 1 electronic 4 total 2 experimental 5 sumptuous 2
+mouth 1 small 1 rosy 2 wrinkled 2 parched 1 wide 1 open 2 red 1 torn 1
+cement 2 contact 2 spiritual 4 rough 1
+expense 2 deductible 4 annual 3 great 1 much 1 own 1 sole 1
+trigger 2 improved 2 nuclear 3 stick 1
+gift 1 special 2 enormous 3 superb 2 free 1 small 1 peculiar 3 last 1 own 1 natural 3 single 2
+inventory 4 detailed 2 operational 5 complete 2 basic 2 healthy 2
+finger 2 accusing 3 single 2 second 2 wooden 2 large 1 scornful 2 dirty 2
+attempt 2 genuine 3 misguided 3 poor 1 first 1 desperate 2 Soviet 3 serious 3 collective 3 successful 3 current 2 unsuccessful 4 rough 1 brazen 2 vicious 2 feverish 3
+fascination 4 deep 1 horrid 2 special 2
+diffraction 3 X-ray 2 x-ray 2 electron 3 authentic 3
+willow 2 nice 1 pussy 2 second 2
+blossom 2 brave 1 little 2 artificial 4
+routine 2 regular 3 stuffy 2 real 1 same 1 old 1 repetitious 4 accustomed 3 normal 2 usual 3
+Government 3 World 1 liberal 3 Provisional 4 Federal 3
+marriage 2 good 1 Christian 2 influential 4 fine 1 strange 1 turbulent 3
+become 2 public 2 local 2 flatness 2
+regime 2 Soviet 3 current 2 new 1 Nazi 2
+density 3 low 1 high 1 normal 2 current 2 experimental 5 crystal 2 such 1 abrupt 2 peculiar 3
+transmission 3 oral 2 gear 1 planetary 4 skywave 2
+industry 3 new 1 other 2 additional 4 American 4 electronic 4 Many 2 whole 1 young 1 enormous 3 prospective 3 important 3 basic 2 heavy 2 light 1
+concern 2 regional 3 sincere 2 undue 2 public 2 primary 3 sole 1 equal 2 considerable 5 little 2 genuine 3 spiritual 4 central 2 fervent 2 such 1 continuous 4 utilitarian 6 religious 3 great 1 industrial 4 main 1 special 2 exclusive 3 sharp 1 gentle 2 honest 2
+comfort 2 utter 2 relative 3 father's 2 small 1 whispered 2 great 1
+carpet 2 retail 2 new 1 red 1 battered 2 pretty 2
+arm 1 strong 1 plinking 2 horizontal 4 third 1 other 2 upward 2 bold 1 upper 2 coral 2 left 1 hidden 2
+momentum 3 steady 2 incident 3 gain 1 angular 3
+destruction 3 complete 2 own 1 wholesale 2 terrible 3 excessive 3
+emotion 3 visible 3 personal 3 religious 3 erotic 3 genuine 3 same 1 strong 1 present 2 immediate 4 human 2 obvious 3
+canvas 2 only 2 dramatic 3 big 1
+requirement 3 constitutional 5 minimum 3 daily 2 main 1 second 2 nutritive 3 prime 1 additional 4 first 1
+vessel 2 nutrient 3 unclean 2 third 1 empty 2 bizarre 2 little 2
+paint 1 marine 2 pure 1 Green 1
+grin 1 friendly 2 broad 1 jovial 3 fixed 1 stupid 2 sleepy 2 surprised 2 loose 1
+distaste 2 personal 3 fastidious 4 profound 2
+fortune 2 good 1 certain 2 great 1 liberal 3 small 1
+motif 2 Spanish 2 major 2 bleak 1 characteristic 5 single 2
+persuasion 3 religious 3 friendly 2 liberal 3 political 4
+cheeks 1 red 1 lean 1 hollow 2
+drum 1 straight 1 small 1 muffled 2
+laboratory 4 testing 2 national 3 primitive 3
+review 2 encouraging 4 effective 3 exhaustive 3 periodic 4 continuous 4 first 1 annual 3 judicial 3
+ship 1 veteran 3 British 2 swift 1 merchant 2 distant 2 next 1 third 1 one's 1
+faith 1 Christian 2 ardent 2 calm 1 personal 3 true 1 same 1 Chinese 2 enough 2 ancestral 3 Religious 3 democratic 4 new 1 basic 2 religious 3 secret 2 good 1 particular 4 American 4
+heard 1 such 1 seldom 2 last 1 sound 1 he'd 1 she'd 1
+appreciation 5 tactical 3 new 1 little 2 hearty 2 heightened 2 deep 1 due 1
+stomach 2 empty 2 own 1 swollen 2 hollow 2
+intuition 4 moral 2 mystical 3 private 2
+sunlight 2 frontal 2 bright 1 intense 2
+aid 1 federal 3 economic 4 financial 3 first 1 Soviet 3 foreign 2 medical 3 great 1 common 2 American 4 External 3 external 3 fiscal 2 military 4 strategic 3 powerful 3 temporary 4
+theme 1 governor's 3 international 5 powerful 3 central 2 durable 3 principal 3 Italian 3 dominant 3 legal 2 sturdy 2 conventional 4 immediate 4 main 1
+instant 2 same 1 single 2 last 1 first 1
+twice 1 potential 3 absorbed 2 treated 2 solitary 4
+pace 1 early 2 fast 1 much 1 real 1 slow 1 accelerated 5 rapid 2 hectic 2 swift 1 silent 2 own 1 measured 2
+bureaucracy 4 totalitarian 6 governmental 4 new 1 corporate 3
+owner 2 new 1 former 2 such 1
+shoulder 2 solid 2 left 1 thin 1
+vocabulary 5 new 1 basic 2 Spanish 2
+cup 1 crystal 2 empty 2 nonexistent 4 different 3
+dough 1 soft 1 bread 1 much 1
+stranger 2 unrelieved 3 bearded 2 poor 1 total 2
+doctrine 2 esoteric 4 new 1 famous 2
+discretion 3 large 1 traditional 4 equitable 4 judicial 3
+hierarchy 4 Democratic 4 whole 1 graded 2 social 2
+grasp 1 broad 1 officer's 3 remarkable 4 firm 1 intellectual 5
+jail 1 actual 3 new 1 old 1
+crash 1 fatal 2 economic 4 it'd 2
+conviction 3 strong 1 remarkable 4 one's 1 democratic 4 moral 2 inner 2 studied 2 deep 1 important 3 political 4 such 1 utter 2 unhappy 3

@@ -2,11 +2,13 @@ from creamas import Simulation
 from Model_Classes import Word, Noun
 from MetaphorAgent import MetaphorAgent
 from HaikuAgent import HaikuAgent
+from gensim.models import word2vec
 from MetaHaikuEnvironment import MetaHaikuEnvironment
 import os
 
 NUMBER_METAPHOR_AGENTS = 20
 NUMBER_HAIKU_AGENTS = 5
+FILE_NAME = '/nouns_brown.txt'
 
 
 def filter_nouns(nouns):
@@ -55,9 +57,14 @@ if __name__ == "__main__":
         Word('like', 1),
     ]
 
-    with open(os.getcwd() + '/nouns_dorian.txt', 'r') as f:
+    with open(os.getcwd() + FILE_NAME, 'r') as f:
         lines = f.readlines()
     nouns = [Noun.parse(line) for line in lines]
+
+    word2vec_model = word2vec.Word2Vec.load(os.getcwd() + FILE_NAME + ".word2vec")
+    #state bear
+    #print(model)
+    #print(model.similarity('manager', 'allocation'))
 
     nouns = filter_nouns(nouns)
     for noun in nouns[0:200]:
@@ -67,9 +74,9 @@ if __name__ == "__main__":
     env.num_metaphors_accepted_per_round = 5
 
     for i in range(0, 20):
-        MetaphorAgent(env, nouns)
+        MetaphorAgent(env, nouns, word2vec_model)
     for i in range(0, 5):
-        HaikuAgent(env, nouns, fillers)
+        HaikuAgent(env, fillers)
 
     sim = Simulation(env, log_folder='logs', callback=env.vote)
     sim.async_steps(500)
