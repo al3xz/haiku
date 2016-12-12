@@ -26,6 +26,7 @@
     <script type="text/javascript" src="_static/doctools.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
+    <link rel="prev" title="Model_Classes module" href="Model_Classes.html" />
    
   <link rel="stylesheet" href="_static/custom.css" type="text/css" />
   
@@ -43,7 +44,8 @@
             
   <div class="section" id="module-NounListGenerator">
 <span id="nounlistgenerator-module"></span><h1>NounListGenerator module<a class="headerlink" href="#module-NounListGenerator" title="Permalink to this headline">¶</a></h1>
-<p>This module gets Gutenberg texts and wrights out nouns with related adjectives</p>
+<p>This module gets inspiring set texts and outputs nouns with related adjectives.</p>
+<p>Gutenberg and Brown corpora are currently supported. The module also generates word2vec model for inspiring set.</p>
 <dl class="function">
 <dt id="NounListGenerator.get_file">
 <code class="descclassname">NounListGenerator.</code><code class="descname">get_file</code><span class="sig-paren">(</span><em>file_name='alice.txt'</em>, <em>url='http://www.gutenberg.org/cache/epub/19033/pg19033.txt'</em><span class="sig-paren">)</span><a class="headerlink" href="#NounListGenerator.get_file" title="Permalink to this definition">¶</a></dt>
@@ -64,7 +66,7 @@
 
 <dl class="function">
 <dt id="NounListGenerator.process_sentences">
-<code class="descclassname">NounListGenerator.</code><code class="descname">process_sentences</code><span class="sig-paren">(</span><em>sentences</em><span class="sig-paren">)</span><a class="headerlink" href="#NounListGenerator.process_sentences" title="Permalink to this definition">¶</a></dt>
+<code class="descclassname">NounListGenerator.</code><code class="descname">process_sentences</code><span class="sig-paren">(</span><em>sentences</em>, <em>tokenize=True</em><span class="sig-paren">)</span><a class="headerlink" href="#NounListGenerator.process_sentences" title="Permalink to this definition">¶</a></dt>
 <dd><p>Loop sentences and process them</p>
 </dd></dl>
 
@@ -79,6 +81,7 @@
 <h3>Related Topics</h3>
 <ul>
   <li><a href="index.html">Documentation overview</a><ul>
+      <li>Previous: <a href="Model_Classes.html" title="previous chapter">Model_Classes module</a></li>
   </ul></li>
 </ul>
 </div>
