@@ -13,22 +13,16 @@ FILE_NAME = '/nouns_brown.txt'
 
 def filter_nouns(nouns):
     """
-    Filter out nouns which meet either of the following requirements:
-    - fewer than two adjectives
-    - no other nouns with a common adjective
+    Filter out nouns which has no other noun with a common adjective
 
     :param nouns: the list of nouns
     :return: the filtered list of nouns
     """
-    at_least_two_adjs = []
-    for noun in nouns:
-        if len(noun.adjectives) > 1:
-            at_least_two_adjs += [noun]
 
     matched = []
-    for noun in at_least_two_adjs:
+    for noun in nouns:
         matched_this = False
-        for other_noun in at_least_two_adjs:
+        for other_noun in nouns:
             if matched_this:
                 break
             for adj in other_noun.adjectives:
