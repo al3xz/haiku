@@ -1,4 +1,8 @@
-"""This module gets Gutenberg texts and wrights out nouns with related adjectives"""
+"""
+This module gets inspiring set texts and outputs nouns with related adjectives.
+
+Gutenberg and Brown corpora are currently supported. The module also generates word2vec model for inspiring set.
+"""
 
 import os
 import re
@@ -8,9 +12,9 @@ from gensim.models import word2vec
 from nltk.corpus import brown
 
 # TODO: comment these out once you have them
-# nltk.download('averaged_perceptron_tagger')
-# nltk.download('cmudict')
-# nltk.download('brown')
+nltk.download('averaged_perceptron_tagger')
+nltk.download('cmudict')
+nltk.download('brown')
 
 d = cmudict.dict()
 

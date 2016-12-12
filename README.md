@@ -18,12 +18,19 @@
 
 ## Installation and Requirements <a name="install"></a>
 
-No installation is required.  Just run main.py.
+The system requires NLTK and gensim libraries, 
+gensim requires SciPy package, for installation please see 
+<a href="https://www.scipy.org/install.html">Installing the SciPy Stack</a>.
+Once you have them, just run main.py.
 
 #### Requirements
 
 * Python 3.5.2
 * Creamas 0.1.1
+* NLTK 3.2.1
+* gensim 0.13.3
+* SciPy 0.18.1
+* NumPy 1.11.2
 
 ## Goals <a name="goals"></a>
 
@@ -54,7 +61,11 @@ good sign either.  What if it's just getting lucky?  We can also consider how th
 Are most haiku considered good?  Bad?  Are they often guessed unanimously?  Theses are interesting questiosn to answer, which
 can help us form an opinion on the value of the whole system.
 
-Evaluation of metaphors within the system is done by the MetaphorAgents.  They measure three related quantities: shared nouns,
+Evaluation of metaphors within the system is done by the MetaphorAgents. The evaluation has two part, that have 
+equal weights. The first part evaluates distance between nouns of metaphor using word2vec model. The more
+far away the words are, the better. That way we emphasize novelty and surprise.
+
+In the second part the agents measure three related quantities: shared nouns,
 shared adjectives, and shared pairs.  Shared nouns count how many other metaphors within the agent's memory have a noun in
 common with the metaphor under evaluation.  Shared adjectives does the same for adjectives.  Shared pairs counts the number
 which have both nouns in common.  Each of these values is given a weight, but in the current implementation, only the shared
