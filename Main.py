@@ -56,9 +56,6 @@ if __name__ == "__main__":
     nouns = [Noun.parse(line) for line in lines]
 
     word2vec_model = word2vec.Word2Vec.load(os.getcwd() + FILE_NAME + ".word2vec")
-    #state bear
-    #print(model)
-    #print(model.similarity('manager', 'allocation'))
 
     nouns = filter_nouns(nouns)
     for noun in nouns[0:200]:

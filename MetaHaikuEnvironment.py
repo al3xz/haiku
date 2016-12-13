@@ -10,13 +10,32 @@ logger.setLevel(logging.DEBUG)
 
 
 class MetaHaikuEnvironment(Environment):
+    """
+    This class is a type of Environment which can handle both metaphor and haiku agents and objects.  Both types of artifacts
+    can be candidates in the same round, and only the corresponding agents should vote on them.
+    """
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
         self.num_metaphors_accepted_per_round = kwargs.get('metaphor_winners') or 1
         self.haikus = []
 
     def vote(self, age):
-        # Implement our own voting due to two different sets of artifacts and agents
+        """
+        This method implements a custom voting process to separate metaphor and haiku candidates and collect votes from
+        the appropriate type of agents for each group.  The process is as follows:
+
+        * Separate candidates into metaphors and haiku
+        * Separate agents in MetaphorAgents and HaikuAgents
+        * Have each agent evaluate each candidate of its type.  Give each candidate a score which is the average of these
+        evaluations
+        * Apply the 50% score penalty to haiku which are guessed by 90% or more of the HaikuAgents
+        * Choose the top *self.num_metaphors_accepted_per_round* scoring metaphors as winners.  Add them to the environment
+        artifacts and print them to the log.
+        * Choose the top scoring haiku and add it to *self.haikus*.  Print it, along with some meta-information about it
+        (the number of metaphor agents which guessed it correctly and the number of metaphors used to create it)
+
+        :param age: Does nothing.  Required due to inheritance.
+        """
 
         metaphor_candidates = [cand for cand in self._candidates if cand.domain() == Metaphor]
         haiku_candidates = [cand for cand in self._candidates if cand.domain() == Haiku]
