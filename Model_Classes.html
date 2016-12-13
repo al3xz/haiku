@@ -26,6 +26,8 @@
     <script type="text/javascript" src="_static/doctools.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="NounListGenerator module" href="NounListGenerator.html" />
+    <link rel="prev" title="MetaphorMemory module" href="MetaphorMemory.html" />
    
   <link rel="stylesheet" href="_static/custom.css" type="text/css" />
   
@@ -47,10 +49,23 @@
 <dt id="Model_Classes.Haiku">
 <em class="property">class </em><code class="descclassname">Model_Classes.</code><code class="descname">Haiku</code><span class="sig-paren">(</span><em>topic</em>, <em>line_1</em>, <em>line_2</em>, <em>line_3</em>, <em>metaphors_used</em><span class="sig-paren">)</span><a class="headerlink" href="#Model_Classes.Haiku" title="Permalink to this definition">¶</a></dt>
 <dd><p>Bases: <code class="xref py py-class docutils literal"><span class="pre">object</span></code></p>
+<p>This class represents a haiku, as created by a HaikuAgent.  It has a topic (a noun), three lines (lists of words),
+and records of how many HaikuAgents have guessed it during evaluation and how many metaphors were used to create it.
+The syllable counts of the words in each line should add up to 5 for the first line, 7 for the second, and 5 again
+for the third.</p>
 <dl class="method">
 <dt id="Model_Classes.Haiku.get_str_metadata">
 <code class="descname">get_str_metadata</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#Model_Classes.Haiku.get_str_metadata" title="Permalink to this definition">¶</a></dt>
-<dd></dd></dl>
+<dd><p>Returns the <em>self.guessed_by</em> and <em>self.metaphors_used</em> data as a readable string.</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Returns:</th><td class="field-body">string of the metadata</td>
+</tr>
+</tbody>
+</table>
+</dd></dl>
 
 </dd></dl>
 
@@ -58,31 +73,73 @@
 <dt id="Model_Classes.Metaphor">
 <em class="property">class </em><code class="descclassname">Model_Classes.</code><code class="descname">Metaphor</code><span class="sig-paren">(</span><em>noun_1</em>, <em>noun_2</em>, <em>adjective</em><span class="sig-paren">)</span><a class="headerlink" href="#Model_Classes.Metaphor" title="Permalink to this definition">¶</a></dt>
 <dd><p>Bases: <code class="xref py py-class docutils literal"><span class="pre">object</span></code></p>
+<p>This class represents a metaphor, as created by a MetaphorAgent.  It relates two nouns by a shared adjective.</p>
 </dd></dl>
 
 <dl class="class">
 <dt id="Model_Classes.Noun">
 <em class="property">class </em><code class="descclassname">Model_Classes.</code><code class="descname">Noun</code><span class="sig-paren">(</span><em>word</em>, <em>syllables</em>, <em>adjectives=None</em><span class="sig-paren">)</span><a class="headerlink" href="#Model_Classes.Noun" title="Permalink to this definition">¶</a></dt>
 <dd><p>Bases: <a class="reference internal" href="#Model_Classes.Word" title="Model_Classes.Word"><code class="xref py py-class docutils literal"><span class="pre">Model_Classes.Word</span></code></a></p>
+<p>Derived from word.  Adds a list of describing adjectives.</p>
 <dl class="method">
 <dt id="Model_Classes.Noun.add_adjectives">
 <code class="descname">add_adjectives</code><span class="sig-paren">(</span><em>adjective</em><span class="sig-paren">)</span><a class="headerlink" href="#Model_Classes.Noun.add_adjectives" title="Permalink to this definition">¶</a></dt>
-<dd></dd></dl>
+<dd><p>Add to the list of describing adjectives.</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Parameters:</th><td class="field-body"><strong>adjective</strong> (<a class="reference internal" href="#Model_Classes.Word" title="Model_Classes.Word"><em>Word</em></a>) &#8211; the adjective to add.</td>
+</tr>
+</tbody>
+</table>
+</dd></dl>
 
 <dl class="method">
 <dt id="Model_Classes.Noun.full_string">
 <code class="descname">full_string</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#Model_Classes.Noun.full_string" title="Permalink to this definition">¶</a></dt>
-<dd></dd></dl>
+<dd><p>Returns the noun, including all its describing adjectives, as a string.</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Returns:</th><td class="field-body">noun: adjective adjective adjective</td>
+</tr>
+</tbody>
+</table>
+</dd></dl>
 
 <dl class="method">
 <dt id="Model_Classes.Noun.get_adjectives">
 <code class="descname">get_adjectives</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#Model_Classes.Noun.get_adjectives" title="Permalink to this definition">¶</a></dt>
-<dd></dd></dl>
+<dd><p>Returns the list of describing adjectives.  The list is shuffled first because generally this is used to get a
+random adjective.</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Returns:</th><td class="field-body">The shuffled list of adjectives.</td>
+</tr>
+</tbody>
+</table>
+</dd></dl>
 
 <dl class="staticmethod">
 <dt id="Model_Classes.Noun.parse">
 <em class="property">static </em><code class="descname">parse</code><span class="sig-paren">(</span><em>text</em><span class="sig-paren">)</span><a class="headerlink" href="#Model_Classes.Noun.parse" title="Permalink to this definition">¶</a></dt>
-<dd></dd></dl>
+<dd><p>Parse a noun object from a data file containing nouns and their describing adjectives.</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Parameters:</th><td class="field-body"><strong>text</strong> &#8211; a line of text from a data file.  Format should be:</td>
+</tr>
+</tbody>
+</table>
+<p>noun # adjective # adjective #</p>
+<p>where # is replaced by the syllable count of the preceeding word
+:return: the parsed noun</p>
+</dd></dl>
 
 </dd></dl>
 
@@ -90,6 +147,8 @@
 <dt id="Model_Classes.Word">
 <em class="property">class </em><code class="descclassname">Model_Classes.</code><code class="descname">Word</code><span class="sig-paren">(</span><em>word</em>, <em>syllables</em><span class="sig-paren">)</span><a class="headerlink" href="#Model_Classes.Word" title="Permalink to this definition">¶</a></dt>
 <dd><p>Bases: <code class="xref py py-class docutils literal"><span class="pre">object</span></code></p>
+<p>Represents a word (either a noun or adjective).  We defined our own class for this instead of just using strings
+because it needed to include the syllable count.</p>
 </dd></dl>
 
 </div>
@@ -103,6 +162,8 @@
 <h3>Related Topics</h3>
 <ul>
   <li><a href="index.html">Documentation overview</a><ul>
+      <li>Previous: <a href="MetaphorMemory.html" title="previous chapter">MetaphorMemory module</a></li>
+      <li>Next: <a href="NounListGenerator.html" title="next chapter">NounListGenerator module</a></li>
   </ul></li>
 </ul>
 </div>

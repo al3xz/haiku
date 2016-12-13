@@ -6,7 +6,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>Welcome to metahaiku’s documentation! &#8212; metahaiku 0.1 documentation</title>
+    <title>MetaHaiku &#8212; metahaiku 0.1 documentation</title>
     
     <link rel="stylesheet" href="_static/alabaster.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -42,20 +42,90 @@
         <div class="bodywrapper">
           <div class="body" role="main">
             
-  <div class="section" id="welcome-to-metahaiku-s-documentation">
-<h1>Welcome to metahaiku&#8217;s documentation!<a class="headerlink" href="#welcome-to-metahaiku-s-documentation" title="Permalink to this headline">¶</a></h1>
-<p>Metahaiku is project for automatic generation of haiku. This project is written using Python 3.5, utilizes the <a class="reference external" href="https://pypi.python.org/pypi/creamas/0.1.0">Creamas</a> multi-agent library atop of aiomas and the <a class="reference external" href="http://www.nltk.org/">NLTK</a> language processing toolkit. Ultimately, the goal is to produce valuable and surprising artifacts. The desired artifacts are Haiku which describe a topic noun without the use of that noun. Agents produce these Haiku artifacts using a secondary artifact, the metaphor, which links two nouns by their shared adjective. Metaphors, for the purpose of this project, represent a link between two nouns (topics) by an adjective (description) they both share.</p>
-<p>Example outputs:</p>
-<p>ANGEL:</p>
-<p>grows chicken graceful</p>
-<p>christmas rises graceful sparrow</p>
-<p>christmas ere joyful</p>
-<p>ELEPHANT:</p>
-<p>yo fearful is mouse</p>
-<p>grows finds strong chicken grey tree</p>
-<p>grey and strong strong and</p>
+  <div class="section" id="metahaiku">
+<h1>MetaHaiku<a class="headerlink" href="#metahaiku" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="table-of-contents">
+<h2>Table of Contents<a class="headerlink" href="#table-of-contents" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><a class="reference internal" href="#intro"><span class="std std-ref">Introduction</span></a></li>
+<li><a class="reference internal" href="#install"><span class="std std-ref">Installation and Requirements</span></a></li>
+<li><a class="reference internal" href="#goals"><span class="std std-ref">Goals</span></a></li>
+<li><a class="reference internal" href="#syseval"><span class="std std-ref">Evaluation</span></a></li>
+<li><a class="reference internal" href="#implement"><span class="std std-ref">Implementation</span></a></li>
+<li><a class="reference internal" href="#multi"><span class="std std-ref">Mult-Agent Pros and Cons</span></a></li>
+<li><a class="reference internal" href="#samples"><span class="std std-ref">Sample Output</span></a></li>
+</ul>
+</div>
+<div class="section" id="introduction">
+<span id="intro"></span><h2>Introduction<a class="headerlink" href="#introduction" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="installation-and-requirements">
+<span id="install"></span><h2>Installation and Requirements<a class="headerlink" href="#installation-and-requirements" title="Permalink to this headline">¶</a></h2>
+<p>The system requires NLTK and gensim libraries,
+gensim requires SciPy package, for installation please see <a class="reference external" href="https://www.scipy.org/install.html">Installing the SciPy Stack</a>.
+Once you have them, just run main.py.</p>
+<div class="section" id="requirements">
+<h3>Requirements<a class="headerlink" href="#requirements" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>Python 3.5.2</li>
+<li>Creamas 0.1.1</li>
+<li>NLTK 3.2.1</li>
+<li>gensim 0.13.3</li>
+<li>SciPy 0.18.1</li>
+<li>NumPy 1.11.2</li>
+</ul>
+</div>
+</div>
+<div class="section" id="goals">
+<span id="id1"></span><h2>Goals<a class="headerlink" href="#goals" title="Permalink to this headline">¶</a></h2>
+<p>The goal of MetaHaiku is to produce valuable and novel artifacts.  The type of artifact desired are haiku which allude
+to a topic, but do not directly mention that topic.  If a human observer can puzzle out what the haiku is referring to
+without it being too obvious or too difficult, the haiku is a success.</p>
+<p>A secondary goal is to make use of metaphors which are novel and valuable in creating the haiku.  We can qualitatively
+evaluate value by the &#8216;truth&#8217; of the metaphor.  Within the system the value of a metaphor is evaluated based on the similarity
+of the word2vec representations of the two nouns used.</p>
+</div>
+<div class="section" id="evaluation">
+<span id="syseval"></span><h2>Evaluation<a class="headerlink" href="#evaluation" title="Permalink to this headline">¶</a></h2>
+<p>We can consider four types of evaluation for this system: Our own evaluation of the haiku produced by
+the system, or our evaluation of the system as a whole and it&#8217;s ability to produce novel and valuable artifacts, the
+agent&#8217;s evaluations of the metaphor artifacts, and the agent&#8217;s evaluation of the haiku artifacts.</p>
+<p>To evaluate the haiku produced by the system ourselves, we use a fairly simple test.  If the topic of the haiku can be
+guessed from the content, and it isn&#8217;t too obvious, then the artifact has some value.  We could also consider the artistic
+value of the haiku- does it flow well, are words repeated too much, is there some grammatical structure; but the system
+was not designed with this sort of evaluation in mind, so it is unlikely to perform well except by luck.</p>
+<p>When considering the system as a whole and it&#8217;s ability to produce good artifacts, we need to evaluate many different haiku
+produced by the system.  Here, we are interested not only in our evaluation of the haiku by the test outlined above,
+but also the variety and average value of the haiku.  If the system produces very similar haiku over and over, it does not
+much matter how good they are.  If it produces a great haiku once in a while, but most are terrible, this may not be a very
+good sign either.  What if it&#8217;s just getting lucky?  We can also consider how the system evaluates its own input on average.
+Are most haiku considered good?  Bad?  Are they often guessed unanimously?  Theses are interesting questiosn to answer, which
+can help us form an opinion on the value of the whole system.</p>
+<p>Evaluation of metaphors within the system is done by the MetaphorAgents. The evaluation has two weighted parts: value and novelty.
+Value is based on the distance between nouns of metaphor using word2vec model. Words which are closer
+together are considered better for metaphors because there is more &#8216;truth&#8217; to their similarity.</p>
+<p>For novelty, the agents measure three related quantities: shared nouns,
+shared adjectives, and shared pairs.  Shared nouns count how many other metaphors within the agent&#8217;s memory have a noun in
+common with the metaphor under evaluation.  Shared adjectives does the same for adjectives.  Shared pairs counts the number
+which have both nouns in common.  Each of these values is given a weight, but in the current implementation, only the shared
+pairs weight is non-zero.  We found in practice that penalizing shared nouns and adjectives resulted in the metaphors being
+very spread out among the possible nouns in the input text.  This was a problem, because topics are drawn from that list,
+and if there are only one or two metaphors for each topic, the Haiku produced have little material to draw on.</p>
+<p>The HaikuAgents evaluate the haiku other HaikuAgents produce.  They consider two measures: word variety, and guess-ability.
+Word variety penalizes haiku which contain many repeated words.  This is a minor aspect of the evaluation, and represents
+a consideration of artistic flow (repeated words are less appealing in this regard).  The main portion of the evaluation
+comes from the guess score.  Evaluating a new haiku, a HaikuAgent will consider nouns and adjectives it recognizes, and
+search it&#8217;s own memory for common associations of these nouns and adjectives.  It will then come up with it&#8217;s top three
+guesses as to the topic of the haiku.  If it&#8217;s first choice is correct, the haiku is given a high evaluation by that agent.
+The second and third guesses being correct give a partial but smaller score.</p>
+<p>Although each individual HaikuAgent rates a first guess highly, if all HaikuAgents can guess the topic on the first try,
+that indicates the haiku might be too obvious.  To represent this, a penalty is applied at the environment level if 90% or
+more of the HaikuAgents guessed the haiku on their first try.</p>
+</div>
+<div class="section" id="implementation">
+<span id="implement"></span><h2>Implementation<a class="headerlink" href="#implementation" title="Permalink to this headline">¶</a></h2>
 <div class="toctree-wrapper compound">
-<p class="caption"><span class="caption-text">Contents:</span></p>
+<p class="caption"><span class="caption-text">Modules:</span></p>
 <ul>
 <li class="toctree-l1"><a class="reference internal" href="HaikuAgent.html">HaikuAgent module</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Main.html">Main module</a></li>
@@ -67,13 +137,63 @@
 </ul>
 </div>
 </div>
-<div class="section" id="indices-and-tables">
-<h1>Indices and tables<a class="headerlink" href="#indices-and-tables" title="Permalink to this headline">¶</a></h1>
-<ul class="simple">
-<li><a class="reference internal" href="genindex.html"><span class="std std-ref">Index</span></a></li>
-<li><a class="reference internal" href="py-modindex.html"><span class="std std-ref">Module Index</span></a></li>
-<li><a class="reference internal" href="search.html"><span class="std std-ref">Search Page</span></a></li>
-</ul>
+<div class="section" id="mult-agent-pros-and-cons">
+<span id="multi"></span><h2>Mult-Agent Pros and Cons<a class="headerlink" href="#mult-agent-pros-and-cons" title="Permalink to this headline">¶</a></h2>
+<p>We can consider the pros and cons of having a multi-agent system for MetaphorAgents and HaikuAgents separately.</p>
+<p>For MetaphorAgents, a single agent system would have been plausible.  On the pro side, we have the possibility to give
+different MetaphorAgents different inspiring sets and the ability to distribute the problem of remembering what metaphors
+have been created before.  Instead of search one giant list of memory, we have several smaller memories.  As the MetaphorAgent&#8217;s
+memories fill up and they start forgetting different things, they differentiate from each other, producing more specialized
+metaphors.  This gives us more chances to get to an interesting state.</p>
+<p>On the con side, there is a cost in the complexity of the system.  It&#8217;s harder to understand exactly what&#8217;s going on.  Why
+did a certain metaphor get a better score than another? The answer requires understanding the memories of many different agents.
+We also pay a performance cost in that each MetaphorAgent must remember and evaluate new Metaphors separately.</p>
+<p>For HaikuAgents, the multi-agent setup is required for our evaluation scheme.  To check whether others could guess the Haiku
+topic, we need to have <em>others</em>.  It is also very important that our HaikuAgents can differentiate themselves.  If they all
+have the same memory (as they do at the beggining of the simulation), they will all have the same guesses for a given Haiku.
+As their memories fill up and they differentiate by forgetting different older metaphors, the guessing evaluation becomes much
+more interesting.  Most winning haikus are guessed by 2-4 of the 5 HaikuAgents in our normal simulation setup.</p>
+</div>
+<div class="section" id="sample-output">
+<span id="samples"></span><h2>Sample Output<a class="headerlink" href="#sample-output" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="share">
+<h3>SHARE:<a class="headerlink" href="#share" title="Permalink to this headline">¶</a></h3>
+<p>is how solace grows</p>
+<p>solace small small ere solace</p>
+<p>small looms solace such</p>
+<p>Guessed by 5</p>
+<p>1 metaphors used</p>
+<p>There is a definite correlation between the number of metaphors used and the guess-ability of the haiku.  Here we see an example
+with only one metaphor which was guessed by all five.</p>
+</div>
+<div class="section" id="front">
+<h3>FRONT:<a class="headerlink" href="#front" title="Permalink to this headline">¶</a></h3>
+<p>own wage own epic</p>
+<p>wage is technology of</p>
+<p>mine own how and how</p>
+<p>Guessed by 4</p>
+<p>11 metaphors used</p>
+<p>An example of a Haiku with many metaphors used.  This one was guessed by most of the HaikuAgents.  Another thing to note about this
+haiku is the use of the generic adjective &#8216;own&#8217;.  This is very common, as &#8216;own&#8217; can be used to describe many different nouns.  We
+have considered filtering it out to avoid seeing it so much, as it provides very little meaning to a human observer, and ultimately
+we want to produce artifacts that are interesting to us more than to the Agents.</p>
+</div>
+<div class="section" id="metaphor-examples">
+<h3>Metaphor Examples:<a class="headerlink" href="#metaphor-examples" title="Permalink to this headline">¶</a></h3>
+<p>antenna is as outside as a help</p>
+<p>push is as big as a night</p>
+<p>disappointment is as great as a leap</p>
+<p>efficiency is as physical as a mean</p>
+<p>era is as new as a well</p>
+<p>relation is as common as a good</p>
+<p>well is as small as a drum</p>
+<p>care is as good as a professor</p>
+<p>traveler is as such as a heard</p>
+<p>heard is as such as a variation</p>
+<p>A selection of metaphors generated by our MetaphorAgents.  We can see the problem of generic adjectives is significant, with
+&#8216;new&#8217;, &#8216;good&#8217;, and &#8216;such&#8217; providing very little information.  This is something we would have liked to improve on.</p>
+</div>
+</div>
 </div>
 
 
@@ -84,8 +204,25 @@
         <div class="sphinxsidebarwrapper">
   <h3><a href="#">Table Of Contents</a></h3>
   <ul>
-<li><a class="reference internal" href="#">Welcome to metahaiku&#8217;s documentation!</a></li>
-<li><a class="reference internal" href="#indices-and-tables">Indices and tables</a></li>
+<li><a class="reference internal" href="#">MetaHaiku</a><ul>
+<li><a class="reference internal" href="#table-of-contents">Table of Contents</a></li>
+<li><a class="reference internal" href="#introduction">Introduction</a></li>
+<li><a class="reference internal" href="#installation-and-requirements">Installation and Requirements</a><ul>
+<li><a class="reference internal" href="#requirements">Requirements</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#goals">Goals</a></li>
+<li><a class="reference internal" href="#evaluation">Evaluation</a></li>
+<li><a class="reference internal" href="#implementation">Implementation</a></li>
+<li><a class="reference internal" href="#mult-agent-pros-and-cons">Mult-Agent Pros and Cons</a></li>
+<li><a class="reference internal" href="#sample-output">Sample Output</a><ul>
+<li><a class="reference internal" href="#share">SHARE:</a></li>
+<li><a class="reference internal" href="#front">FRONT:</a></li>
+<li><a class="reference internal" href="#metaphor-examples">Metaphor Examples:</a></li>
+</ul>
+</li>
+</ul>
+</li>
 </ul>
 <div class="relations">
 <h3>Related Topics</h3>

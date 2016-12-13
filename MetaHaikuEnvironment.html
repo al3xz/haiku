@@ -26,6 +26,8 @@
     <script type="text/javascript" src="_static/doctools.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="MetaphorAgent module" href="MetaphorAgent.html" />
+    <link rel="prev" title="Main module" href="Main.html" />
    
   <link rel="stylesheet" href="_static/custom.css" type="text/css" />
   
@@ -47,10 +49,33 @@
 <dt id="MetaHaikuEnvironment.MetaHaikuEnvironment">
 <em class="property">class </em><code class="descclassname">MetaHaikuEnvironment.</code><code class="descname">MetaHaikuEnvironment</code><span class="sig-paren">(</span><em>*args</em>, <em>**kwargs</em><span class="sig-paren">)</span><a class="headerlink" href="#MetaHaikuEnvironment.MetaHaikuEnvironment" title="Permalink to this definition">¶</a></dt>
 <dd><p>Bases: <code class="xref py py-class docutils literal"><span class="pre">creamas.core.environment.Environment</span></code></p>
+<p>This class is a type of Environment which can handle both metaphor and haiku agents and objects.  Both types of artifacts
+can be candidates in the same round, and only the corresponding agents should vote on them.</p>
 <dl class="method">
 <dt id="MetaHaikuEnvironment.MetaHaikuEnvironment.vote">
 <code class="descname">vote</code><span class="sig-paren">(</span><em>age</em><span class="sig-paren">)</span><a class="headerlink" href="#MetaHaikuEnvironment.MetaHaikuEnvironment.vote" title="Permalink to this definition">¶</a></dt>
-<dd></dd></dl>
+<dd><p>This method implements a custom voting process to separate metaphor and haiku candidates and collect votes from
+the appropriate type of agents for each group.  The process is as follows:</p>
+<ul class="simple">
+<li>Separate candidates into metaphors and haiku</li>
+<li>Separate agents in MetaphorAgents and HaikuAgents</li>
+<li>Have each agent evaluate each candidate of its type.  Give each candidate a score which is the average of these</li>
+</ul>
+<p>evaluations
+* Apply the 50% score penalty to haiku which are guessed by 90% or more of the HaikuAgents
+* Choose the top <em>self.num_metaphors_accepted_per_round</em> scoring metaphors as winners.  Add them to the environment
+artifacts and print them to the log.
+* Choose the top scoring haiku and add it to <em>self.haikus</em>.  Print it, along with some meta-information about it
+(the number of metaphor agents which guessed it correctly and the number of metaphors used to create it)</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Parameters:</th><td class="field-body"><strong>age</strong> &#8211; Does nothing.  Required due to inheritance.</td>
+</tr>
+</tbody>
+</table>
+</dd></dl>
 
 </dd></dl>
 
@@ -65,6 +90,8 @@
 <h3>Related Topics</h3>
 <ul>
   <li><a href="index.html">Documentation overview</a><ul>
+      <li>Previous: <a href="Main.html" title="previous chapter">Main module</a></li>
+      <li>Next: <a href="MetaphorAgent.html" title="next chapter">MetaphorAgent module</a></li>
   </ul></li>
 </ul>
 </div>

@@ -55,6 +55,7 @@
 <dd><p class="first">SHARED_SCORE_EVAL_WEIGHT    The weight given to the score for metaphors with both nouns in common used when evaluating a new metaphor</p>
 <p>NOUN_SCORE_EVAL_WEIGHT      The weight given to the score for metaphors with one noun in common used when evaluating a new metaphor</p>
 <p>ADJ_SCORE_EVAL_WEIGHT       The weight given to the score for metaphors with the adjective in common used when evaluating a new metaphor</p>
+<p>W2V_CLOSENESS_EVAL_WEIGHT   The weight given to the score for the word2vec distance between the two nouns used when evaluating a new metaphor</p>
 <p class="last">INVENT_TRIES                The number of metaphors to generate and evaluate before submitting the best as a candidate</p>
 </dd>
 </dl>
@@ -76,6 +77,11 @@
 <dl class="attribute">
 <dt id="MetaphorAgent.MetaphorAgent.SHARED_SCORE_EVAL_WEIGHT">
 <code class="descname">SHARED_SCORE_EVAL_WEIGHT</code><em class="property"> = 1</em><a class="headerlink" href="#MetaphorAgent.MetaphorAgent.SHARED_SCORE_EVAL_WEIGHT" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="attribute">
+<dt id="MetaphorAgent.MetaphorAgent.W2V_CLOSENESS_EVAL_WEIGHT">
+<code class="descname">W2V_CLOSENESS_EVAL_WEIGHT</code><em class="property"> = 1</em><a class="headerlink" href="#MetaphorAgent.MetaphorAgent.W2V_CLOSENESS_EVAL_WEIGHT" title="Permalink to this definition">¶</a></dt>
 <dd></dd></dl>
 
 <dl class="method">
@@ -109,12 +115,14 @@ new :class:&#8217;Metaphor&#8217; and enters it as a candidate.</p>
 <dl class="method">
 <dt id="MetaphorAgent.MetaphorAgent.eval_metaphor">
 <code class="descname">eval_metaphor</code><span class="sig-paren">(</span><em>metaphor</em><span class="sig-paren">)</span><a class="headerlink" href="#MetaphorAgent.MetaphorAgent.eval_metaphor" title="Permalink to this definition">¶</a></dt>
-<dd><p>Evaluate a metaphor by calculating four scores and taking their weighted sum.</p>
+<dd><p>Evaluate a metaphor by calculating five scores and taking their weighted sum.</p>
 <p>The first two scores are the noun scores.  One for each of the metaphor&#8217;s nouns.  These are returned by count_noun_metaphors(),
 and indicate the number of metaphors in memory which include the noun.</p>
 <p>The shared_count score is also returned by count_noun_metaphors(), and indicates the number of metaphors in memory which
 include both nouns in the metaphor being evaluated.</p>
 <p>The adjective score is indicates the number of metaphors in memory which use the same adjective as the metaphor being evaluated.</p>
+<p>The w2v closeness score is a measure of how close the two nouns are according to their word2vec representation.  This is a
+measure of the value or &#8216;truth&#8217; of the metaphor.</p>
 <table class="docutils field-list" frame="void" rules="none">
 <col class="field-name" />
 <col class="field-body" />

@@ -49,45 +49,80 @@
 <dt id="MetaphorMemory.MetaphorMemory">
 <em class="property">class </em><code class="descclassname">MetaphorMemory.</code><code class="descname">MetaphorMemory</code><span class="sig-paren">(</span><em>capacity</em><span class="sig-paren">)</span><a class="headerlink" href="#MetaphorMemory.MetaphorMemory" title="Permalink to this definition">¶</a></dt>
 <dd><p>Bases: <code class="xref py py-class docutils literal"><span class="pre">object</span></code></p>
+<p>This class represents an agent&#8217;s memory of metaphors it has encountered.</p>
 <dl class="attribute">
 <dt id="MetaphorMemory.MetaphorMemory.adjective_counts">
 <code class="descname">adjective_counts</code><a class="headerlink" href="#MetaphorMemory.MetaphorMemory.adjective_counts" title="Permalink to this definition">¶</a></dt>
-<dd></dd></dl>
+<dd><dl class="docutils">
+<dt>Returns a dict containing all adjectives used in the metaphors in the memory and count of how many times those</dt>
+<dd>adjectives are used.</dd>
+</dl>
+</dd></dl>
 
 <dl class="attribute">
 <dt id="MetaphorMemory.MetaphorMemory.capacity">
 <code class="descname">capacity</code><a class="headerlink" href="#MetaphorMemory.MetaphorMemory.capacity" title="Permalink to this definition">¶</a></dt>
-<dd></dd></dl>
+<dd><p>Returns the maximum number of metaphors which can be stored in the memory.  If new metaphors are memorized while
+at capacity, a random old metaphor will be forgotten.</p>
+</dd></dl>
 
 <dl class="method">
 <dt id="MetaphorMemory.MetaphorMemory.contains">
 <code class="descname">contains</code><span class="sig-paren">(</span><em>metaphor</em><span class="sig-paren">)</span><a class="headerlink" href="#MetaphorMemory.MetaphorMemory.contains" title="Permalink to this definition">¶</a></dt>
-<dd></dd></dl>
+<dd><p>A method to check whether a metaphor is in the memory already.  Note that metaphor equality is determined by
+having the same nouns and adjective, not by object id.  The order of the nouns may also be reversed.</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Parameters:</th><td class="field-body"><strong>metaphor</strong> &#8211; The metaphor to check for.</td>
+</tr>
+<tr class="field-even field"><th class="field-name">Returns:</th><td class="field-body">True if the memory contains that metaphor, false otherwise.</td>
+</tr>
+</tbody>
+</table>
+</dd></dl>
 
 <dl class="attribute">
 <dt id="MetaphorMemory.MetaphorMemory.count">
 <code class="descname">count</code><a class="headerlink" href="#MetaphorMemory.MetaphorMemory.count" title="Permalink to this definition">¶</a></dt>
-<dd></dd></dl>
+<dd><p>The number of metaphors currently memorized.</p>
+</dd></dl>
 
 <dl class="method">
 <dt id="MetaphorMemory.MetaphorMemory.forget">
 <code class="descname">forget</code><span class="sig-paren">(</span><em>metaphor</em><span class="sig-paren">)</span><a class="headerlink" href="#MetaphorMemory.MetaphorMemory.forget" title="Permalink to this definition">¶</a></dt>
-<dd></dd></dl>
+<dd><p>Removes the given metaphor from the memory.  Will throw a KeyNotFoundException if that metaphor does not
+exist in the memory.</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Parameters:</th><td class="field-body"><strong>metaphor</strong> &#8211; The metaphor to remove</td>
+</tr>
+</tbody>
+</table>
+</dd></dl>
 
 <dl class="method">
 <dt id="MetaphorMemory.MetaphorMemory.get_random_metaphor">
 <code class="descname">get_random_metaphor</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#MetaphorMemory.MetaphorMemory.get_random_metaphor" title="Permalink to this definition">¶</a></dt>
-<dd></dd></dl>
+<dd><p>Returns a random metaphor from the memory.</p>
+</dd></dl>
 
 <dl class="method">
 <dt id="MetaphorMemory.MetaphorMemory.memorize">
 <code class="descname">memorize</code><span class="sig-paren">(</span><em>metaphor</em><span class="sig-paren">)</span><a class="headerlink" href="#MetaphorMemory.MetaphorMemory.memorize" title="Permalink to this definition">¶</a></dt>
-<dd></dd></dl>
+<dd><p>Adds a metaphor to the memory.  If the memory is at capacity before this is called, a random metaphor will be
+forgotten first.</p>
+</dd></dl>
 
 <dl class="attribute">
 <dt id="MetaphorMemory.MetaphorMemory.metaphor_lookup">
 <code class="descname">metaphor_lookup</code><a class="headerlink" href="#MetaphorMemory.MetaphorMemory.metaphor_lookup" title="Permalink to this definition">¶</a></dt>
-<dd></dd></dl>
+<dd><p>Returns the metaphor memory.  The structure allows two nouns to be used in either order as
+keys to return a list of metaphors which link those two nouns.</p>
+</dd></dl>
 
 </dd></dl>
 
