@@ -16,6 +16,8 @@ class MetaphorAgent(CreativeAgent):
 
         ADJ_SCORE_EVAL_WEIGHT       The weight given to the score for metaphors with the adjective in common used when evaluating a new metaphor
 
+        W2V_CLOSENESS_EVAL_WEIGHT   The weight given to the score for the word2vec distance between the two nouns used when evaluating a new metaphor
+
         INVENT_TRIES                The number of metaphors to generate and evaluate before submitting the best as a candidate
     """
     def __init__(self, env, nouns, word2vec_model, mem_cap=100):
@@ -32,6 +34,7 @@ class MetaphorAgent(CreativeAgent):
     SHARED_SCORE_EVAL_WEIGHT = 1
     NOUN_SCORE_EVAL_WEIGHT = 0
     ADJ_SCORE_EVAL_WEIGHT = 0
+    W2V_CLOSENESS_EVAL_WEIGHT = 1
 
     INVENT_TRIES = 10
 
@@ -124,7 +127,7 @@ class MetaphorAgent(CreativeAgent):
 
     def eval_metaphor(self, metaphor):
         """
-        Evaluate a metaphor by calculating four scores and taking their weighted sum.
+        Evaluate a metaphor by calculating five scores and taking their weighted sum.
 
         The first two scores are the noun scores.  One for each of the metaphor's nouns.  These are returned by count_noun_metaphors(),
         and indicate the number of metaphors in memory which include the noun.
@@ -134,28 +137,27 @@ class MetaphorAgent(CreativeAgent):
 
         The adjective score is indicates the number of metaphors in memory which use the same adjective as the metaphor being evaluated.
 
+        The w2v closeness score is a measure of how close the two nouns are according to their word2vec representation.  This is a
+        measure of the value or 'truth' of the metaphor.
+
         :param metaphor: The metaphor to be evaluated
         :return: The evaluation score for the metaphor
         """
 
-        # TODO: (1 - word2vec_distance) for novelty, word2vec_distance for commonality
-        word2vec_distance = 1 - self.word2vec_model.similarity(metaphor.noun_1.word, metaphor.noun_2.word)
+        w2v_score = self.word2vec_model.similarity(metaphor.noun_1.word, metaphor.noun_2.word)
 
+        # Metaphors we've seen before exactly are completelty uninteresting
         if self.memory.contains(metaphor):
-            # TODO: check this
-            return word2vec_distance # 0
-
-        # Hard to evaluate the 'truth' of a metaphor without a model of the world that is well beyond the capability
-        # of this algorithm.  Instead, focus on surprise/novelty.
+            return 0
 
         noun1_count, shared_count = self.count_noun_metaphors(metaphor.noun_1, metaphor.noun_2)
         noun2_count, _ = self.count_noun_metaphors(metaphor.noun_2, metaphor.noun_1)
         adj_count = self.memory.adjective_counts.get(metaphor.adjective) or 0
         total_count = float(self.memory.count)
 
+        # If there are no other metaphors in memory, we can only rely on the w2v score
         if total_count == 0:
-            # TODO: check this
-            return word2vec_distance # 1
+            return w2v_score
 
         noun1_score = 1 - (noun1_count / total_count)
         noun2_score = 1 - (noun2_count / total_count)
@@ -165,9 +167,11 @@ class MetaphorAgent(CreativeAgent):
         nominator = ((MetaphorAgent.SHARED_SCORE_EVAL_WEIGHT * shared_score)
                      + (MetaphorAgent.NOUN_SCORE_EVAL_WEIGHT * noun1_score)
                      + (MetaphorAgent.NOUN_SCORE_EVAL_WEIGHT * noun2_score)
-                     + (MetaphorAgent.ADJ_SCORE_EVAL_WEIGHT * adj_score))
+                     + (MetaphorAgent.ADJ_SCORE_EVAL_WEIGHT * adj_score)
+                     + (MetaphorAgent.W2V_CLOSENESS_EVAL_WEIGHT * w2v_score))
         denominator = (MetaphorAgent.SHARED_SCORE_EVAL_WEIGHT
                        + (2 * MetaphorAgent.NOUN_SCORE_EVAL_WEIGHT)
-                       + MetaphorAgent.ADJ_SCORE_EVAL_WEIGHT)
+                       + MetaphorAgent.ADJ_SCORE_EVAL_WEIGHT
+                       + MetaphorAgent.W2V_CLOSENESS_EVAL_WEIGHT)
 
-        return (word2vec_distance + (nominator / denominator)) / 2
+        return (nominator / denominator)
