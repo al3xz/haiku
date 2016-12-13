@@ -91,3 +91,6 @@ ENV/
 # pycharm
 .idea/*
 .idea/workspace.xml
+
+# sphinx
+docs/bin
