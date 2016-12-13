@@ -150,7 +150,7 @@ class HaikuAgent(CreativeAgent):
                     candidate_scores[metaphor] += 1
 
         topic_scores = dict()
-        for cand in candidate_scores:
+        for cand in candidate_scores.keys():
             if cand.noun_2 not in topic_scores.keys():
                 topic_scores[cand.noun_2] = 0
             topic_scores[cand.noun_2] += candidate_scores[cand]
